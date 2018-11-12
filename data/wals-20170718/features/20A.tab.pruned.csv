@@ -1,0 +1,166 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+abi	Abipón	1	Exclusively concatenative	-29.0	-61.0	South Guaicuruan	Guaicuruan	Morphology
+abk	Abkhaz	1	Exclusively concatenative	43.0833333333	41.0	Northwest Caucasian	Northwest Caucasian	Morphology
+aco	Acoma	1	Exclusively concatenative	34.9166666667	-107.583333333	Keresan	Keresan	Morphology
+ala	Alamblak	1	Exclusively concatenative	-4.66666666667	143.333333333	Sepik Hill	Sepik	Morphology
+ame	Amele	1	Exclusively concatenative	-5.25	145.583333333	Madang	Trans-New Guinea	Morphology
+apu	Apurinã	1	Exclusively concatenative	-9.0	-67.0	Purus	Arawakan	Morphology
+aeg	Arabic (Egyptian)	6	Ablaut/concatenative	30.0	31.0	Semitic	Afro-Asiatic	Morphology
+ana	Araona	1	Exclusively concatenative	-12.3333333333	-67.75	Tacanan	Tacanan	Morphology
+arp	Arapesh (Mountain)	1	Exclusively concatenative	-3.46666666667	143.166666667	Kombio-Arapesh	Torricelli	Morphology
+amp	Arrernte (Mparntwe)	1	Exclusively concatenative	-24.0	136.0	Central Pama-Nyungan	Pama-Nyungan	Morphology
+asm	Asmat	1	Exclusively concatenative	-5.5	138.5	Asmat-Kamoro	Trans-New Guinea	Morphology
+atk	Atakapa	1	Exclusively concatenative	30.0	-93.5	Atakapa	Atakapa	Morphology
+awp	Awa Pit	1	Exclusively concatenative	1.5	-78.25	Barbacoan	Barbacoan	Morphology
+aym	Aymara (Central)	1	Exclusively concatenative	-17.0	-69.0	Aymaran	Aymaran	Morphology
+bag	Bagirmi	1	Exclusively concatenative	11.6666666667	16.0	Bongo-Bagirmi	Central Sudanic	Morphology
+bnj	Bandjalang	1	Exclusively concatenative	-28.75	153.0	Southeastern Pama-Nyungan	Pama-Nyungan	Morphology
+brs	Barasano	1	Exclusively concatenative	-0.166666666667	-70.6666666667	Tucanoan	Tucanoan	Morphology
+bsq	Basque	1	Exclusively concatenative	43.0	-3.0	Basque	Basque	Morphology
+bej	Beja	6	Ablaut/concatenative	18.0	36.0	Beja	Afro-Asiatic	Morphology
+bel	Belhare	1	Exclusively concatenative	26.9666666667	87.3	Mahakiranti	Sino-Tibetan	Morphology
+bma	Berber (Middle Atlas)	6	Ablaut/concatenative	33.0	-5.0	Berber	Afro-Asiatic	Morphology
+bbw	Bininj Gun-Wok	1	Exclusively concatenative	-12.5	133.75	Gunwinygic	Gunwinyguan	Morphology
+brh	Brahui	1	Exclusively concatenative	28.5	67.0	Northern Dravidian	Dravidian	Morphology
+brm	Burmese	1	Exclusively concatenative	21.0	96.0	Burmese-Lolo	Sino-Tibetan	Morphology
+bur	Burushaski	1	Exclusively concatenative	36.5	74.5	Burushaski	Burushaski	Morphology
+cah	Cahuilla	1	Exclusively concatenative	33.5	-116.25	California Uto-Aztecan	Uto-Aztecan	Morphology
+ckr	Canela-Krahô	1	Exclusively concatenative	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Morphology
+cyv	Cayuvava	1	Exclusively concatenative	-13.5	-65.5	Cayuvava	Cayuvava	Morphology
+cha	Chamorro	7	Isolating/concatenative	13.45	144.75	Chamorro	Austronesian	Morphology
+cku	Chinook (Upper)	1	Exclusively concatenative	45.5	-122.5	Chinookan	Penutian	Morphology
+cho	Chontal (Highland)	1	Exclusively concatenative	16.25	-95.75	Tequistlatecan	Tequistlatecan	Morphology
+chk	Chukchi	1	Exclusively concatenative	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Morphology
+ccp	Cocopa	1	Exclusively concatenative	32.3333333333	-115.0	Yuman	Hokan	Morphology
+coo	Coos (Hanis)	1	Exclusively concatenative	43.5	-124.166666667	Coosan	Oregon Coast	Morphology
+cre	Cree (Plains)	7	Isolating/concatenative	54.0	-110.0	Algonquian	Algic	Morphology
+dag	Daga	1	Exclusively concatenative	-10.0	149.333333333	Dagan	Dagan	Morphology
+dni	Dani (Lower Grand Valley)	1	Exclusively concatenative	-4.33333333333	138.833333333	Dani	Trans-New Guinea	Morphology
+dig	Digaro	1	Exclusively concatenative	28.4166666667	96.0	Digaroan	Sino-Tibetan	Morphology
+eka	Ekari	1	Exclusively concatenative	-3.83333333333	135.5	Wissel Lakes-Kemandoga	Trans-New Guinea	Morphology
+eng	English	1	Exclusively concatenative	52.0	0.0	Germanic	Indo-European	Morphology
+epe	Epena Pedee	1	Exclusively concatenative	3.0	-77.0	Choco	Choco	Morphology
+eve	Evenki	1	Exclusively concatenative	56.0	125.0	Tungusic	Altaic	Morphology
+fij	Fijian	2	Exclusively isolating	-17.8333333333	178.0	Oceanic	Austronesian	Morphology
+fin	Finnish	1	Exclusively concatenative	62.0	25.0	Finnic	Uralic	Morphology
+fre	French	1	Exclusively concatenative	48.0	2.0	Romance	Indo-European	Morphology
+gar	Garo	1	Exclusively concatenative	25.6666666667	90.5	Bodo-Garo	Sino-Tibetan	Morphology
+geo	Georgian	1	Exclusively concatenative	42.0	44.0	Kartvelian	Kartvelian	Morphology
+ger	German	1	Exclusively concatenative	52.0	10.0	Germanic	Indo-European	Morphology
+goo	Gooniyandi	7	Isolating/concatenative	-18.3333333333	126.333333333	Bunuban	Bunuban	Morphology
+grb	Grebo	1	Exclusively concatenative	5.0	-8.0	Kru	Niger-Congo	Morphology
+grk	Greek (Modern)	1	Exclusively concatenative	39.0	22.0	Greek	Indo-European	Morphology
+grw	Greenlandic (West)	1	Exclusively concatenative	64.0	-51.0	Eskimo	Eskimo-Aleut	Morphology
+gua	Guaraní	1	Exclusively concatenative	-26.0	-56.0	Tupi-Guaraní	Tupian	Morphology
+hai	Haida	1	Exclusively concatenative	53.0	-132.0	Haida	Haida	Morphology
+hat	Hatam	1	Exclusively concatenative	-1.0	134.0	Hatam	West Papuan	Morphology
+hau	Hausa	2	Exclusively isolating	12.0	7.0	West Chadic	Afro-Asiatic	Morphology
+heb	Hebrew (Modern)	6	Ablaut/concatenative	31.5	34.8333333333	Semitic	Afro-Asiatic	Morphology
+hin	Hindi	1	Exclusively concatenative	25.0	77.0	Indic	Indo-European	Morphology
+hix	Hixkaryana	1	Exclusively concatenative	-1.0	-59.0	Cariban	Cariban	Morphology
+hmo	Hmong Njua	2	Exclusively isolating	28.0	105.0	Hmong-Mien	Hmong-Mien	Morphology
+hve	Huave (San Mateo del Mar)	1	Exclusively concatenative	16.2166666667	-95.0	Huavean	Huavean	Morphology
+hun	Hungarian	1	Exclusively concatenative	47.0	20.0	Ugric	Uralic	Morphology
+hzb	Hunzib	1	Exclusively concatenative	42.1666666667	46.25	Avar-Andic-Tsezic	Nakh-Daghestanian	Morphology
+iau	Iau	3	Exclusively tonal	-3.16666666667	137.5	Lakes Plain	Lakes Plain	Morphology
+imo	Imonda	1	Exclusively concatenative	-3.33333333333	141.166666667	Border	Border	Morphology
+ind	Indonesian	2	Exclusively isolating	0.0	106.0	Malayo-Sumbawan	Austronesian	Morphology
+ing	Ingush	1	Exclusively concatenative	43.1666666667	45.0833333333	Nakh	Nakh-Daghestanian	Morphology
+jak	Jakaltek	1	Exclusively concatenative	15.6666666667	-91.6666666667	Mayan	Mayan	Morphology
+jpn	Japanese	1	Exclusively concatenative	37.0	140.0	Japanese	Japanese	Morphology
+jel	Jeli	2	Exclusively isolating	9.5	-5.66666666667	Western Mande	Mande	Morphology
+knd	Kannada	1	Exclusively concatenative	14.0	76.0	Southern Dravidian	Dravidian	Morphology
+krk	Karok	1	Exclusively concatenative	41.6666666667	-123.0	Karok	Karok	Morphology
+kay	Kayardild	1	Exclusively concatenative	-17.05	139.5	Tangkic	Tangkic	Morphology
+ket	Ket	1	Exclusively concatenative	64.0	87.0	Yeniseian	Yeniseian	Morphology
+kew	Kewa	1	Exclusively concatenative	-6.5	143.833333333	Engan	Trans-New Guinea	Morphology
+kha	Khalkha	1	Exclusively concatenative	47.0	105.0	Mongolic	Altaic	Morphology
+khs	Khasi	2	Exclusively isolating	25.5	92.0	Khasian	Austro-Asiatic	Morphology
+kho	Khoekhoe	7	Isolating/concatenative	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Morphology
+kio	Kiowa	1	Exclusively concatenative	37.0	-99.0	Kiowa-Tanoan	Kiowa-Tanoan	Morphology
+kri	Kipea	2	Exclusively isolating	-10.0	-37.0	Kariri	Kariri	Morphology
+kis	Kisi	3	Exclusively tonal	8.83333333333	-10.1666666667	Mel	Niger-Congo	Morphology
+kiw	Kiwai	1	Exclusively concatenative	-8.0	143.5	Kiwaian	Kiwaian	Morphology
+koa	Koasati	1	Exclusively concatenative	34.8333333333	-85.1666666667	Muskogean	Muskogean	Morphology
+koi	Koiari	1	Exclusively concatenative	-9.5	147.333333333	Koiarian	Trans-New Guinea	Morphology
+kor	Korean	1	Exclusively concatenative	37.5	128.0	Korean	Korean	Morphology
+kch	Koyra Chiini	2	Exclusively isolating	17.0	-3.0	Songhay	Songhay	Morphology
+kro	Krongo	1	Exclusively concatenative	10.5	30.0	Kadugli	Kadu	Morphology
+knm	Kunama	7	Isolating/concatenative	14.5	37.0	Kunama	Kunama	Morphology
+kut	Kutenai	1	Exclusively concatenative	49.5	-116.0	Kutenai	Kutenai	Morphology
+lah	Lahu	2	Exclusively isolating	20.0	98.1666666667	Burmese-Lolo	Sino-Tibetan	Morphology
+lai	Lai	2	Exclusively isolating	22.6666666667	93.6666666667	Kuki-Chin	Sino-Tibetan	Morphology
+lkt	Lakhota	7	Isolating/concatenative	43.8333333333	-101.833333333	Core Siouan	Siouan	Morphology
+lan	Lango	3	Exclusively tonal	2.16666666667	33.0	Nilotic	Eastern Sudanic	Morphology
+lav	Lavukaleve	1	Exclusively concatenative	-9.08333333333	159.2	Lavukaleve	Solomons East Papuan	Morphology
+lez	Lezgian	1	Exclusively concatenative	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Morphology
+lug	Lugbara	6	Ablaut/concatenative	3.08333333333	30.9166666667	Moru-Ma'di	Central Sudanic	Morphology
+luv	Luvale	1	Exclusively concatenative	-12.0	22.0	Bantoid	Niger-Congo	Morphology
+maa	Maasai	5	Tonal/concatenative	-3.0	36.0	Nilotic	Eastern Sudanic	Morphology
+mal	Malagasy	1	Exclusively concatenative	-20.0	47.0	Barito	Austronesian	Morphology
+mnd	Mandarin	7	Isolating/concatenative	34.0	110.0	Chinese	Sino-Tibetan	Morphology
+myi	Mangarrayi	1	Exclusively concatenative	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Morphology
+mao	Maori	7	Isolating/concatenative	-40.0	176.0	Oceanic	Austronesian	Morphology
+map	Mapudungun	1	Exclusively concatenative	-38.0	-72.0	Araucanian	Araucanian	Morphology
+mar	Maricopa	1	Exclusively concatenative	33.1666666667	-113.166666667	Yuman	Hokan	Morphology
+mrt	Martuthunira	1	Exclusively concatenative	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Morphology
+mau	Maung	1	Exclusively concatenative	-11.9166666667	133.5	Iwaidjan	Iwaidjan	Morphology
+may	Maybrat	1	Exclusively concatenative	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Morphology
+mei	Meithei	1	Exclusively concatenative	24.75	94.0	Kuki-Chin	Sino-Tibetan	Morphology
+mss	Miwok (Southern Sierra)	1	Exclusively concatenative	37.5	-120.0	Miwok	Penutian	Morphology
+mxc	Mixtec (Chalcatongo)	1	Exclusively concatenative	17.05	-97.5833333333	Mixtecan	Oto-Manguean	Morphology
+mot	Motuna	1	Exclusively concatenative	-6.61666666667	155.416666667	East Bougainville	East Bougainville	Morphology
+mun	Mundari	1	Exclusively concatenative	23.0	84.6666666667	Munda	Austro-Asiatic	Morphology
+nah	Nahali	1	Exclusively concatenative	19.75	77.8333333333	Nahali	Nahali	Morphology
+nmb	Nambikuára (Southern)	1	Exclusively concatenative	-14.0	-59.5	Nambikuaran	Nambikuaran	Morphology
+nan	Nandi	5	Tonal/concatenative	0.25	35.0	Nilotic	Eastern Sudanic	Morphology
+nav	Navajo	1	Exclusively concatenative	36.1666666667	-108.0	Athapaskan	Na-Dene	Morphology
+nen	Nenets	1	Exclusively concatenative	69.0	72.0	Samoyedic	Uralic	Morphology
+ngi	Ngiyambaa	1	Exclusively concatenative	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Morphology
+niv	Nivkh	1	Exclusively concatenative	53.3333333333	142.0	Nivkh	Nivkh	Morphology
+nbd	Nubian (Dongolese)	1	Exclusively concatenative	18.25	30.75	Nubian	Eastern Sudanic	Morphology
+ond	Oneida	1	Exclusively concatenative	43.0	-75.6666666667	Northern Iroquoian	Iroquoian	Morphology
+orh	Oromo (Harar)	1	Exclusively concatenative	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Morphology
+otm	Otomí (Mezquital)	1	Exclusively concatenative	20.1666666667	-99.1666666667	Otomian	Oto-Manguean	Morphology
+pai	Paiwan	7	Isolating/concatenative	22.5	120.833333333	Paiwan	Austronesian	Morphology
+prs	Persian	1	Exclusively concatenative	32.0	54.0	Iranian	Indo-European	Morphology
+prh	Pirahã	1	Exclusively concatenative	-7.0	-62.0	Mura	Mura	Morphology
+pso	Pomo (Southeastern)	1	Exclusively concatenative	39.0	-122.5	Pomoan	Hokan	Morphology
+pur	Purépecha	1	Exclusively concatenative	19.5	-101.666666667	Tarascan	Tarascan	Morphology
+qim	Quechua (Imbabura)	1	Exclusively concatenative	0.333333333333	-78.0	Quechuan	Quechuan	Morphology
+ram	Rama	1	Exclusively concatenative	11.75	-83.75	Rama	Chibchan	Morphology
+rap	Rapanui	2	Exclusively isolating	-27.1166666667	-109.366666667	Oceanic	Austronesian	Morphology
+rus	Russian	1	Exclusively concatenative	56.0	38.0	Slavic	Indo-European	Morphology
+san	Sango	1	Exclusively concatenative	5.0	18.0	Ubangi	Niger-Congo	Morphology
+snm	Sanuma	1	Exclusively concatenative	4.5	-64.6666666667	Yanomam	Yanomam	Morphology
+shk	Shipibo-Konibo	1	Exclusively concatenative	-7.5	-75.0	Panoan	Panoan	Morphology
+sla	Slave	1	Exclusively concatenative	67.0	-125.0	Athapaskan	Na-Dene	Morphology
+spa	Spanish	1	Exclusively concatenative	40.0	-4.0	Romance	Indo-European	Morphology
+squ	Squamish	1	Exclusively concatenative	49.6666666667	-123.166666667	Central Salish	Salishan	Morphology
+sup	Supyire	2	Exclusively isolating	11.5	-5.58333333333	Gur	Niger-Congo	Morphology
+swa	Swahili	1	Exclusively concatenative	-6.5	39.0	Bantoid	Niger-Congo	Morphology
+tag	Tagalog	1	Exclusively concatenative	15.0	121.0	Greater Central Philippine	Austronesian	Morphology
+ter	Tera	2	Exclusively isolating	11.0	11.8333333333	Biu-Mandara	Afro-Asiatic	Morphology
+tha	Thai	7	Isolating/concatenative	16.0	101.0	Kam-Tai	Tai-Kadai	Morphology
+tib	Tibetan (Standard Spoken)	1	Exclusively concatenative	30.0	91.0	Bodic	Sino-Tibetan	Morphology
+tiw	Tiwi	1	Exclusively concatenative	-11.5	131.0	Tiwian	Tiwian	Morphology
+tli	Tlingit	1	Exclusively concatenative	59.0	-135.0	Tlingit	Na-Dene	Morphology
+tot	Totonac (Misantla)	1	Exclusively concatenative	19.9166666667	-96.9166666667	Totonacan	Totonacan	Morphology
+tru	Trumai	7	Isolating/concatenative	-11.9166666667	-53.5833333333	Trumai	Trumai	Morphology
+tuk	Tukang Besi	7	Isolating/concatenative	-5.5	123.5	Celebic	Austronesian	Morphology
+tur	Turkish	1	Exclusively concatenative	39.0	35.0	Turkic	Altaic	Morphology
+vie	Vietnamese	2	Exclusively isolating	10.5	106.5	Viet-Muong	Austro-Asiatic	Morphology
+wra	Warao	7	Isolating/concatenative	9.33333333333	-61.6666666667	Warao	Warao	Morphology
+wrd	Wardaman	1	Exclusively concatenative	-15.5	131.0	Yangmanic	Yangmanic	Morphology
+wrm	Warembori	1	Exclusively concatenative	-1.66666666667	137.583333333	South Halmahera - West New Guinea	Austronesian	Morphology
+war	Wari'	2	Exclusively isolating	-11.3333333333	-65.0	Chapacura-Wanham	Chapacura-Wanham	Morphology
+wem	Wembawemba	1	Exclusively concatenative	-35.3333333333	144.0	Southeastern Pama-Nyungan	Pama-Nyungan	Morphology
+wic	Wichita	1	Exclusively concatenative	33.3333333333	-97.3333333333	Caddoan	Caddoan	Morphology
+wch	Wichí	2	Exclusively isolating	-22.5	-62.5833333333	Matacoan	Matacoan	Morphology
+yag	Yagua	1	Exclusively concatenative	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Morphology
+yaq	Yaqui	1	Exclusively concatenative	27.5	-110.25	Cahita	Uto-Aztecan	Morphology
+yid	Yidiny	1	Exclusively concatenative	-17.0	145.75	Northern Pama-Nyungan	Pama-Nyungan	Morphology
+yor	Yoruba	4	Tonal/isolating	8.0	4.33333333333	Defoid	Niger-Congo	Morphology
+yur	Yurok	1	Exclusively concatenative	41.3333333333	-124.0	Yurok	Algic	Morphology
+zqc	Zoque (Copainalá)	1	Exclusively concatenative	17.0	-93.25	Mixe-Zoque	Mixe-Zoque	Morphology
+zul	Zulu	1	Exclusively concatenative	-30.0	30.0	Bantoid	Niger-Congo	Morphology

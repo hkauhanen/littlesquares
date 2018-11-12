@@ -1,0 +1,18 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+ann	Anindilyakwa	13	VS&VO&Neg[(Neg-)V]	-14.0	136.5	Anindilyakwa	Gunwinyguan	Word Order
+amr	Arabic (Moroccan)	6	VS & VO & [Neg-V-Neg]	34.0	-6.0	Semitic	Afro-Asiatic	Word Order
+bbu	Barambu	12	SVO/VSO but [Neg-V]SO(Neg)	3.5	27.0	Ubangi	Niger-Congo	Word Order
+cak	Cakchiquel	2	NegVNegOS	14.5	-91.0	Mayan	Mayan	Word Order
+chj	Chuj	15	VOS & NegVNeg	15.9166666667	-91.5833333333	Mayan	Mayan	Word Order
+dom	Domari	14	VS&VO&NegV/[(Neg-)V-Neg]	32.0	35.0	Indic	Indo-European	Word Order
+hdi	Hdi	5	VNegSONeg	11.8666666667	13.7166666667	Biu-Mandara	Afro-Asiatic	Word Order
+kbl	Kabyle	1	NegVNegSO	36.5	5.0	Berber	Afro-Asiatic	Word Order
+kro	Krongo	3	NegVSONeg	10.5	30.0	Kadugli	Kadu	Word Order
+lmg	Lamang	8	V(Neg)SONeg	11.25	13.5833333333	Biu-Mandara	Afro-Asiatic	Word Order
+miy	Miya	7	NegVOSNeg/VNegOSNeg/SNegVONeg/SVNegONeg	10.9166666667	9.66666666667	West Chadic	Afro-Asiatic	Word Order
+ond	Oneida	13	VS&VO&Neg[(Neg-)V]	43.0	-75.6666666667	Northern Iroquoian	Iroquoian	Word Order
+pkt	Pokot	10	NegVSO/[Neg-V-Neg]SO	1.5	35.5	Nilotic	Eastern Sudanic	Word Order
+rap	Rapanui	9	Neg(Neg)VSO	-27.1166666667	-109.366666667	Oceanic	Austronesian	Word Order
+rwe	Romani (Welsh)	16	VSO/SVO & (Neg)V(Neg)	52.0	-4.0	Indic	Indo-European	Word Order
+tsk	Tamashek	11	NegVSO&OptStemChange	20.0	-2.0	Berber	Afro-Asiatic	Word Order
+tsi	Tsimshian (Coast)	4	NegNegVSO	52.5	-129.0	Tsimshianic	Penutian	Word Order

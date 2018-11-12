@@ -1,0 +1,379 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+xam	/Xam	2	Double-object construction	-31.0	21.0	Tu	Tu	Simple Clauses
+abk	Abkhaz	1	Indirect-object construction	43.0833333333	41.0	Northwest Caucasian	Northwest Caucasian	Simple Clauses
+abu	Abun	1	Indirect-object construction	-0.5	132.5	North-Central Bird's Head	West Papuan	Simple Clauses
+ace	Acehnese	4	Mixed	5.5	95.5	Malayo-Sumbawan	Austronesian	Simple Clauses
+ain	Ainu	3	Secondary-object construction	43.0	143.0	Ainu	Ainu	Simple Clauses
+akn	Akan	2	Double-object construction	6.5	-1.25	Kwa	Niger-Congo	Simple Clauses
+akw	Akawaio	3	Secondary-object construction	6.0	-59.5	Cariban	Cariban	Simple Clauses
+akh	Akha	1	Indirect-object construction	21.8333333333	99.8333333333	Burmese-Lolo	Sino-Tibetan	Simple Clauses
+all	Ala'ala	3	Secondary-object construction	-8.91666666667	146.75	Oceanic	Austronesian	Simple Clauses
+ala	Alamblak	3	Secondary-object construction	-4.66666666667	143.333333333	Sepik Hill	Sepik	Simple Clauses
+ale	Aleut	1	Indirect-object construction	54.0	-166.0	Aleut	Eskimo-Aleut	Simple Clauses
+aly	Alyawarra	4	Mixed	-22.5	135.0	Central Pama-Nyungan	Pama-Nyungan	Simple Clauses
+aml	Ambae (Lolovoli Northeast)	1	Indirect-object construction	-15.4166666667	167.883333333	Oceanic	Austronesian	Simple Clauses
+ame	Amele	1	Indirect-object construction	-5.25	145.583333333	Madang	Trans-New Guinea	Simple Clauses
+amh	Amharic	2	Double-object construction	10.0	38.0	Semitic	Afro-Asiatic	Simple Clauses
+ano	Anong	1	Indirect-object construction	27.3333333333	98.75	Nungish	Sino-Tibetan	Simple Clauses
+apu	Apurinã	4	Mixed	-9.0	-67.0	Purus	Arawakan	Simple Clauses
+aeg	Arabic (Egyptian)	4	Mixed	30.0	31.0	Semitic	Afro-Asiatic	Simple Clauses
+ana	Araona	2	Double-object construction	-12.3333333333	-67.75	Tacanan	Tacanan	Simple Clauses
+ara	Arawak	1	Indirect-object construction	5.5	-55.1666666667	Caribbean Arawakan	Arawakan	Simple Clauses
+alk	Arop-Lokep	1	Indirect-object construction	-5.38333333333	147.05	Oceanic	Austronesian	Simple Clauses
+amp	Arrernte (Mparntwe)	4	Mixed	-24.0	136.0	Central Pama-Nyungan	Pama-Nyungan	Simple Clauses
+awp	Awa Pit	1	Indirect-object construction	1.5	-78.25	Barbacoan	Barbacoan	Simple Clauses
+bab	Babungo	4	Mixed	6.11666666667	10.4166666667	Bantoid	Niger-Congo	Simple Clauses
+bdm	Badimaya	1	Indirect-object construction	-27.6666666667	118.0	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+bag	Bagirmi	1	Indirect-object construction	11.6666666667	16.0	Bongo-Bagirmi	Central Sudanic	Simple Clauses
+bai	Bai	1	Indirect-object construction	26.0	100.0	Bai	Sino-Tibetan	Simple Clauses
+baj	Bajau (Sama)	2	Double-object construction	-4.33333333333	123.0	Sama-Bajaw	Austronesian	Simple Clauses
+bak	Baka (in Cameroon)	1	Indirect-object construction	2.58333333333	13.5833333333	Ubangi	Niger-Congo	Simple Clauses
+bnn	Banoni	3	Secondary-object construction	-6.41666666667	155.25	Oceanic	Austronesian	Simple Clauses
+brs	Barasano	3	Secondary-object construction	-0.166666666667	-70.6666666667	Tucanoan	Tucanoan	Simple Clauses
+bae	Baré	1	Indirect-object construction	1.0	-67.0	Inland Northern Arawakan	Arawakan	Simple Clauses
+bsq	Basque	1	Indirect-object construction	43.0	-3.0	Basque	Basque	Simple Clauses
+bzi	Bauzi	1	Indirect-object construction	-2.5	137.5	East Geelvink Bay	East Geelvink Bay	Simple Clauses
+baw	Bawm	4	Mixed	22.5	92.25	Kuki-Chin	Sino-Tibetan	Simple Clauses
+bel	Belhare	3	Secondary-object construction	26.9666666667	87.3	Mahakiranti	Sino-Tibetan	Simple Clauses
+bco	Bella Coola	3	Secondary-object construction	52.5	-126.666666667	Bella Coola	Salishan	Simple Clauses
+bfg	Berber (Figuig)	1	Indirect-object construction	32.5	-1.5	Berber	Afro-Asiatic	Simple Clauses
+bma	Berber (Middle Atlas)	1	Indirect-object construction	33.0	-5.0	Berber	Afro-Asiatic	Simple Clauses
+ber	Berta	1	Indirect-object construction	10.3333333333	34.6666666667	Berta	Berta	Simple Clauses
+bho	Bhojpuri	1	Indirect-object construction	26.0	84.0	Indic	Indo-European	Simple Clauses
+bbw	Bininj Gun-Wok	3	Secondary-object construction	-12.5	133.75	Gunwinygic	Gunwinyguan	Simple Clauses
+bii	Biri	1	Indirect-object construction	-20.5	146.5	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+biu	Bisu	1	Indirect-object construction	19.75	100.0	Burmese-Lolo	Sino-Tibetan	Simple Clauses
+bla	Blackfoot	3	Secondary-object construction	50.0	-112.666666667	Algonquian	Algic	Simple Clauses
+boz	Bozo (Tigemaxo)	1	Indirect-object construction	15.0	-4.0	Western Mande	Mande	Simple Clauses
+bkt	Brokskat	1	Indirect-object construction	35.3333333333	76.5	Indic	Indo-European	Simple Clauses
+bum	Buma	1	Indirect-object construction	-11.6333333333	166.833333333	Oceanic	Austronesian	Simple Clauses
+but	Buriat	1	Indirect-object construction	52.0	108.0	Mongolic	Altaic	Simple Clauses
+brm	Burmese	2	Double-object construction	21.0	96.0	Burmese-Lolo	Sino-Tibetan	Simple Clauses
+bur	Burushaski	1	Indirect-object construction	36.5	74.5	Burushaski	Burushaski	Simple Clauses
+bya	Byansi	1	Indirect-object construction	30.1666666667	80.5	Bodic	Sino-Tibetan	Simple Clauses
+ckr	Canela-Krahô	1	Indirect-object construction	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Simple Clauses
+cnt	Cantonese	4	Mixed	23.0	113.0	Chinese	Sino-Tibetan	Simple Clauses
+cha	Chamorro	3	Secondary-object construction	13.45	144.75	Chamorro	Austronesian	Simple Clauses
+chn	Chantyal	1	Indirect-object construction	28.5833333333	83.4166666667	Bodic	Sino-Tibetan	Simple Clauses
+che	Cherokee	3	Secondary-object construction	35.5	-83.5	Southern Iroquoian	Iroquoian	Simple Clauses
+cct	Choctaw	1	Indirect-object construction	32.25	-88.5	Muskogean	Muskogean	Simple Clauses
+chr	Chrau	1	Indirect-object construction	10.75	107.5	Bahnaric	Austro-Asiatic	Simple Clauses
+chk	Chukchi	1	Indirect-object construction	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Simple Clauses
+cmn	Comanche	2	Double-object construction	33.5	-101.5	Numic	Uto-Aztecan	Simple Clauses
+coo	Coos (Hanis)	3	Secondary-object construction	43.5	-124.166666667	Coosan	Oregon Coast	Simple Clauses
+cop	Coptic	1	Indirect-object construction	26.0	32.0	Egyptian-Coptic	Afro-Asiatic	Simple Clauses
+cre	Cree (Plains)	3	Secondary-object construction	54.0	-110.0	Algonquian	Algic	Simple Clauses
+dga	Dagaare	2	Double-object construction	10.5	-2.66666666667	Gur	Niger-Congo	Simple Clauses
+dgb	Dagbani	2	Double-object construction	9.58333333333	-0.5	Gur	Niger-Congo	Simple Clauses
+dah	Dahalo	2	Double-object construction	-2.33333333333	40.5	Dahalo	Afro-Asiatic	Simple Clauses
+drg	Dargwa	1	Indirect-object construction	42.25	47.4166666667	Lak-Dargwa	Nakh-Daghestanian	Simple Clauses
+dhb	Dharumbal	2	Double-object construction	-22.75	150.5	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+dhi	Dhivehi	1	Indirect-object construction	4.16666666667	73.5	Indic	Indo-European	Simple Clauses
+dja	Djabugay	1	Indirect-object construction	-16.75	145.583333333	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+djr	Djaru	4	Mixed	-18.75	128.0	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+dji	Djingili	4	Mixed	-17.75	134.0	Djingili	Mirndi	Simple Clauses
+doy	Doyayo	2	Double-object construction	8.66666666667	13.0833333333	Adamawa	Niger-Congo	Simple Clauses
+dre	Drehu	4	Mixed	-21.0	167.25	Oceanic	Austronesian	Simple Clauses
+dua	Duala	2	Double-object construction	4.0	9.41666666667	Bantoid	Niger-Congo	Simple Clauses
+dug	Dullay (Gollango)	1	Indirect-object construction	5.5	37.25	Lowland East Cushitic	Afro-Asiatic	Simple Clauses
+dyi	Dyirbal	4	Mixed	-17.8333333333	145.583333333	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+efi	Efik	2	Double-object construction	4.91666666667	8.5	Cross River	Niger-Congo	Simple Clauses
+eng	English	4	Mixed	52.0	0.0	Germanic	Indo-European	Simple Clauses
+epe	Epena Pedee	1	Indirect-object construction	3.0	-77.0	Choco	Choco	Simple Clauses
+err	Erromangan	3	Secondary-object construction	-18.8333333333	169.166666667	Oceanic	Austronesian	Simple Clauses
+eve	Evenki	1	Indirect-object construction	56.0	125.0	Tungusic	Altaic	Simple Clauses
+ewo	Ewondo	2	Double-object construction	4.0	12.0	Bantoid	Niger-Congo	Simple Clauses
+fij	Fijian	1	Indirect-object construction	-17.8333333333	178.0	Oceanic	Austronesian	Simple Clauses
+fin	Finnish	1	Indirect-object construction	62.0	25.0	Finnic	Uralic	Simple Clauses
+fon	Fongbe	2	Double-object construction	6.41666666667	2.16666666667	Kwa	Niger-Congo	Simple Clauses
+fre	French	1	Indirect-object construction	48.0	2.0	Romance	Indo-European	Simple Clauses
+fye	Fyem	2	Double-object construction	9.58333333333	9.33333333333	Platoid	Niger-Congo	Simple Clauses
+gaa	Gaagudju	3	Secondary-object construction	-12.5833333333	132.833333333	Gaagudju	Gaagudju	Simple Clauses
+gam	Gamo	1	Indirect-object construction	6.66666666667	37.25	North Omotic	Afro-Asiatic	Simple Clauses
+gap	Gapapaiwa	3	Secondary-object construction	-9.75	149.833333333	Oceanic	Austronesian	Simple Clauses
+gar	Garo	1	Indirect-object construction	25.6666666667	90.5	Bodo-Garo	Sino-Tibetan	Simple Clauses
+geo	Georgian	1	Indirect-object construction	42.0	44.0	Kartvelian	Kartvelian	Simple Clauses
+ger	German	1	Indirect-object construction	52.0	10.0	Germanic	Indo-European	Simple Clauses
+gol	Gola	2	Double-object construction	7.25	-10.8333333333	Mel	Niger-Congo	Simple Clauses
+goo	Gooniyandi	3	Secondary-object construction	-18.3333333333	126.333333333	Bunuban	Bunuban	Simple Clauses
+grb	Grebo	2	Double-object construction	5.0	-8.0	Kru	Niger-Congo	Simple Clauses
+grk	Greek (Modern)	1	Indirect-object construction	39.0	22.0	Greek	Indo-European	Simple Clauses
+grw	Greenlandic (West)	3	Secondary-object construction	64.0	-51.0	Eskimo	Eskimo-Aleut	Simple Clauses
+gua	Guaraní	1	Indirect-object construction	-26.0	-56.0	Tupi-Guaraní	Tupian	Simple Clauses
+gdf	Guduf	1	Indirect-object construction	11.2333333333	13.8	Biu-Mandara	Afro-Asiatic	Simple Clauses
+gum	Gumbaynggir	2	Double-object construction	-30.1666666667	152.5	Southeastern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+grg	Gurr-goni	3	Secondary-object construction	-12.25	134.416666667	Burarran	Mangrida	Simple Clauses
+guu	Guugu Yimidhirr	1	Indirect-object construction	-15.0	144.833333333	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+hai	Haida	1	Indirect-object construction	53.0	-132.0	Haida	Haida	Simple Clauses
+hli	Halkomelem (Island)	3	Secondary-object construction	49.2	-123.0	Central Salish	Salishan	Simple Clauses
+hat	Hatam	1	Indirect-object construction	-1.0	134.0	Hatam	West Papuan	Simple Clauses
+hau	Hausa	3	Secondary-object construction	12.0	7.0	West Chadic	Afro-Asiatic	Simple Clauses
+hay	Hayu	3	Secondary-object construction	27.25	86.0	Mahakiranti	Sino-Tibetan	Simple Clauses
+hdi	Hdi	2	Double-object construction	11.8666666667	13.7166666667	Biu-Mandara	Afro-Asiatic	Simple Clauses
+heb	Hebrew (Modern)	1	Indirect-object construction	31.5	34.8333333333	Semitic	Afro-Asiatic	Simple Clauses
+hin	Hindi	1	Indirect-object construction	25.0	77.0	Indic	Indo-European	Simple Clauses
+hix	Hixkaryana	1	Indirect-object construction	-1.0	-59.0	Cariban	Cariban	Simple Clauses
+hma	Hmar	4	Mixed	24.1666666667	93.0	Kuki-Chin	Sino-Tibetan	Simple Clauses
+hmo	Hmong Njua	1	Indirect-object construction	28.0	105.0	Hmong-Mien	Hmong-Mien	Simple Clauses
+hoa	Hoava	4	Mixed	-8.08333333333	157.5	Oceanic	Austronesian	Simple Clauses
+hui	Huichol	3	Secondary-object construction	22.0	-104.0	Corachol	Uto-Aztecan	Simple Clauses
+hun	Hungarian	1	Indirect-object construction	47.0	20.0	Ugric	Uralic	Simple Clauses
+hzb	Hunzib	1	Indirect-object construction	42.1666666667	46.25	Avar-Andic-Tsezic	Nakh-Daghestanian	Simple Clauses
+igb	Igbo	2	Double-object construction	6.0	7.33333333333	Igboid	Niger-Congo	Simple Clauses
+ik	Ik	1	Indirect-object construction	3.75	34.1666666667	Kuliak	Eastern Sudanic	Simple Clauses
+ika	Ika	4	Mixed	10.6666666667	-73.75	Arhuacic	Chibchan	Simple Clauses
+imo	Imonda	1	Indirect-object construction	-3.33333333333	141.166666667	Border	Border	Simple Clauses
+ind	Indonesian	4	Mixed	0.0	106.0	Malayo-Sumbawan	Austronesian	Simple Clauses
+ing	Ingush	1	Indirect-object construction	43.1666666667	45.0833333333	Nakh	Nakh-Daghestanian	Simple Clauses
+irq	Iraqw	1	Indirect-object construction	-4.0	35.5	Southern Cushitic	Afro-Asiatic	Simple Clauses
+ita	Italian	1	Indirect-object construction	43.0	12.0	Romance	Indo-European	Simple Clauses
+itz	Itzaj	1	Indirect-object construction	17.0	-89.8333333333	Mayan	Mayan	Simple Clauses
+jab	Jabêm	1	Indirect-object construction	-6.58333333333	147.783333333	Oceanic	Austronesian	Simple Clauses
+jak	Jakaltek	1	Indirect-object construction	15.6666666667	-91.6666666667	Mayan	Mayan	Simple Clauses
+jam	Jaminjung	3	Secondary-object construction	-15.0833333333	130.5	Jaminjungan	Mirndi	Simple Clauses
+jpn	Japanese	1	Indirect-object construction	37.0	140.0	Japanese	Japanese	Simple Clauses
+jel	Jeli	1	Indirect-object construction	9.5	-5.66666666667	Western Mande	Mande	Simple Clauses
+jng	Jingpho	1	Indirect-object construction	25.4166666667	97.0	Jingpho	Sino-Tibetan	Simple Clauses
+juh	Ju|'hoan	3	Secondary-object construction	-19.0	21.0	Ju-Kung	Kxa	Simple Clauses
+krr	Kairiru	3	Secondary-object construction	-3.33333333333	143.583333333	Oceanic	Austronesian	Simple Clauses
+kly	Kala Lagaw Ya	1	Indirect-object construction	-10.1166666667	142.116666667	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+kgu	Kalkatungu	4	Mixed	-21.0	139.5	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+kma	Kamaiurá	1	Indirect-object construction	-12.0833333333	-52.5833333333	Tupi-Guaraní	Tupian	Simple Clauses
+kan	Kana	2	Double-object construction	4.75	7.41666666667	Cross River	Niger-Congo	Simple Clauses
+knd	Kannada	1	Indirect-object construction	14.0	76.0	Southern Dravidian	Dravidian	Simple Clauses
+knr	Kanuri	1	Indirect-object construction	12.0	13.0	Western Saharan	Saharan	Simple Clauses
+kas	Kashmiri	1	Indirect-object construction	34.0	76.0	Indic	Indo-European	Simple Clauses
+kyl	Kayah Li (Eastern)	2	Double-object construction	19.0	97.5	Karen	Sino-Tibetan	Simple Clauses
+kem	Kemant	1	Indirect-object construction	12.6666666667	37.4166666667	Central Cushitic	Afro-Asiatic	Simple Clauses
+ker	Kera	1	Indirect-object construction	9.83333333333	15.0833333333	East Chadic	Afro-Asiatic	Simple Clauses
+ket	Ket	2	Double-object construction	64.0	87.0	Yeniseian	Yeniseian	Simple Clauses
+kha	Khalkha	1	Indirect-object construction	47.0	105.0	Mongolic	Altaic	Simple Clauses
+kmh	Kham	3	Secondary-object construction	28.5	82.75	Mahakiranti	Sino-Tibetan	Simple Clauses
+kty	Khanty	4	Mixed	65.0	65.0	Ugric	Uralic	Simple Clauses
+khs	Khasi	1	Indirect-object construction	25.5	92.0	Khasian	Austro-Asiatic	Simple Clauses
+khm	Khmer	4	Mixed	12.5	105.0	Khmer	Austro-Asiatic	Simple Clauses
+kmu	Khmu'	1	Indirect-object construction	21.0	102.0	Palaung-Khmuic	Austro-Asiatic	Simple Clauses
+kho	Khoekhoe	2	Double-object construction	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Simple Clauses
+kik	Kikuyu	2	Double-object construction	-0.75	36.75	Bantoid	Niger-Congo	Simple Clauses
+klv	Kilivila	3	Secondary-object construction	-8.5	151.083333333	Oceanic	Austronesian	Simple Clauses
+kin	Kinyarwanda	2	Double-object construction	-2.0	30.0	Bantoid	Niger-Congo	Simple Clauses
+krb	Kiribati	2	Double-object construction	1.33333333333	173.0	Oceanic	Austronesian	Simple Clauses
+kis	Kisi	2	Double-object construction	8.83333333333	-10.1666666667	Mel	Niger-Congo	Simple Clauses
+klm	Klamath	1	Indirect-object construction	42.5	-121.5	Klamath-Modoc	Penutian	Simple Clauses
+koa	Koasati	1	Indirect-object construction	34.8333333333	-85.1666666667	Muskogean	Muskogean	Simple Clauses
+kob	Kobon	2	Double-object construction	-5.16666666667	144.333333333	Madang	Trans-New Guinea	Simple Clauses
+kod	Kodava	1	Indirect-object construction	12.1666666667	76.8333333333	Southern Dravidian	Dravidian	Simple Clauses
+kmb	Kombai	4	Mixed	-5.58333333333	140.0	Awju-Dumut	Trans-New Guinea	Simple Clauses
+kda	Konda	1	Indirect-object construction	19.5	83.0	South-Central Dravidian	Dravidian	Simple Clauses
+kon	Kongo	4	Mixed	-5.0	15.0	Bantoid	Niger-Congo	Simple Clauses
+kor	Korean	1	Indirect-object construction	37.5	128.0	Korean	Korean	Simple Clauses
+kku	Korku	2	Double-object construction	22.5	78.5	Munda	Austro-Asiatic	Simple Clauses
+kfe	Koromfe	3	Secondary-object construction	14.25	-0.916666666667	Gur	Niger-Congo	Simple Clauses
+kse	Koyraboro Senni	4	Mixed	16.0	0.0	Songhay	Songhay	Simple Clauses
+kro	Krongo	1	Indirect-object construction	10.5	30.0	Kadugli	Kadu	Simple Clauses
+knc	Kugu Nganhcara	1	Indirect-object construction	-14.4166666667	142.0	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+kya	Kuku-Yalanji	1	Indirect-object construction	-16.0	145.0	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+kuk	Kukú	2	Double-object construction	5.83333333333	31.6666666667	Nilotic	Eastern Sudanic	Simple Clauses
+knm	Kunama	1	Indirect-object construction	14.5	37.0	Kunama	Kunama	Simple Clauses
+kug	Kunming	2	Double-object construction	25.0	102.75	Chinese	Sino-Tibetan	Simple Clauses
+kut	Kutenai	3	Secondary-object construction	49.5	-116.0	Kutenai	Kutenai	Simple Clauses
+kwa	Kwaio	1	Indirect-object construction	-8.95	161.0	Oceanic	Austronesian	Simple Clauses
+lad	Ladakhi	1	Indirect-object construction	34.0	78.0	Bodic	Sino-Tibetan	Simple Clauses
+lai	Lai	3	Secondary-object construction	22.6666666667	93.6666666667	Kuki-Chin	Sino-Tibetan	Simple Clauses
+lak	Lak	1	Indirect-object construction	42.1666666667	47.1666666667	Lak-Dargwa	Nakh-Daghestanian	Simple Clauses
+lkt	Lakhota	2	Double-object construction	43.8333333333	-101.833333333	Core Siouan	Siouan	Simple Clauses
+lan	Lango	4	Mixed	2.16666666667	33.0	Nilotic	Eastern Sudanic	Simple Clauses
+lat	Latvian	1	Indirect-object construction	57.0	24.0	Baltic	Indo-European	Simple Clauses
+lav	Lavukaleve	1	Indirect-object construction	-9.08333333333	159.2	Lavukaleve	Solomons East Papuan	Simple Clauses
+laz	Laz	3	Secondary-object construction	41.5	41.5	Kartvelian	Kartvelian	Simple Clauses
+lel	Lele	2	Double-object construction	9.08333333333	15.5833333333	East Chadic	Afro-Asiatic	Simple Clauses
+lep	Lepcha	1	Indirect-object construction	27.1666666667	88.5	Lepcha	Sino-Tibetan	Simple Clauses
+lez	Lezgian	1	Indirect-object construction	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Simple Clauses
+lil	Lillooet	3	Secondary-object construction	50.75	-122.0	Interior Salish	Salishan	Simple Clauses
+lml	Limilngan	3	Secondary-object construction	-12.5	131.916666667	Limilngan	Darwin Region	Simple Clauses
+lin	Lingala	2	Double-object construction	2.0	18.5	Bantoid	Niger-Congo	Simple Clauses
+lis	Lisu	1	Indirect-object construction	26.0	98.0	Burmese-Lolo	Sino-Tibetan	Simple Clauses
+lgu	Longgu	1	Indirect-object construction	-9.75	160.666666667	Oceanic	Austronesian	Simple Clauses
+lbu	Lunda	2	Double-object construction	-10.6666666667	24.0	Bantoid	Niger-Congo	Simple Clauses
+mad	Ma'di	1	Indirect-object construction	3.25	31.5	Moru-Ma'di	Central Sudanic	Simple Clauses
+mle	Maale	1	Indirect-object construction	6.0	36.9166666667	North Omotic	Afro-Asiatic	Simple Clauses
+mac	Macushi	1	Indirect-object construction	4.0	-60.0	Cariban	Cariban	Simple Clauses
+mdr	Madurese	1	Indirect-object construction	-7.0	113.5	Malayo-Sumbawan	Austronesian	Simple Clauses
+mpr	Maipure	1	Indirect-object construction	5.5	-67.5	Alto-Orinoco	Arawakan	Simple Clauses
+mai	Maithili	1	Indirect-object construction	26.0	86.0	Indic	Indo-European	Simple Clauses
+mak	Makah	2	Double-object construction	48.3333333333	-124.666666667	Southern Wakashan	Wakashan	Simple Clauses
+mym	Malayalam	1	Indirect-object construction	10.0	76.5	Southern Dravidian	Dravidian	Simple Clauses
+mlt	Maltese	1	Indirect-object construction	35.9166666667	14.4166666667	Semitic	Afro-Asiatic	Simple Clauses
+mam	Mam	1	Indirect-object construction	15.0	-91.8333333333	Mayan	Mayan	Simple Clauses
+mnd	Mandarin	4	Mixed	34.0	110.0	Chinese	Sino-Tibetan	Simple Clauses
+myi	Mangarrayi	2	Double-object construction	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Simple Clauses
+mgg	Mangghuer	1	Indirect-object construction	36.0	102.0	Mongolic	Altaic	Simple Clauses
+mao	Maori	1	Indirect-object construction	-40.0	176.0	Oceanic	Austronesian	Simple Clauses
+map	Mapudungun	3	Secondary-object construction	-38.0	-72.0	Araucanian	Araucanian	Simple Clauses
+mku	Maranungku	2	Double-object construction	-13.6666666667	130.0	Wagaydy	Western Daly	Simple Clauses
+mhi	Marathi	1	Indirect-object construction	19.0	76.0	Indic	Indo-European	Simple Clauses
+mar	Maricopa	3	Secondary-object construction	33.1666666667	-113.166666667	Yuman	Hokan	Simple Clauses
+mrq	Marquesan	2	Double-object construction	-8.91666666667	-140.083333333	Oceanic	Austronesian	Simple Clauses
+mrt	Martuthunira	3	Secondary-object construction	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+mts	Matis	2	Double-object construction	-4.41666666667	-70.25	Panoan	Panoan	Simple Clauses
+myr	Matsés	2	Double-object construction	-5.41666666667	-73.25	Panoan	Panoan	Simple Clauses
+may	Maybrat	4	Mixed	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Simple Clauses
+mbb	Mbabaram	1	Indirect-object construction	-17.1666666667	145.0	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+mby	Mbay	2	Double-object construction	8.25	17.5	Bongo-Bagirmi	Central Sudanic	Simple Clauses
+mbi	Mbili	1	Indirect-object construction	6.11666666667	10.2	Bantoid	Niger-Congo	Simple Clauses
+mei	Meithei	1	Indirect-object construction	24.75	94.0	Kuki-Chin	Sino-Tibetan	Simple Clauses
+mde	Mende	4	Mixed	7.83333333333	-11.5	Western Mande	Mande	Simple Clauses
+mxc	Mixtec (Chalcatongo)	1	Indirect-object construction	17.05	-97.5833333333	Mixtecan	Oto-Manguean	Simple Clauses
+miy	Miya	2	Double-object construction	10.9166666667	9.66666666667	West Chadic	Afro-Asiatic	Simple Clauses
+mlm	Mlabri (Minor)	2	Double-object construction	18.5	101.0	Palaung-Khmuic	Austro-Asiatic	Simple Clauses
+mcv	Mocoví	4	Mixed	-28.0	-60.5	South Guaicuruan	Guaicuruan	Simple Clauses
+mno	Mono (in United States)	2	Double-object construction	38.0	-119.0	Numic	Uto-Aztecan	Simple Clauses
+mbo	Monumbo	1	Indirect-object construction	-4.25	145.0	Monumbo	Monumbo	Simple Clauses
+mos	Mosetén	3	Secondary-object construction	-14.75	-67.8333333333	Mosetenan	Mosetenan	Simple Clauses
+mot	Motuna	3	Secondary-object construction	-6.61666666667	155.416666667	East Bougainville	East Bougainville	Simple Clauses
+mdg	Mundang	1	Indirect-object construction	9.66666666667	14.5	Adamawa	Niger-Congo	Simple Clauses
+mup	Mupun	1	Indirect-object construction	9.5	8.83333333333	West Chadic	Afro-Asiatic	Simple Clauses
+mrl	Murle	2	Double-object construction	6.5	33.5	Surmic	Eastern Sudanic	Simple Clauses
+mgu	Musgu	1	Indirect-object construction	10.8333333333	14.9166666667	Biu-Mandara	Afro-Asiatic	Simple Clauses
+mus	Mussau	1	Indirect-object construction	-1.45	149.616666667	Oceanic	Austronesian	Simple Clauses
+nab	Nabak	3	Secondary-object construction	-6.41666666667	147.0	Finisterre-Huon	Trans-New Guinea	Simple Clauses
+nag	Nagatman	1	Indirect-object construction	-3.75	141.5	Yale	Yale	Simple Clauses
+nht	Nahuatl (Tetelcingo)	2	Double-object construction	19.6666666667	-99.0	Aztecan	Uto-Aztecan	Simple Clauses
+nmb	Nambikuára (Southern)	3	Secondary-object construction	-14.0	-59.5	Nambikuaran	Nambikuaran	Simple Clauses
+ndb	Ndebele (in South Africa)	2	Double-object construction	-25.3333333333	29.0	Bantoid	Niger-Congo	Simple Clauses
+ndj	Ndjébbana	3	Secondary-object construction	-12.1666666667	134.116666667	Ndjébbana	Mangrida	Simple Clauses
+nep	Nepali	1	Indirect-object construction	28.0	85.0	Indic	Indo-European	Simple Clauses
+nwd	Newar (Dolakha)	1	Indirect-object construction	27.3333333333	86.0	Mahakiranti	Sino-Tibetan	Simple Clauses
+ngl	Ngalakan	3	Secondary-object construction	-14.25	134.0	Ngalakan	Gunwinyguan	Simple Clauses
+ngi	Ngiyambaa	3	Secondary-object construction	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+nha	Nhanda	2	Double-object construction	-27.0	114.166666667	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+nia	Nias	1	Indirect-object construction	1.0	97.75	Northwest Sumatra-Barrier Islands	Austronesian	Simple Clauses
+nsg	Nisgha	1	Indirect-object construction	55.0	-130.0	Tsimshianic	Penutian	Simple Clauses
+niu	Niuean	1	Indirect-object construction	-19.05	-170.116666667	Oceanic	Austronesian	Simple Clauses
+niv	Nivkh	3	Secondary-object construction	53.3333333333	142.0	Nivkh	Nivkh	Simple Clauses
+nko	Nkore-Kiga	3	Secondary-object construction	-0.916666666667	29.8333333333	Bantoid	Niger-Congo	Simple Clauses
+nse	Nsenga	2	Double-object construction	-14.5	30.8333333333	Bantoid	Niger-Congo	Simple Clauses
+nua	Nuaulu	1	Indirect-object construction	-3.25	129.166666667	Central Malayo-Polynesian	Austronesian	Simple Clauses
+nbd	Nubian (Dongolese)	1	Indirect-object construction	18.25	30.75	Nubian	Eastern Sudanic	Simple Clauses
+nku	Nubian (Kunuz)	2	Double-object construction	23.0	33.0	Nubian	Eastern Sudanic	Simple Clauses
+nuu	Nuuchahnulth	2	Double-object construction	49.6666666667	-126.666666667	Southern Wakashan	Wakashan	Simple Clauses
+ood	O'odham	2	Double-object construction	32.0	-112.0	Tepiman	Uto-Aztecan	Simple Clauses
+obo	Obolo	2	Double-object construction	4.58333333333	7.83333333333	Cross River	Niger-Congo	Simple Clauses
+oji	Ojibwa (Eastern)	3	Secondary-object construction	46.0	-80.0	Algonquian	Algic	Simple Clauses
+olu	Olutec	4	Mixed	17.95	-95.0	Mixe-Zoque	Mixe-Zoque	Simple Clauses
+orh	Oromo (Harar)	1	Indirect-object construction	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Simple Clauses
+ory	Orya	1	Indirect-object construction	-2.75	139.833333333	Orya	Tor-Orya	Simple Clauses
+pms	Paamese	1	Indirect-object construction	-16.5	168.25	Oceanic	Austronesian	Simple Clauses
+pta	Paita	1	Indirect-object construction	-22.0833333333	166.5	Oceanic	Austronesian	Simple Clauses
+pai	Paiwan	4	Mixed	22.5	120.833333333	Paiwan	Austronesian	Simple Clauses
+pal	Palauan	3	Secondary-object construction	7.5	134.583333333	Palauan	Austronesian	Simple Clauses
+pny	Panyjima	2	Double-object construction	-22.8333333333	118.416666667	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+ptt	Pattani	1	Indirect-object construction	32.75	76.75	Bodic	Sino-Tibetan	Simple Clauses
+per	Pero	1	Indirect-object construction	9.58333333333	11.0	West Chadic	Afro-Asiatic	Simple Clauses
+prs	Persian	1	Indirect-object construction	32.0	54.0	Iranian	Indo-European	Simple Clauses
+pga	Pilagá	2	Double-object construction	-25.0	-60.0	South Guaicuruan	Guaicuruan	Simple Clauses
+prh	Pirahã	2	Double-object construction	-7.0	-62.0	Mura	Mura	Simple Clauses
+pit	Pitjantjatjara	2	Double-object construction	-26.0	130.0	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+ppi	Pitta Pitta	2	Double-object construction	-22.8333333333	140.0	Central Pama-Nyungan	Pama-Nyungan	Simple Clauses
+pur	Purépecha	1	Indirect-object construction	19.5	-101.666666667	Tarascan	Tarascan	Simple Clauses
+pae	Páez	1	Indirect-object construction	2.66666666667	-76.0	Páezan	Páezan	Simple Clauses
+qaf	Qafar	1	Indirect-object construction	12.0	42.0	Lowland East Cushitic	Afro-Asiatic	Simple Clauses
+qia	Qiang	1	Indirect-object construction	32.0	102.666666667	Qiangic	Sino-Tibetan	Simple Clauses
+qhu	Quechua (Huallaga)	3	Secondary-object construction	-9.5	-75.5	Quechuan	Quechuan	Simple Clauses
+qim	Quechua (Imbabura)	1	Indirect-object construction	0.333333333333	-78.0	Quechuan	Quechuan	Simple Clauses
+rap	Rapanui	1	Indirect-object construction	-27.1166666667	-109.366666667	Oceanic	Austronesian	Simple Clauses
+raw	Rawang	1	Indirect-object construction	27.5	97.5	Nungish	Sino-Tibetan	Simple Clauses
+ret	Retuarã	2	Double-object construction	-0.5	-70.6666666667	Tucanoan	Tucanoan	Simple Clauses
+ron	Ron	1	Indirect-object construction	9.0	8.75	West Chadic	Afro-Asiatic	Simple Clauses
+rus	Russian	1	Indirect-object construction	56.0	38.0	Slavic	Indo-European	Simple Clauses
+sno	Saami (Northern)	1	Indirect-object construction	69.0	24.0	Saami	Uralic	Simple Clauses
+slb	Saliba (in Papua New Guinea)	4	Mixed	-10.5833333333	150.716666667	Oceanic	Austronesian	Simple Clauses
+syu	Salt-Yui	2	Double-object construction	-6.28333333333	145.033333333	Chimbu	Trans-New Guinea	Simple Clauses
+san	Sango	1	Indirect-object construction	5.0	18.0	Ubangi	Niger-Congo	Simple Clauses
+sgu	Sangu	2	Double-object construction	-1.5	11.8333333333	Bantoid	Niger-Congo	Simple Clauses
+snm	Sanuma	1	Indirect-object construction	4.5	-64.6666666667	Yanomam	Yanomam	Simple Clauses
+sap	Sapuan	1	Indirect-object construction	15.1666666667	106.833333333	Bahnaric	Austro-Asiatic	Simple Clauses
+sed	Sedang	4	Mixed	14.8333333333	108.0	Bahnaric	Austro-Asiatic	Simple Clauses
+skp	Selkup	1	Indirect-object construction	65.0	82.0	Samoyedic	Uralic	Simple Clauses
+sml	Semelai	1	Indirect-object construction	3.0	103.0	Aslian	Austro-Asiatic	Simple Clauses
+shk	Shipibo-Konibo	2	Double-object construction	-7.5	-75.0	Panoan	Panoan	Simple Clauses
+sho	Shoshone	2	Double-object construction	41.0	-114.0	Numic	Uto-Aztecan	Simple Clauses
+sng	Sinaugoro	3	Secondary-object construction	-9.83333333333	147.833333333	Oceanic	Austronesian	Simple Clauses
+sla	Slave	1	Indirect-object construction	67.0	-125.0	Athapaskan	Na-Dene	Simple Clauses
+so	So	1	Indirect-object construction	2.58333333333	34.75	Kuliak	Eastern Sudanic	Simple Clauses
+som	Somali	3	Secondary-object construction	3.0	45.0	Lowland East Cushitic	Afro-Asiatic	Simple Clauses
+stn	Sotho (Northern)	2	Double-object construction	-24.0	29.0	Bantoid	Niger-Congo	Simple Clauses
+spa	Spanish	1	Indirect-object construction	40.0	-4.0	Romance	Indo-European	Simple Clauses
+sud	Sudest	1	Indirect-object construction	-11.5	153.45	Oceanic	Austronesian	Simple Clauses
+sue	Suena	1	Indirect-object construction	-7.75	147.55	Binanderean	Trans-New Guinea	Simple Clauses
+sun	Sundanese	4	Mixed	-7.0	107.0	Malayo-Sumbawan	Austronesian	Simple Clauses
+sup	Supyire	1	Indirect-object construction	11.5	-5.58333333333	Gur	Niger-Congo	Simple Clauses
+swa	Swahili	2	Double-object construction	-6.5	39.0	Bantoid	Niger-Congo	Simple Clauses
+tab	Taba	2	Double-object construction	0.0	127.5	South Halmahera - West New Guinea	Austronesian	Simple Clauses
+tag	Tagalog	4	Mixed	15.0	121.0	Greater Central Philippine	Austronesian	Simple Clauses
+tam	Tamang (Eastern)	1	Indirect-object construction	27.5	85.6666666667	Bodic	Sino-Tibetan	Simple Clauses
+tml	Tamil	1	Indirect-object construction	11.0	78.5	Southern Dravidian	Dravidian	Simple Clauses
+tar	Tariana	2	Double-object construction	1.0	-69.1666666667	Inland Northern Arawakan	Arawakan	Simple Clauses
+tau	Tauya	3	Secondary-object construction	-5.75	145.333333333	Madang	Trans-New Guinea	Simple Clauses
+tps	Tepehuan (Southeastern)	3	Secondary-object construction	23.0	-104.5	Tepiman	Uto-Aztecan	Simple Clauses
+trb	Teribe	1	Indirect-object construction	9.33333333333	-82.6666666667	Talamanca	Chibchan	Simple Clauses
+trt	Ternate	4	Mixed	0.833333333333	127.25	North Halmaheran	West Papuan	Simple Clauses
+ttn	Tetun	4	Mixed	-9.0	126.0	Central Malayo-Polynesian	Austronesian	Simple Clauses
+tha	Thai	1	Indirect-object construction	16.0	101.0	Kam-Tai	Tai-Kadai	Simple Clauses
+tis	Tibetan (Shigatse)	1	Indirect-object construction	29.0	89.0	Bodic	Sino-Tibetan	Simple Clauses
+tib	Tibetan (Standard Spoken)	1	Indirect-object construction	30.0	91.0	Bodic	Sino-Tibetan	Simple Clauses
+tid	Tidore	4	Mixed	0.75	127.5	North Halmaheran	West Papuan	Simple Clauses
+tig	Tigrinya	1	Indirect-object construction	14.5	38.5	Semitic	Afro-Asiatic	Simple Clauses
+tja	Tiipay (Jamul)	2	Double-object construction	32.1666666667	-116.5	Yuman	Hokan	Simple Clauses
+tik	Tikar	2	Double-object construction	5.83333333333	11.6666666667	Bantoid	Niger-Congo	Simple Clauses
+tin	Tinrin	1	Indirect-object construction	-21.6666666667	165.75	Oceanic	Austronesian	Simple Clauses
+tiw	Tiwi	3	Secondary-object construction	-11.5	131.0	Tiwian	Tiwian	Simple Clauses
+tbt	Tobati	3	Secondary-object construction	-2.58333333333	140.666666667	Oceanic	Austronesian	Simple Clauses
+tms	Tommo So	1	Indirect-object construction	15.0	-3.0	Dogon	Dogon	Simple Clauses
+tor	Toratán	1	Indirect-object construction	1.08333333333	124.833333333	Sangiric	Austronesian	Simple Clauses
+trw	Torwali	1	Indirect-object construction	34.25	72.0	Indic	Indo-European	Simple Clauses
+tru	Trumai	1	Indirect-object construction	-11.9166666667	-53.5833333333	Trumai	Trumai	Simple Clauses
+tst	Tsat	1	Indirect-object construction	18.25	109.5	Malayo-Sumbawan	Austronesian	Simple Clauses
+tsz	Tsez	1	Indirect-object construction	42.25	45.75	Avar-Andic-Tsezic	Nakh-Daghestanian	Simple Clauses
+tgl	Tshangla	1	Indirect-object construction	27.8333333333	92.1666666667	Bodic	Sino-Tibetan	Simple Clauses
+tsi	Tsimshian (Coast)	1	Indirect-object construction	52.5	-129.0	Tsimshianic	Penutian	Simple Clauses
+tgn	Tugun	1	Indirect-object construction	-7.71666666667	126.75	Central Malayo-Polynesian	Austronesian	Simple Clauses
+tuk	Tukang Besi	2	Double-object construction	-5.5	123.5	Celebic	Austronesian	Simple Clauses
+tnn	Tunen	2	Double-object construction	4.75	10.6666666667	Bantoid	Niger-Congo	Simple Clauses
+tna	Turkana	2	Double-object construction	3.0	35.5	Nilotic	Eastern Sudanic	Simple Clauses
+tur	Turkish	1	Indirect-object construction	39.0	35.0	Turkic	Altaic	Simple Clauses
+tzu	Tzutujil	1	Indirect-object construction	14.6666666667	-91.3333333333	Mayan	Mayan	Simple Clauses
+tsh	Tümpisa Shoshone	2	Double-object construction	37.0	-117.0	Numic	Uto-Aztecan	Simple Clauses
+udh	Udihe	1	Indirect-object construction	47.6666666667	136.25	Tungusic	Altaic	Simple Clauses
+udm	Udmurt	1	Indirect-object construction	57.5	52.5	Permic	Uralic	Simple Clauses
+uku	Upper Kuskokwim	1	Indirect-object construction	63.0	-157.0	Athapaskan	Na-Dene	Simple Clauses
+urk	Urubú-Kaapor	1	Indirect-object construction	-2.33333333333	-46.5	Tupi-Guaraní	Tupian	Simple Clauses
+usa	Usan	3	Secondary-object construction	-4.83333333333	145.166666667	Madang	Trans-New Guinea	Simple Clauses
+vie	Vietnamese	2	Double-object construction	10.5	106.5	Viet-Muong	Austro-Asiatic	Simple Clauses
+wlm	Walmatjari	2	Double-object construction	-19.5	125.75	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+wam	Wambaya	2	Double-object construction	-18.6666666667	135.75	Wambayan	Mirndi	Simple Clauses
+wra	Warao	1	Indirect-object construction	9.33333333333	-61.6666666667	Warao	Warao	Simple Clauses
+wry	Waray (in Australia)	2	Double-object construction	-13.1666666667	131.25	Warayic	Gunwinyguan	Simple Clauses
+wrd	Wardaman	3	Secondary-object construction	-15.5	131.0	Yangmanic	Yangmanic	Simple Clauses
+wrm	Warembori	1	Indirect-object construction	-1.66666666667	137.583333333	South Halmahera - West New Guinea	Austronesian	Simple Clauses
+war	Wari'	3	Secondary-object construction	-11.3333333333	-65.0	Chapacura-Wanham	Chapacura-Wanham	Simple Clauses
+wrl	Warlpiri	4	Mixed	-20.0	132.333333333	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+wrg	Warrgamay	4	Mixed	-18.5833333333	146.083333333	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+wch	Wichí	3	Secondary-object construction	-22.5	-62.5833333333	Matacoan	Matacoan	Simple Clauses
+wir	Wirangu	1	Indirect-object construction	-32.0	134.0	Central Pama-Nyungan	Pama-Nyungan	Simple Clauses
+wlf	Wolof	2	Double-object construction	15.25	-16.0	Northern Atlantic	Niger-Congo	Simple Clauses
+yag	Yagua	3	Secondary-object construction	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Simple Clauses
+yny	Yanyuwa	4	Mixed	-16.4166666667	137.166666667	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+yaq	Yaqui	3	Secondary-object construction	27.5	-110.25	Cahita	Uto-Aztecan	Simple Clauses
+yid	Yidiny	1	Indirect-object construction	-17.0	145.75	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+yim	Yimas	1	Indirect-object construction	-4.66666666667	143.55	Lower Sepik	Lower Sepik-Ramu	Simple Clauses
+yng	Yingkarta	3	Secondary-object construction	-25.1666666667	114.833333333	Western Pama-Nyungan	Pama-Nyungan	Simple Clauses
+yir	Yir Yiront	2	Double-object construction	-14.8333333333	141.833333333	Northern Pama-Nyungan	Pama-Nyungan	Simple Clauses
+yor	Yoruba	3	Secondary-object construction	8.0	4.33333333333	Defoid	Niger-Congo	Simple Clauses
+yko	Yukaghir (Kolyma)	1	Indirect-object construction	65.75	150.833333333	Yukaghir	Yukaghir	Simple Clauses
+ytu	Yukaghir (Tundra)	1	Indirect-object construction	69.0	155.0	Yukaghir	Yukaghir	Simple Clauses
+zaq	Zapotec (Quiegolani)	1	Indirect-object construction	16.1666666667	-96.0833333333	Zapotecan	Oto-Manguean	Simple Clauses
+zay	Zayse	1	Indirect-object construction	5.91666666667	37.3333333333	North Omotic	Afro-Asiatic	Simple Clauses
+zaz	Zazaki	1	Indirect-object construction	39.0	41.0	Iranian	Indo-European	Simple Clauses
+zch	Zoque (Chimalapa)	3	Secondary-object construction	16.75	-94.75	Mixe-Zoque	Mixe-Zoque	Simple Clauses
+zul	Zulu	2	Double-object construction	-30.0	30.0	Bantoid	Niger-Congo	Simple Clauses

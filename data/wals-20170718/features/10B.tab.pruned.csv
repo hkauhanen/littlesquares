@@ -1,0 +1,41 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+aka	Aka	1	no nasal vs. oral vowel contrast	2.66666666667	16.25	Bantoid	Niger-Congo	Phonology
+avt	Avatime	2	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading	6.83333333333	0.416666666667	Kwa	Niger-Congo	Phonology
+bfi	Bafia	1	no nasal vs. oral vowel contrast	5.0	11.1666666667	Bantoid	Niger-Congo	Phonology
+blz	Balanta	1	no nasal vs. oral vowel contrast	12.25	-15.3333333333	Northern Atlantic	Niger-Congo	Phonology
+ban	Bana	1	no nasal vs. oral vowel contrast	10.4166666667	13.5833333333	Biu-Mandara	Afro-Asiatic	Phonology
+bsr	Basari	1	no nasal vs. oral vowel contrast	12.6666666667	-13.0	Northern Atlantic	Niger-Congo	Phonology
+ble	Baule	2	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading	7.0	-5.0	Kwa	Niger-Congo	Phonology
+bfd	Biafada	1	no nasal vs. oral vowel contrast	11.4166666667	-15.1666666667	Northern Atlantic	Niger-Congo	Phonology
+buy	Buli (in Ghana)	4	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ vs. /Vː/) without nasal spreading	10.5	-1.25	Gur	Niger-Congo	Phonology
+dga	Dagaare	3	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) with nasal spreading	10.5	-2.66666666667	Gur	Niger-Congo	Phonology
+dgb	Dagbani	1	no nasal vs. oral vowel contrast	9.58333333333	-0.5	Gur	Niger-Congo	Phonology
+day	Day	2	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading	8.75	17.8333333333	Adamawa	Niger-Congo	Phonology
+doy	Doyayo	5	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ v /Vː/) with nasal spreading	8.66666666667	13.0833333333	Adamawa	Niger-Congo	Phonology
+ebi	Ebira	1	no nasal vs. oral vowel contrast	8.16666666667	7.0	Nupoid	Niger-Congo	Phonology
+ega	Ega	1	no nasal vs. oral vowel contrast	5.5	-5.5	Kwa	Niger-Congo	Phonology
+fma	Fula (Mauritanian)	1	no nasal vs. oral vowel contrast	16.5	-13.75	Northern Atlantic	Niger-Congo	Phonology
+gad	Gade	1	no nasal vs. oral vowel contrast	8.66666666667	7.41666666667	Nupoid	Niger-Congo	Phonology
+gbk	Gbaya Kara	5	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ v /Vː/) with nasal spreading	6.0	15.0	Gbaya-Manza-Ngbaka	Niger-Congo	Phonology
+gir	Gula Iro	5	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ v /Vː/) with nasal spreading	10.25	19.4166666667	Adamawa	Niger-Congo	Phonology
+grm	Gurma	4	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ vs. /Vː/) without nasal spreading	12.25	1.0	Gur	Niger-Congo	Phonology
+kis	Kisi	1	no nasal vs. oral vowel contrast	8.83333333333	-10.1666666667	Mel	Niger-Congo	Phonology
+krn	Korana	3	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) with nasal spreading	-29.5	20.5	Khoe-Kwadi	Khoe-Kwadi	Phonology
+ksp	Kosop	2	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading	9.91666666667	15.9166666667	Adamawa	Niger-Congo	Phonology
+ktk	Kotoko	1	no nasal vs. oral vowel contrast	11.3333333333	15.3333333333	Biu-Mandara	Afro-Asiatic	Phonology
+laa	Laal	1	no nasal vs. oral vowel contrast	10.0	17.6666666667	Laal	Laal	Phonology
+lam	Lamé	1	no nasal vs. oral vowel contrast	9.0	14.5	Masa	Afro-Asiatic	Phonology
+lok	Loko	3	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) with nasal spreading	9.33333333333	-12.0833333333	Western Mande	Mande	Phonology
+mdz	Mada (in Nigeria)	2	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading	8.75	8.25	Platoid	Niger-Congo	Phonology
+mdk	Mandinka	1	no nasal vs. oral vowel contrast	13.0	-15.6666666667	Western Mande	Mande	Phonology
+mby	Mbay	4	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ vs. /Vː/) without nasal spreading	8.25	17.5	Bongo-Bagirmi	Central Sudanic	Phonology
+mdo	Mbodomo	3	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) with nasal spreading	4.5	15.5	Gbaya-Manza-Ngbaka	Niger-Congo	Phonology
+moo	Mooré	4	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ vs. /Vː/) without nasal spreading	12.8333333333	-1.25	Gur	Niger-Congo	Phonology
+oku	Oku	1	no nasal vs. oral vowel contrast	6.25	10.5	Bantoid	Niger-Congo	Phonology
+pod	Podoko	1	no nasal vs. oral vowel contrast	11.0	14.0833333333	Biu-Mandara	Afro-Asiatic	Phonology
+snd	Senadi	5	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ v /Vː/) with nasal spreading	9.5	-6.25	Gur	Niger-Congo	Phonology
+tne	Temne	2	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading	8.66666666667	-13.0833333333	Mel	Niger-Congo	Phonology
+tik	Tikar	1	no nasal vs. oral vowel contrast	5.83333333333	11.6666666667	Bantoid	Niger-Congo	Phonology
+dts	Toro So	4	four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ vs. /Vː/) without nasal spreading	14.4166666667	-3.25	Dogon	Dogon	Phonology
+wmn	Wéménugbé	2	two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading	6.66666666667	2.5	Kwa	Niger-Congo	Phonology
+yem	Yemba	1	no nasal vs. oral vowel contrast	5.41666666667	10.0833333333	Bantoid	Niger-Congo	Phonology
