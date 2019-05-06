@@ -1,0 +1,76 @@
+universe = vanilla
+requirements = ((opsys == "LINUX") && (arch == "X86_64") && (HAS_R_3_2 =?= True))
+notification = never
+request_memory = 2000
+request_disk = 1000000
+executable = /opt/R-3.2.4/bin/R
+input = batch.R
+should_transfer_files = yes
+transfer_executable = false
+transfer_input_files = batch.R,R.tar.gz
+when_to_transfer_output = ON_EXIT
+log = CONDOR.log
+output = CONDOR.out
+error = CONDOR.err
+Rank=kflops
+
+arguments = --vanilla --args $(Cluster) $(Process) 1
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 2
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 3
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 4
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 5
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 6
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 7
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 8
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 9
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 10
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 11
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 13
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 14
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 16
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 18
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 20
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 23
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 25
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 29
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 32
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 36
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 40
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 45
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 50
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 57
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 63
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 71
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 79
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 89
+queue 50
+arguments = --vanilla --args $(Cluster) $(Process) 100
+queue 50

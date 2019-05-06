@@ -1,0 +1,17 @@
+universe = vanilla
+requirements = ((opsys == "LINUX") && (arch == "X86_64") && (HAS_R_3_2 =?= True))
+notification = never
+request_memory = 2000
+request_disk = 1000000
+executable = /opt/R-3.2.4/bin/R
+input = batch.R
+should_transfer_files = yes
+transfer_executable = false
+transfer_input_files = batch.R,R.tar.gz
+when_to_transfer_output = ON_EXIT
+log = CONDOR.log
+output = CONDOR.out
+error = CONDOR.err
+Rank=kflops
+arguments = --vanilla --args $(Cluster) $(Process)
+queue 500
