@@ -1,0 +1,401 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+xoo	!Xóõ	1	Absent	-24.0	21.5	Tu	Tu	Nominal Categories
+xam	/Xam	1	Absent	-31.0	21.0	Tu	Tu	Nominal Categories
+abk	Abkhaz	1	Absent	43.0833333333	41.0	Northwest Caucasian	Northwest Caucasian	Nominal Categories
+abu	Abun	3	Obligatory	-0.5	132.5	North-Central Bird's Head	West Papuan	Nominal Categories
+aco	Acoma	1	Absent	34.9166666667	-107.583333333	Keresan	Keresan	Nominal Categories
+ain	Ainu	2	Optional	43.0	143.0	Ainu	Ainu	Nominal Categories
+agw	Alagwa	1	Absent	-5.5	35.75	Southern Cushitic	Afro-Asiatic	Nominal Categories
+ala	Alamblak	1	Absent	-4.66666666667	143.333333333	Sepik Hill	Sepik	Nominal Categories
+alb	Albanian	1	Absent	41.0	20.0	Albanian	Indo-European	Nominal Categories
+aln	Alune	3	Obligatory	-3.0	128.333333333	Central Malayo-Polynesian	Austronesian	Nominal Categories
+amk	Amarakaeri	1	Absent	-12.5	-70.5	Harakmbet	Harakmbet	Nominal Categories
+aml	Ambae (Lolovoli Northeast)	1	Absent	-15.4166666667	167.883333333	Oceanic	Austronesian	Nominal Categories
+amb	Ambulas	1	Absent	-3.83333333333	143.0	Middle Sepik	Sepik	Nominal Categories
+ame	Amele	1	Absent	-5.25	145.583333333	Madang	Trans-New Guinea	Nominal Categories
+amh	Amharic	1	Absent	10.0	38.0	Semitic	Afro-Asiatic	Nominal Categories
+ami	Amis	1	Absent	23.3333333333	121.333333333	East Formosan	Austronesian	Nominal Categories
+apu	Apurinã	1	Absent	-9.0	-67.0	Purus	Arawakan	Nominal Categories
+arb	Arabela	1	Absent	-2.0	-75.1666666667	Zaparoan	Zaparoan	Nominal Categories
+aeg	Arabic (Egyptian)	1	Absent	30.0	31.0	Semitic	Afro-Asiatic	Nominal Categories
+ako	Arabic (Kormakiti)	1	Absent	35.25	33.5	Semitic	Afro-Asiatic	Nominal Categories
+amr	Arabic (Moroccan)	1	Absent	34.0	-6.0	Semitic	Afro-Asiatic	Nominal Categories
+ara	Arawak	1	Absent	5.5	-55.1666666667	Caribbean Arawakan	Arawakan	Nominal Categories
+abo	Arbore	1	Absent	5.0	36.75	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+arm	Armenian (Eastern)	1	Absent	40.0	45.0	Armenian	Indo-European	Nominal Categories
+arz	Armenian (Iranian)	2	Optional	32.6666666667	51.6666666667	Armenian	Indo-European	Nominal Categories
+aro	Arosi	1	Absent	-10.25	161.333333333	Oceanic	Austronesian	Nominal Categories
+ass	Assamese	3	Obligatory	26.0	93.0	Indic	Indo-European	Nominal Categories
+atk	Atakapa	1	Absent	30.0	-93.5	Atakapa	Atakapa	Nominal Categories
+ata	Atayal	1	Absent	24.5	121.333333333	Atayalic	Austronesian	Nominal Categories
+ath	Athpare	3	Obligatory	27.0	87.3333333333	Mahakiranti	Sino-Tibetan	Nominal Categories
+ava	Avar	1	Absent	42.5	46.5	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+awt	Awtuw	1	Absent	-3.58333333333	142.0	Ram	Sepik	Nominal Categories
+aze	Azerbaijani	2	Optional	40.5	48.5	Turkic	Altaic	Nominal Categories
+bgv	Bagvalal	1	Absent	42.5833333333	46.1666666667	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+bal	Balinese	2	Optional	-8.33333333333	115.25	Malayo-Sumbawan	Austronesian	Nominal Categories
+bnw	Baniwa	3	Obligatory	2.66666666667	-66.8333333333	Alto-Orinoco	Arawakan	Nominal Categories
+brl	Baragaunle	1	Absent	28.8333333333	83.8333333333	Bodic	Sino-Tibetan	Nominal Categories
+bae	Baré	1	Absent	1.0	-67.0	Inland Northern Arawakan	Arawakan	Nominal Categories
+bsq	Basque	1	Absent	43.0	-3.0	Basque	Basque	Nominal Categories
+bkr	Batak (Karo)	2	Optional	3.25	98.25	Northwest Sumatra-Barrier Islands	Austronesian	Nominal Categories
+beg	Begak-Ida'an	2	Optional	5.25	118.833333333	North Borneo	Austronesian	Nominal Categories
+bel	Belhare	3	Obligatory	26.9666666667	87.3	Mahakiranti	Sino-Tibetan	Nominal Categories
+ben	Bengali	3	Obligatory	24.0	90.0	Indic	Indo-European	Nominal Categories
+bit	Biatah	2	Optional	1.25	110.0	Land Dayak	Austronesian	Nominal Categories
+bok	Boko	3	Obligatory	10.5	3.5	Eastern Mande	Mande	Nominal Categories
+bor	Bora	2	Optional	-2.16666666667	-72.3333333333	Boran	Huitotoan	Nominal Categories
+brh	Brahui	1	Absent	28.5	67.0	Northern Dravidian	Dravidian	Nominal Categories
+bul	Bulgarian	1	Absent	42.5	25.0	Slavic	Indo-European	Nominal Categories
+but	Buriat	1	Absent	52.0	108.0	Mongolic	Altaic	Nominal Categories
+brm	Burmese	3	Obligatory	21.0	96.0	Burmese-Lolo	Sino-Tibetan	Nominal Categories
+bur	Burushaski	1	Absent	36.5	74.5	Burushaski	Burushaski	Nominal Categories
+ckr	Canela-Krahô	1	Absent	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Nominal Categories
+cnt	Cantonese	3	Obligatory	23.0	113.0	Chinese	Sino-Tibetan	Nominal Categories
+cap	Capanahua	1	Absent	-7.0	-74.0	Panoan	Panoan	Nominal Categories
+crq	Carrier	3	Obligatory	53.75	-123.5	Athapaskan	Na-Dene	Nominal Categories
+cyv	Cayuvava	1	Absent	-13.5	-65.5	Cayuvava	Cayuvava	Nominal Categories
+cme	Cham (Eastern)	3	Obligatory	11.3333333333	108.5	Malayo-Sumbawan	Austronesian	Nominal Categories
+chw	Cham (Western)	3	Obligatory	12.0	105.5	Malayo-Sumbawan	Austronesian	Nominal Categories
+cha	Chamorro	1	Absent	13.45	144.75	Chamorro	Austronesian	Nominal Categories
+chn	Chantyal	2	Optional	28.5833333333	83.4166666667	Bodic	Sino-Tibetan	Nominal Categories
+chy	Chayahuita	2	Optional	-5.5	-77.0	Cahuapanan	Cahuapanan	Nominal Categories
+chc	Chechen	1	Absent	43.25	45.8333333333	Nakh	Nakh-Daghestanian	Nominal Categories
+cpn	Chepang	1	Absent	27.6666666667	84.75	Mahakiranti	Sino-Tibetan	Nominal Categories
+cjo	Chichimeca-Jonaz	1	Absent	21.6666666667	-100.5	Chichimec	Oto-Manguean	Nominal Categories
+chi	Chimariko	1	Absent	41.0	-123.0	Chimariko	Hokan	Nominal Categories
+cku	Chinook (Upper)	1	Absent	45.5	-122.5	Chinookan	Penutian	Nominal Categories
+ctm	Chitimacha	1	Absent	29.6666666667	-91.0	Chitimacha	Chitimacha	Nominal Categories
+cct	Choctaw	1	Absent	32.25	-88.5	Muskogean	Muskogean	Nominal Categories
+chx	Chontal (Huamelultec Oaxaca)	3	Obligatory	16.0	-95.75	Tequistlatecan	Tequistlatecan	Nominal Categories
+chk	Chukchi	1	Absent	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+cba	Chumash (Barbareño)	1	Absent	34.5	-120.25	Chumash	Chumash	Nominal Categories
+cin	Chumash (Ineseño)	1	Absent	34.6666666667	-120.25	Chumash	Chumash	Nominal Categories
+cuu	Chuukese	3	Obligatory	7.33333333333	151.75	Oceanic	Austronesian	Nominal Categories
+chv	Chuvash	1	Absent	55.5	47.5	Turkic	Altaic	Nominal Categories
+coo	Coos (Hanis)	1	Absent	43.5	-124.166666667	Coosan	Oregon Coast	Nominal Categories
+cre	Cree (Plains)	1	Absent	54.0	-110.0	Algonquian	Algic	Nominal Categories
+cul	Culina	1	Absent	-6.0	-70.5	Arauan	Arauan	Nominal Categories
+dga	Dagaare	1	Absent	10.5	-2.66666666667	Gur	Niger-Congo	Nominal Categories
+drg	Dargwa	1	Absent	42.25	47.4166666667	Lak-Dargwa	Nakh-Daghestanian	Nominal Categories
+dat	Datooga	1	Absent	-4.33333333333	35.3333333333	Nilotic	Eastern Sudanic	Nominal Categories
+den	Dení	1	Absent	-6.0	-67.0	Arauan	Arauan	Nominal Categories
+diz	Dizi	1	Absent	6.16666666667	36.5	Dizoid	Afro-Asiatic	Nominal Categories
+dji	Djingili	1	Absent	-17.75	134.0	Djingili	Mirndi	Nominal Categories
+dob	Dobel	2	Optional	-6.25	134.666666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+dre	Drehu	1	Absent	-21.0	167.25	Oceanic	Austronesian	Nominal Categories
+dum	Dumo	1	Absent	-2.68333333333	141.3	Western Skou	Skou	Nominal Categories
+dyi	Dyirbal	1	Absent	-17.8333333333	145.583333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+eng	English	1	Absent	52.0	0.0	Germanic	Indo-European	Nominal Categories
+epe	Epena Pedee	1	Absent	3.0	-77.0	Choco	Choco	Nominal Categories
+err	Erromangan	1	Absent	-18.8333333333	169.166666667	Oceanic	Austronesian	Nominal Categories
+eve	Evenki	1	Absent	56.0	125.0	Tungusic	Altaic	Nominal Categories
+eya	Eyak	3	Obligatory	60.5	-145.0	Eyak	Na-Dene	Nominal Categories
+fij	Fijian	1	Absent	-17.8333333333	178.0	Oceanic	Austronesian	Nominal Categories
+fin	Finnish	1	Absent	62.0	25.0	Finnic	Uralic	Nominal Categories
+fre	French	1	Absent	48.0	2.0	Romance	Indo-European	Nominal Categories
+fma	Fula (Mauritanian)	1	Absent	16.5	-13.75	Northern Atlantic	Niger-Congo	Nominal Categories
+fur	Fur	1	Absent	13.5	25.0	Fur	Fur	Nominal Categories
+fut	Futuna-Aniwa	1	Absent	-19.5333333333	170.216666667	Oceanic	Austronesian	Nominal Categories
+gaa	Gaagudju	1	Absent	-12.5833333333	132.833333333	Gaagudju	Gaagudju	Nominal Categories
+gar	Garo	3	Obligatory	25.6666666667	90.5	Bodo-Garo	Sino-Tibetan	Nominal Categories
+grr	Garrwa	1	Absent	-17.0833333333	137.166666667	Garrwan	Garrwan	Nominal Categories
+gav	Gavião	1	Absent	-10.6666666667	-62.0	Monde	Tupian	Nominal Categories
+gbb	Gbeya Bossangoa	1	Absent	6.66666666667	17.5	Gbaya-Manza-Ngbaka	Niger-Congo	Nominal Categories
+geo	Georgian	1	Absent	42.0	44.0	Kartvelian	Kartvelian	Nominal Categories
+ger	German	1	Absent	52.0	10.0	Germanic	Indo-European	Nominal Categories
+gil	Gilaki	2	Optional	37.3333333333	50.0	Iranian	Indo-European	Nominal Categories
+goo	Gooniyandi	1	Absent	-18.3333333333	126.333333333	Bunuban	Bunuban	Nominal Categories
+gua	Guaraní	1	Absent	-26.0	-56.0	Tupi-Guaraní	Tupian	Nominal Categories
+gdf	Guduf	1	Absent	11.2333333333	13.8	Biu-Mandara	Afro-Asiatic	Nominal Categories
+gnn	Gunin	1	Absent	-14.25	126.666666667	Worrorran	Worrorran	Nominal Categories
+hai	Haida	2	Optional	53.0	-132.0	Haida	Haida	Nominal Categories
+hat	Hatam	2	Optional	-1.0	134.0	Hatam	West Papuan	Nominal Categories
+hau	Hausa	1	Absent	12.0	7.0	West Chadic	Afro-Asiatic	Nominal Categories
+haw	Hawaiian	1	Absent	19.5833333333	-155.5	Oceanic	Austronesian	Nominal Categories
+heb	Hebrew (Modern)	1	Absent	31.5	34.8333333333	Semitic	Afro-Asiatic	Nominal Categories
+hin	Hindi	1	Absent	25.0	77.0	Indic	Indo-European	Nominal Categories
+hix	Hixkaryana	1	Absent	-1.0	-59.0	Cariban	Cariban	Nominal Categories
+hmd	Hmong Daw	3	Obligatory	26.0	105.0	Hmong-Mien	Hmong-Mien	Nominal Categories
+hok	Hokkien	2	Optional	25.0	118.0	Chinese	Sino-Tibetan	Nominal Categories
+hua	Hua	1	Absent	-6.33333333333	145.333333333	Eastern Highlands	Trans-New Guinea	Nominal Categories
+hun	Hungarian	2	Optional	47.0	20.0	Ugric	Uralic	Nominal Categories
+hzb	Hunzib	1	Absent	42.1666666667	46.25	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+hpd	Hup	1	Absent	0.166666666667	-69.25	Nadahup	Nadahup	Nominal Categories
+hyo	Hyow	3	Obligatory	22.0833333333	92.4166666667	Kuki-Chin	Sino-Tibetan	Nominal Categories
+iaa	Iaai	1	Absent	-20.4166666667	166.583333333	Oceanic	Austronesian	Nominal Categories
+igb	Igbo	1	Absent	6.0	7.33333333333	Igboid	Niger-Congo	Nominal Categories
+ika	Ika	1	Absent	10.6666666667	-73.75	Arhuacic	Chibchan	Nominal Categories
+imo	Imonda	1	Absent	-3.33333333333	141.166666667	Border	Border	Nominal Categories
+ind	Indonesian	2	Optional	0.0	106.0	Malayo-Sumbawan	Austronesian	Nominal Categories
+ing	Ingush	1	Absent	43.1666666667	45.0833333333	Nakh	Nakh-Daghestanian	Nominal Categories
+irq	Iraqw	1	Absent	-4.0	35.5	Southern Cushitic	Afro-Asiatic	Nominal Categories
+jah	Jahai	2	Optional	5.75	101.5	Aslian	Austro-Asiatic	Nominal Categories
+jak	Jakaltek	3	Obligatory	15.6666666667	-91.6666666667	Mayan	Mayan	Nominal Categories
+jmm	Jamamadi	1	Absent	-7.5	-67.0	Arauan	Arauan	Nominal Categories
+jam	Jaminjung	1	Absent	-15.0833333333	130.5	Jaminjungan	Mirndi	Nominal Categories
+jpn	Japanese	3	Obligatory	37.0	140.0	Japanese	Japanese	Nominal Categories
+jaq	Jaqaru	1	Absent	-13.0	-76.0	Aymaran	Aymaran	Nominal Categories
+jav	Javanese	2	Optional	-7.0	111.0	Javanese	Austronesian	Nominal Categories
+jiv	Jivaro	1	Absent	-2.5	-78.0	Jivaroan	Jivaroan	Nominal Categories
+juh	Ju|'hoan	1	Absent	-19.0	21.0	Ju-Kung	Kxa	Nominal Categories
+klp	Kalapuya	3	Obligatory	44.5	-123.0	Kalapuyan	Kalapuyan	Nominal Categories
+kam	Kambera	3	Obligatory	-9.83333333333	120.166666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+kan	Kana	3	Obligatory	4.75	7.41666666667	Cross River	Niger-Congo	Nominal Categories
+knd	Kannada	1	Absent	14.0	76.0	Southern Dravidian	Dravidian	Nominal Categories
+knr	Kanuri	1	Absent	12.0	13.0	Western Saharan	Saharan	Nominal Categories
+krk	Karok	1	Absent	41.6666666667	-123.0	Karok	Karok	Nominal Categories
+kyl	Kayah Li (Eastern)	3	Obligatory	19.0	97.5	Karen	Sino-Tibetan	Nominal Categories
+kbr	Kayan (Baram)	2	Optional	3.5	114.5	North Borneo	Austronesian	Nominal Categories
+kag	Kayu Agung	2	Optional	-3.16666666667	104.916666667	Lampungic	Austronesian	Nominal Categories
+keo	Ke'o	3	Obligatory	-8.83333333333	121.25	Central Malayo-Polynesian	Austronesian	Nominal Categories
+kei	Kei	3	Obligatory	-5.83333333333	132.916666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+klt	Kelabit	1	Absent	3.66666666667	115.416666667	North Borneo	Austronesian	Nominal Categories
+keu	Kenyah (Uma' Lung)	2	Optional	3.0	115.833333333	North Borneo	Austronesian	Nominal Categories
+ktp	Ketapang	3	Obligatory	-1.86666666667	110.0	Malayo-Sumbawan	Austronesian	Nominal Categories
+kew	Kewa	1	Absent	-6.5	143.833333333	Engan	Trans-New Guinea	Nominal Categories
+kha	Khalkha	1	Absent	47.0	105.0	Mongolic	Altaic	Nominal Categories
+kmh	Kham	3	Obligatory	28.5	82.75	Mahakiranti	Sino-Tibetan	Nominal Categories
+khr	Kharia	2	Optional	22.5	84.3333333333	Munda	Austro-Asiatic	Nominal Categories
+khm	Khmer	2	Optional	12.5	105.0	Khmer	Austro-Asiatic	Nominal Categories
+kmu	Khmu'	3	Obligatory	21.0	102.0	Palaung-Khmuic	Austro-Asiatic	Nominal Categories
+kho	Khoekhoe	1	Absent	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Nominal Categories
+khu	Khumi	3	Obligatory	21.9166666667	92.4166666667	Kuki-Chin	Sino-Tibetan	Nominal Categories
+klv	Kilivila	3	Obligatory	-8.5	151.083333333	Oceanic	Austronesian	Nominal Categories
+kio	Kiowa	1	Absent	37.0	-99.0	Kiowa-Tanoan	Kiowa-Tanoan	Nominal Categories
+krb	Kiribati	3	Obligatory	1.33333333333	173.0	Oceanic	Austronesian	Nominal Categories
+kiw	Kiwai	1	Absent	-8.0	143.5	Kiwaian	Kiwaian	Nominal Categories
+klm	Klamath	1	Absent	42.5	-121.5	Klamath-Modoc	Penutian	Nominal Categories
+kob	Kobon	1	Absent	-5.16666666667	144.333333333	Madang	Trans-New Guinea	Nominal Categories
+koi	Koiari	1	Absent	-9.5	147.333333333	Koiarian	Trans-New Guinea	Nominal Categories
+kmb	Kombai	1	Absent	-5.58333333333	140.0	Awju-Dumut	Trans-New Guinea	Nominal Categories
+kzy	Komi-Zyrian	1	Absent	65.0	55.0	Permic	Uralic	Nominal Categories
+knu	Konua	1	Absent	-5.83333333333	154.833333333	West Bougainville	West Bougainville	Nominal Categories
+krf	Korafe	1	Absent	-9.05	149.083333333	Binanderean	Trans-New Guinea	Nominal Categories
+kor	Korean	3	Obligatory	37.5	128.0	Korean	Korean	Nominal Categories
+kku	Korku	1	Absent	22.5	78.5	Munda	Austro-Asiatic	Nominal Categories
+kfe	Koromfe	1	Absent	14.25	-0.916666666667	Gur	Niger-Congo	Nominal Categories
+kos	Kosraean	3	Obligatory	5.3	163.0	Oceanic	Austronesian	Nominal Categories
+kot	Kota	1	Absent	11.5	77.1666666667	Southern Dravidian	Dravidian	Nominal Categories
+kch	Koyra Chiini	1	Absent	17.0	-3.0	Songhay	Songhay	Nominal Categories
+kpe	Kpelle	1	Absent	7.0	-10.0	Western Mande	Mande	Nominal Categories
+kua	Kualan	3	Obligatory	-0.416666666667	110.416666667	Land Dayak	Austronesian	Nominal Categories
+kut	Kutenai	1	Absent	49.5	-116.0	Kutenai	Kutenai	Nominal Categories
+kwz	Kwaza	3	Obligatory	-12.5833333333	-60.6666666667	Kwaza	Kwaza	Nominal Categories
+kat	Kâte	1	Absent	-6.5	147.75	Finisterre-Huon	Trans-New Guinea	Nominal Categories
+lch	Lachi	3	Obligatory	22.6666666667	104.833333333	Kadai	Tai-Kadai	Nominal Categories
+lah	Lahu	3	Obligatory	20.0	98.1666666667	Burmese-Lolo	Sino-Tibetan	Nominal Categories
+lai	Lai	3	Obligatory	22.6666666667	93.6666666667	Kuki-Chin	Sino-Tibetan	Nominal Categories
+lkt	Lakhota	1	Absent	43.8333333333	-101.833333333	Core Siouan	Siouan	Nominal Categories
+lan	Lango	1	Absent	2.16666666667	33.0	Nilotic	Eastern Sudanic	Nominal Categories
+lrk	Larike	3	Obligatory	-3.75	127.916666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+lat	Latvian	1	Absent	57.0	24.0	Baltic	Indo-European	Nominal Categories
+let	Leti	1	Absent	-8.2	127.666666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+lez	Lezgian	1	Absent	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Nominal Categories
+lim	Limbu	1	Absent	27.1666666667	87.75	Mahakiranti	Sino-Tibetan	Nominal Categories
+lon	Loniu	3	Obligatory	-2.06666666667	147.333333333	Oceanic	Austronesian	Nominal Categories
+lov	Loven	3	Obligatory	15.0	106.333333333	Bahnaric	Austro-Asiatic	Nominal Categories
+luc	Lucazi	1	Absent	-14.0	20.0	Bantoid	Niger-Congo	Nominal Categories
+lda	Luganda	1	Absent	0.5	32.1666666667	Bantoid	Niger-Congo	Nominal Categories
+lug	Lugbara	1	Absent	3.08333333333	30.9166666667	Moru-Ma'di	Central Sudanic	Nominal Categories
+lui	Luiseño	1	Absent	33.3333333333	-117.166666667	California Uto-Aztecan	Uto-Aztecan	Nominal Categories
+lud	Lun Dayeh	2	Optional	4.0	115.916666667	North Borneo	Austronesian	Nominal Categories
+luo	Luo	1	Absent	-0.5	34.75	Nilotic	Eastern Sudanic	Nominal Categories
+lur	Luri	2	Optional	33.5	48.5	Iranian	Indo-European	Nominal Categories
+maa	Maasai	1	Absent	-3.0	36.0	Nilotic	Eastern Sudanic	Nominal Categories
+msy	Magar (Syangja)	1	Absent	28.0833333333	83.8333333333	Mahakiranti	Sino-Tibetan	Nominal Categories
+mhm	Mah Meri	2	Optional	2.83333333333	101.5	Aslian	Austro-Asiatic	Nominal Categories
+mne	Maidu (Northeast)	1	Absent	40.0	-120.666666667	Maiduan	Penutian	Nominal Categories
+mks	Makassar	2	Optional	-5.41666666667	119.583333333	South Sulawesi	Austronesian	Nominal Categories
+mal	Malagasy	1	Absent	-20.0	47.0	Barito	Austronesian	Nominal Categories
+mlk	Malakmalak	1	Absent	-13.4166666667	130.416666667	Northern Daly	Northern Daly	Nominal Categories
+mym	Malayalam	1	Absent	10.0	76.5	Southern Dravidian	Dravidian	Nominal Categories
+mli	Mali	1	Absent	-4.83333333333	152.25	Baining	Baining-Taulil	Nominal Categories
+mdn	Mandan	1	Absent	46.5	-102.5	Core Siouan	Siouan	Nominal Categories
+mnr	Mandar	2	Optional	-3.41666666667	119.083333333	South Sulawesi	Austronesian	Nominal Categories
+mnd	Mandarin	3	Obligatory	34.0	110.0	Chinese	Sino-Tibetan	Nominal Categories
+mdk	Mandinka	1	Absent	13.0	-15.6666666667	Western Mande	Mande	Nominal Categories
+myi	Mangarrayi	1	Absent	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Nominal Categories
+map	Mapudungun	1	Absent	-38.0	-72.0	Araucanian	Araucanian	Nominal Categories
+mhi	Marathi	1	Absent	19.0	76.0	Indic	Indo-European	Nominal Categories
+mrg	Margi	1	Absent	11.0	13.0	Biu-Mandara	Afro-Asiatic	Nominal Categories
+mar	Maricopa	1	Absent	33.1666666667	-113.166666667	Yuman	Hokan	Nominal Categories
+mrt	Martuthunira	1	Absent	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+mau	Maung	1	Absent	-11.9166666667	133.5	Iwaidjan	Iwaidjan	Nominal Categories
+may	Maybrat	2	Optional	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Nominal Categories
+mzn	Mazanderani	2	Optional	36.5	52.0	Iranian	Indo-European	Nominal Categories
+mbg	Mbugu	1	Absent	-4.33333333333	38.1666666667	Southern Cushitic	Afro-Asiatic	Nominal Categories
+mee	Me'en	1	Absent	5.0	37.0	Surmic	Eastern Sudanic	Nominal Categories
+mel	Melanau	2	Optional	2.5	111.5	North Borneo	Austronesian	Nominal Categories
+mde	Mende	1	Absent	7.83333333333	-11.5	Western Mande	Mande	Nominal Categories
+min	Minangkabau	2	Optional	-1.0	101.0	Malayo-Sumbawan	Austronesian	Nominal Categories
+mis	Miskito	1	Absent	14.0	-83.6666666667	Misumalpan	Misumalpan	Nominal Categories
+mit	Mituku	1	Absent	-1.66666666667	25.5	Bantoid	Niger-Congo	Nominal Categories
+mss	Miwok (Southern Sierra)	1	Absent	37.5	-120.0	Miwok	Penutian	Nominal Categories
+mxc	Mixtec (Chalcatongo)	1	Absent	17.05	-97.5833333333	Mixtecan	Oto-Manguean	Nominal Categories
+miy	Miya	1	Absent	10.9166666667	9.66666666667	West Chadic	Afro-Asiatic	Nominal Categories
+mlm	Mlabri (Minor)	3	Obligatory	18.5	101.0	Palaung-Khmuic	Austro-Asiatic	Nominal Categories
+mok	Mokilese	3	Obligatory	6.66666666667	159.75	Oceanic	Austronesian	Nominal Categories
+mll	Molala	1	Absent	44.5	-122.5	Molala	Penutian	Nominal Categories
+moe	Mordvin (Erzya)	1	Absent	53.0	45.5	Mordvin	Uralic	Nominal Categories
+mos	Mosetén	1	Absent	-14.75	-67.8333333333	Mosetenan	Mosetenan	Nominal Categories
+msc	Muisca	1	Absent	5.0	-74.0	Chibcha-Duit	Chibchan	Nominal Categories
+muu	Mundurukú	1	Absent	-7.0	-58.0	Munduruku	Tupian	Nominal Categories
+mup	Mupun	1	Absent	9.5	8.83333333333	West Chadic	Afro-Asiatic	Nominal Categories
+mkw	Máku	1	Absent	0.416666666667	-69.8333333333	Máku	Máku	Nominal Categories
+nah	Nahali	1	Absent	19.75	77.8333333333	Nahali	Nahali	Nominal Categories
+nht	Nahuatl (Tetelcingo)	1	Absent	19.6666666667	-99.0	Aztecan	Uto-Aztecan	Nominal Categories
+nai	Nanai	1	Absent	49.5	137.0	Tungusic	Altaic	Nominal Categories
+npu	Napu	2	Optional	-1.33333333333	120.416666667	Celebic	Austronesian	Nominal Categories
+nar	Nara (in Ethiopia)	1	Absent	15.0833333333	37.5833333333	Nara	Eastern Sudanic	Nominal Categories
+nrm	Narom	2	Optional	4.41666666667	114.0	North Borneo	Austronesian	Nominal Categories
+nas	Nasioi	1	Absent	-6.33333333333	155.583333333	East Bougainville	East Bougainville	Nominal Categories
+nau	Nauruan	3	Obligatory	-0.5	166.916666667	Oceanic	Austronesian	Nominal Categories
+nav	Navajo	1	Absent	36.1666666667	-108.0	Athapaskan	Na-Dene	Nominal Categories
+ndy	Ndyuka	1	Absent	4.5	-54.5	Creoles and Pidgins	other	Nominal Categories
+nel	Nelemwa	3	Obligatory	-20.25	164.083333333	Oceanic	Austronesian	Nominal Categories
+nen	Nenets	1	Absent	69.0	72.0	Samoyedic	Uralic	Nominal Categories
+naj	Neo-Aramaic (Arbel Jewish)	1	Absent	31.75	35.0	Semitic	Afro-Asiatic	Nominal Categories
+new	Newari (Kathmandu)	3	Obligatory	27.6666666667	85.5	Mahakiranti	Sino-Tibetan	Nominal Categories
+ngd	Ngad'a	3	Obligatory	-8.83333333333	121.0	Central Malayo-Polynesian	Austronesian	Nominal Categories
+ngy	Ngarinyman	1	Absent	-16.5	130.5	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+ngi	Ngiyambaa	1	Absent	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+ngz	Ngizim	1	Absent	12.0833333333	10.9166666667	West Chadic	Afro-Asiatic	Nominal Categories
+nca	Nicobarese (Car)	2	Optional	9.0	93.0	Nicobarese	Austro-Asiatic	Nominal Categories
+niv	Nivkh	3	Obligatory	53.3333333333	142.0	Nivkh	Nivkh	Nominal Categories
+nvs	Nivkh (South Sakhalin)	3	Obligatory	47.0	142.5	Nivkh	Nivkh	Nominal Categories
+nbd	Nubian (Dongolese)	1	Absent	18.25	30.75	Nubian	Eastern Sudanic	Nominal Categories
+nug	Nunggubuyu	1	Absent	-13.75	135.666666667	Nunggubuyu	Gunwinyguan	Nominal Categories
+nyl	Nyelâyu	3	Obligatory	-20.3333333333	164.333333333	Oceanic	Austronesian	Nominal Categories
+nyu	Nyulnyul	1	Absent	-17.0	122.833333333	Nyulnyulan	Nyulnyulan	Nominal Categories
+ood	O'odham	1	Absent	32.0	-112.0	Tepiman	Uto-Aztecan	Nominal Categories
+oca	Ocaina	2	Optional	-2.75	-71.75	Huitoto	Huitotoan	Nominal Categories
+ore	Orejón	2	Optional	-2.83333333333	-72.5	Tucanoan	Tucanoan	Nominal Categories
+ori	Orig	1	Absent	12.1666666667	30.8333333333	Rashad	Kordofanian	Nominal Categories
+orh	Oromo (Harar)	1	Absent	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+pad	Padoe	2	Optional	-2.33333333333	121.333333333	Celebic	Austronesian	Nominal Categories
+pno	Paiute (Northern)	1	Absent	42.0	-118.0	Numic	Uto-Aztecan	Nominal Categories
+put	Paiute (Southern)	1	Absent	37.8333333333	-113.333333333	Numic	Uto-Aztecan	Nominal Categories
+plk	Palikur	3	Obligatory	3.0	-51.0	Eastern Arawakan	Arawakan	Nominal Categories
+pnr	Panare	1	Absent	6.5	-66.0	Cariban	Cariban	Nominal Categories
+prc	Parecis	1	Absent	-14.0	-57.0	Central Arawakan	Arawakan	Nominal Categories
+pau	Paumarí	1	Absent	-6.0	-64.0	Arauan	Arauan	Nominal Categories
+pwn	Pawnee	1	Absent	41.0	-98.6666666667	Caddoan	Caddoan	Nominal Categories
+prs	Persian	2	Optional	32.0	54.0	Iranian	Indo-European	Nominal Categories
+pia	Piaroa	2	Optional	5.0	-67.0	Piaroa	Sáliban	Nominal Categories
+pil	Pileni	2	Optional	-10.2166666667	166.216666667	Oceanic	Austronesian	Nominal Categories
+pba	Pima Bajo	1	Absent	29.0	-111.0	Tepiman	Uto-Aztecan	Nominal Categories
+pip	Pipil	1	Absent	13.8333333333	-89.5833333333	Aztecan	Uto-Aztecan	Nominal Categories
+prh	Pirahã	1	Absent	-7.0	-62.0	Mura	Mura	Nominal Categories
+pir	Piro	1	Absent	-11.0	-73.5	Purus	Arawakan	Nominal Categories
+poh	Pohnpeian	3	Obligatory	6.88333333333	158.25	Oceanic	Austronesian	Nominal Categories
+pur	Purépecha	3	Obligatory	19.5	-101.666666667	Tarascan	Tarascan	Nominal Categories
+qcu	Quechua (Cuzco)	1	Absent	-14.5	-71.0	Quechuan	Quechuan	Nominal Categories
+qhu	Quechua (Huallaga)	1	Absent	-9.5	-75.5	Quechuan	Quechuan	Nominal Categories
+qim	Quechua (Imbabura)	1	Absent	0.333333333333	-78.0	Quechuan	Quechuan	Nominal Categories
+qui	Quileute	1	Absent	47.9166666667	-124.25	Chimakuan	Chimakuan	Nominal Categories
+rap	Rapanui	1	Absent	-27.1166666667	-109.366666667	Oceanic	Austronesian	Nominal Categories
+rem	Remo	3	Obligatory	18.0	82.0	Munda	Austro-Asiatic	Nominal Categories
+rse	Romani (Sepecides)	2	Optional	38.25	27.0	Indic	Indo-European	Nominal Categories
+ruk	Rukai (Tanan)	1	Absent	22.8333333333	120.833333333	Rukai	Austronesian	Nominal Categories
+rru	Runyoro-Rutooro	1	Absent	1.5	31.3333333333	Bantoid	Niger-Congo	Nominal Categories
+rus	Russian	1	Absent	56.0	38.0	Slavic	Indo-European	Nominal Categories
+rcp	Russian-Chinese Pidgin (Birobidjan)	1	Absent	48.8	132.95	Creoles and Pidgins	other	Nominal Categories
+sal	Salinan	1	Absent	36.0	-121.0	Salinan	Salinan	Nominal Categories
+syu	Salt-Yui	1	Absent	-6.28333333333	145.033333333	Chimbu	Trans-New Guinea	Nominal Categories
+bjs	Sama (Southern)	2	Optional	4.5	118.5	Sama-Bajaw	Austronesian	Nominal Categories
+sam	Samoan	2	Optional	-13.9166666667	-171.833333333	Oceanic	Austronesian	Nominal Categories
+sdw	Sandawe	1	Absent	-5.0	35.0	Sandawe	Sandawe	Nominal Categories
+stl	Santali	2	Optional	24.5	87.0	Munda	Austro-Asiatic	Nominal Categories
+snm	Sanuma	2	Optional	4.5	-64.6666666667	Yanomam	Yanomam	Nominal Categories
+saw	Sawu	3	Obligatory	-11.5	121.916666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+see	Seediq	1	Absent	24.1666666667	121.416666667	Atayalic	Austronesian	Nominal Categories
+smd	Semandang	3	Obligatory	-0.75	110.5	Land Dayak	Austronesian	Nominal Categories
+sml	Semelai	3	Obligatory	3.0	103.0	Aslian	Austro-Asiatic	Nominal Categories
+snc	Seneca	1	Absent	42.5	-77.5	Northern Iroquoian	Iroquoian	Nominal Categories
+snt	Sentani	1	Absent	-2.58333333333	140.583333333	Sentani	Sentani	Nominal Categories
+ses	Sesotho	1	Absent	-28.0	27.0	Bantoid	Niger-Congo	Nominal Categories
+shs	Shasta	1	Absent	41.8333333333	-122.666666667	Shasta	Hokan	Nominal Categories
+shk	Shipibo-Konibo	1	Absent	-7.5	-75.0	Panoan	Panoan	Nominal Categories
+sim	Simeulue	3	Obligatory	2.5	96.25	Northwest Sumatra-Barrier Islands	Austronesian	Nominal Categories
+snh	Sinhala	1	Absent	7.0	80.5	Indic	Indo-European	Nominal Categories
+sin	Siona	2	Optional	0.333333333333	-76.25	Tucanoan	Tucanoan	Nominal Categories
+siu	Siuslaw	1	Absent	44.0	-124.0	Siuslawan	Oregon Coast	Nominal Categories
+so	So	3	Obligatory	2.58333333333	34.75	Kuliak	Eastern Sudanic	Nominal Categories
+sue	Suena	1	Absent	-7.75	147.55	Binanderean	Trans-New Guinea	Nominal Categories
+sul	Sulka	1	Absent	-5.08333333333	151.916666667	Sulka	Sulka	Nominal Categories
+sup	Supyire	1	Absent	11.5	-5.58333333333	Gur	Niger-Congo	Nominal Categories
+swa	Swahili	1	Absent	-6.5	39.0	Bantoid	Niger-Congo	Nominal Categories
+swt	Swati	1	Absent	-26.5	31.0	Bantoid	Niger-Congo	Nominal Categories
+tab	Taba	3	Obligatory	0.0	127.5	South Halmahera - West New Guinea	Austronesian	Nominal Categories
+tag	Tagalog	1	Absent	15.0	121.0	Greater Central Philippine	Austronesian	Nominal Categories
+tkl	Takelma	1	Absent	42.5	-123.0	Takelma	Takelma	Nominal Categories
+tvo	Tatar	2	Optional	56.0	49.5	Turkic	Altaic	Nominal Categories
+tts	Tati (Southern)	2	Optional	36.0	49.6666666667	Iranian	Indo-European	Nominal Categories
+tll	Taulil	1	Absent	-4.41666666667	152.083333333	Taulil	Baining-Taulil	Nominal Categories
+taw	Tawala	1	Absent	-10.3333333333	150.666666667	Oceanic	Austronesian	Nominal Categories
+tht	Tehit	3	Obligatory	-1.5	132.0	West Bird's Head	West Papuan	Nominal Categories
+tlf	Telefol	1	Absent	-5.0	141.75	Ok	Trans-New Guinea	Nominal Categories
+tmr	Temiar	1	Absent	5.0	101.5	Aslian	Austro-Asiatic	Nominal Categories
+tps	Tepehuan (Southeastern)	1	Absent	23.0	-104.5	Tepiman	Uto-Aztecan	Nominal Categories
+trb	Teribe	3	Obligatory	9.33333333333	-82.6666666667	Talamanca	Chibchan	Nominal Categories
+trn	Terêna	1	Absent	-20.0	-56.0	Bolivia-Parana	Arawakan	Nominal Categories
+ttn	Tetun	2	Optional	-9.0	126.0	Central Malayo-Polynesian	Austronesian	Nominal Categories
+tha	Thai	3	Obligatory	16.0	101.0	Kam-Tai	Tai-Kadai	Nominal Categories
+tho	Thompson	2	Optional	49.75	-121.75	Interior Salish	Salishan	Nominal Categories
+tid	Tidore	2	Optional	0.75	127.5	North Halmaheran	West Papuan	Nominal Categories
+tim	Timugon	1	Absent	5.0	116.0	North Borneo	Austronesian	Nominal Categories
+tiw	Tiwi	1	Absent	-11.5	131.0	Tiwian	Tiwian	Nominal Categories
+tli	Tlingit	3	Obligatory	59.0	-135.0	Tlingit	Na-Dene	Nominal Categories
+tob	Toba	1	Absent	-26.5	-59.0	South Guaicuruan	Guaicuruan	Nominal Categories
+tol	Tol	1	Absent	14.6666666667	-87.0	Tol	Tol	Nominal Categories
+tla	Tolai	1	Absent	-4.25	152.083333333	Oceanic	Austronesian	Nominal Categories
+tng	Tongan	2	Optional	-21.1666666667	-175.166666667	Oceanic	Austronesian	Nominal Categories
+ton	Tonkawa	1	Absent	30.25	-96.75	Tonkawa	Tonkawa	Nominal Categories
+toq	Toqabaqita	2	Optional	-8.41666666667	160.583333333	Oceanic	Austronesian	Nominal Categories
+tpa	Totonac (Papantla)	3	Obligatory	20.3333333333	-97.3333333333	Totonacan	Totonacan	Nominal Categories
+tow	Toussian (Win)	3	Obligatory	10.8333333333	-4.66666666667	Gur	Niger-Congo	Nominal Categories
+tsi	Tsimshian (Coast)	3	Obligatory	52.5	-129.0	Tsimshianic	Penutian	Nominal Categories
+tso	Tsou	1	Absent	23.5	120.75	Tsou	Austronesian	Nominal Categories
+tgh	Tuareg (Ghat)	1	Absent	25.0	10.1666666667	Berber	Afro-Asiatic	Nominal Categories
+tuc	Tucano	2	Optional	0.5	-69.1666666667	Tucanoan	Tucanoan	Nominal Categories
+tuk	Tukang Besi	2	Optional	-5.5	123.5	Celebic	Austronesian	Nominal Categories
+tnn	Tunen	1	Absent	4.75	10.6666666667	Bantoid	Niger-Congo	Nominal Categories
+tun	Tunica	1	Absent	32.6666666667	-91.0	Tunica	Tunica	Nominal Categories
+tur	Turkish	2	Optional	39.0	35.0	Turkic	Altaic	Nominal Categories
+tvl	Tuvaluan	2	Optional	-8.5	179.166666667	Oceanic	Austronesian	Nominal Categories
+tuv	Tuvan	1	Absent	52.0	95.0	Turkic	Altaic	Nominal Categories
+tuy	Tuyuca	3	Obligatory	0.5	-70.0833333333	Tucanoan	Tucanoan	Nominal Categories
+tze	Tzeltal	3	Obligatory	16.8333333333	-92.25	Mayan	Mayan	Nominal Categories
+uli	Ulithian	3	Obligatory	9.91666666667	139.583333333	Oceanic	Austronesian	Nominal Categories
+ung	Ungarinjin	1	Absent	-16.3333333333	126.0	Worrorran	Worrorran	Nominal Categories
+ura	Ura	1	Absent	-18.6666666667	169.083333333	Oceanic	Austronesian	Nominal Categories
+uhi	Uradhi	1	Absent	-11.9166666667	142.416666667	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+vaf	Vafsi	2	Optional	34.6666666667	49.9166666667	Iranian	Indo-European	Nominal Categories
+vie	Vietnamese	3	Obligatory	10.5	106.5	Viet-Muong	Austro-Asiatic	Nominal Categories
+wgl	Waigali	1	Absent	35.0	71.25	Nuristani	Indo-European	Nominal Categories
+wao	Waorani	3	Obligatory	-1.0	-76.5	Waorani	Waorani	Nominal Categories
+wap	Wappo	1	Absent	38.5	-122.5	Wappo	Wappo-Yukian	Nominal Categories
+wrk	Warekena	3	Obligatory	1.5	-67.5	Inland Northern Arawakan	Arawakan	Nominal Categories
+war	Wari'	1	Absent	-11.3333333333	-65.0	Chapacura-Wanham	Chapacura-Wanham	Nominal Categories
+wrn	Warndarang	1	Absent	-14.4166666667	135.583333333	Warndarang	Mangarrayi-Maran	Nominal Categories
+was	Washo	1	Absent	39.25	-120.0	Washo	Washo	Nominal Categories
+wur	Waurá	2	Optional	-13.0	-53.0	Central Arawakan	Arawakan	Nominal Categories
+wem	Wembawemba	1	Absent	-35.3333333333	144.0	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+win	Wintu	1	Absent	41.0	-122.5	Wintuan	Penutian	Nominal Categories
+wor	Worora	1	Absent	-15.6666666667	124.666666667	Worrorran	Worrorran	Nominal Categories
+yag	Yagua	3	Obligatory	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Nominal Categories
+ymi	Yami	1	Absent	22.0	121.5	Batanic	Austronesian	Nominal Categories
+yap	Yapese	2	Optional	9.58333333333	138.166666667	Yapese	Austronesian	Nominal Categories
+ywl	Yawelmani	1	Absent	35.4166666667	-119.0	Yokuts	Penutian	Nominal Categories
+yes	Yessan-Mayo	1	Absent	-4.16666666667	142.583333333	Tama Sepik	Sepik	Nominal Categories
+yid	Yidiny	1	Absent	-17.0	145.75	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yim	Yimas	1	Absent	-4.66666666667	143.55	Lower Sepik	Lower Sepik-Ramu	Nominal Categories
+yng	Yingkarta	1	Absent	-25.1666666667	114.833333333	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yor	Yoruba	1	Absent	8.0	4.33333333333	Defoid	Niger-Congo	Nominal Categories
+yct	Yucatec	3	Obligatory	20.0	-89.0	Mayan	Mayan	Nominal Categories
+yuc	Yuchi	1	Absent	35.75	-86.75	Yuchi	Yuchi	Nominal Categories
+yko	Yukaghir (Kolyma)	1	Absent	65.75	150.833333333	Yukaghir	Yukaghir	Nominal Categories
+yuk	Yukulta	1	Absent	-17.3333333333	138.833333333	Tangkic	Tangkic	Nominal Categories
+zul	Zulu	1	Absent	-30.0	30.0	Bantoid	Niger-Congo	Nominal Categories
+zun	Zuni	1	Absent	35.0833333333	-108.833333333	Zuni	Zuni	Nominal Categories

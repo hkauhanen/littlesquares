@@ -1,0 +1,226 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+ain	Ainu	1	Unrelated	43.0	143.0	Ainu	Ainu	Nominal Categories
+ala	Alamblak	5	Related by gender markers	-4.66666666667	143.333333333	Sepik Hill	Sepik	Nominal Categories
+ale	Aleut	2	Related for all demonstratives	54.0	-166.0	Aleut	Eskimo-Aleut	Nominal Categories
+amb	Ambulas	2	Related for all demonstratives	-3.83333333333	143.0	Middle Sepik	Sepik	Nominal Categories
+ame	Amele	1	Unrelated	-5.25	145.583333333	Madang	Trans-New Guinea	Nominal Categories
+agm	Angami	1	Unrelated	25.6666666667	94.5	Kuki-Chin	Sino-Tibetan	Nominal Categories
+apu	Apurinã	5	Related by gender markers	-9.0	-67.0	Purus	Arawakan	Nominal Categories
+aeg	Arabic (Egyptian)	5	Related by gender markers	30.0	31.0	Semitic	Afro-Asiatic	Nominal Categories
+arp	Arapesh (Mountain)	4	Related to non-remote demonstratives	-3.46666666667	143.166666667	Kombio-Arapesh	Torricelli	Nominal Categories
+arm	Armenian (Eastern)	3	Related to remote demonstratives	40.0	45.0	Armenian	Indo-European	Nominal Categories
+amp	Arrernte (Mparntwe)	1	Unrelated	-24.0	136.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+asm	Asmat	4	Related to non-remote demonstratives	-5.5	138.5	Asmat-Kamoro	Trans-New Guinea	Nominal Categories
+ath	Athpare	3	Related to remote demonstratives	27.0	87.3333333333	Mahakiranti	Sino-Tibetan	Nominal Categories
+awp	Awa Pit	6	Related for non-human reference	1.5	-78.25	Barbacoan	Barbacoan	Nominal Categories
+bab	Babungo	5	Related by gender markers	6.11666666667	10.4166666667	Bantoid	Niger-Congo	Nominal Categories
+bag	Bagirmi	1	Unrelated	11.6666666667	16.0	Bongo-Bagirmi	Central Sudanic	Nominal Categories
+brs	Barasano	3	Related to remote demonstratives	-0.166666666667	-70.6666666667	Tucanoan	Tucanoan	Nominal Categories
+bsq	Basque	2	Related for all demonstratives	43.0	-3.0	Basque	Basque	Nominal Categories
+baw	Bawm	1	Unrelated	22.5	92.25	Kuki-Chin	Sino-Tibetan	Nominal Categories
+bma	Berber (Middle Atlas)	1	Unrelated	33.0	-5.0	Berber	Afro-Asiatic	Nominal Categories
+brh	Brahui	4	Related to non-remote demonstratives	28.5	67.0	Northern Dravidian	Dravidian	Nominal Categories
+but	Buriat	2	Related for all demonstratives	52.0	108.0	Mongolic	Altaic	Nominal Categories
+brm	Burmese	1	Unrelated	21.0	96.0	Burmese-Lolo	Sino-Tibetan	Nominal Categories
+bur	Burushaski	3	Related to remote demonstratives	36.5	74.5	Burushaski	Burushaski	Nominal Categories
+cax	Campa (Axininca)	2	Related for all demonstratives	-12.0	-74.0	Pre-Andine Arawakan	Arawakan	Nominal Categories
+ckr	Canela-Krahô	1	Unrelated	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Nominal Categories
+cnt	Cantonese	1	Unrelated	23.0	113.0	Chinese	Sino-Tibetan	Nominal Categories
+cyv	Cayuvava	2	Related for all demonstratives	-13.5	-65.5	Cayuvava	Cayuvava	Nominal Categories
+cld	Chaldean (Modern)	2	Related for all demonstratives	36.0	43.0	Semitic	Afro-Asiatic	Nominal Categories
+cha	Chamorro	1	Unrelated	13.45	144.75	Chamorro	Austronesian	Nominal Categories
+cmh	Chemehuevi	2	Related for all demonstratives	34.3333333333	-115.166666667	Numic	Uto-Aztecan	Nominal Categories
+cle	Chinantec (Lealao)	4	Related to non-remote demonstratives	17.3333333333	-95.9166666667	Chinantecan	Oto-Manguean	Nominal Categories
+chk	Chukchi	1	Unrelated	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+chv	Chuvash	4	Related to non-remote demonstratives	55.5	47.5	Turkic	Altaic	Nominal Categories
+cre	Cree (Plains)	1	Unrelated	54.0	-110.0	Algonquian	Algic	Nominal Categories
+cub	Cubeo	2	Related for all demonstratives	1.33333333333	-70.5	Tucanoan	Tucanoan	Nominal Categories
+dni	Dani (Lower Grand Valley)	3	Related to remote demonstratives	-4.33333333333	138.833333333	Dani	Trans-New Guinea	Nominal Categories
+dig	Digaro	2	Related for all demonstratives	28.4166666667	96.0	Digaroan	Sino-Tibetan	Nominal Categories
+dio	Diola-Fogny	5	Related by gender markers	13.0	-16.25	Northern Atlantic	Niger-Congo	Nominal Categories
+djr	Djaru	1	Unrelated	-18.75	128.0	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+don	Dong	1	Unrelated	27.0	109.0	Kam-Tai	Tai-Kadai	Nominal Categories
+dmi	Dumi	6	Related for non-human reference	27.25	86.6666666667	Mahakiranti	Sino-Tibetan	Nominal Categories
+eng	English	2	Related for all demonstratives	52.0	0.0	Germanic	Indo-European	Nominal Categories
+epe	Epena Pedee	1	Unrelated	3.0	-77.0	Choco	Choco	Nominal Categories
+err	Erromangan	4	Related to non-remote demonstratives	-18.8333333333	169.166666667	Oceanic	Austronesian	Nominal Categories
+eve	Evenki	1	Unrelated	56.0	125.0	Tungusic	Altaic	Nominal Categories
+fij	Fijian	1	Unrelated	-17.8333333333	178.0	Oceanic	Austronesian	Nominal Categories
+fin	Finnish	1	Unrelated	62.0	25.0	Finnic	Uralic	Nominal Categories
+fre	French	5	Related by gender markers	48.0	2.0	Romance	Indo-European	Nominal Categories
+fut	Futuna-Aniwa	1	Unrelated	-19.5333333333	170.216666667	Oceanic	Austronesian	Nominal Categories
+gar	Garo	6	Related for non-human reference	25.6666666667	90.5	Bodo-Garo	Sino-Tibetan	Nominal Categories
+geo	Georgian	3	Related to remote demonstratives	42.0	44.0	Kartvelian	Kartvelian	Nominal Categories
+ger	German	5	Related by gender markers	52.0	10.0	Germanic	Indo-European	Nominal Categories
+gdi	Godié	6	Related for non-human reference	5.41666666667	-5.83333333333	Kru	Niger-Congo	Nominal Categories
+god	Godoberi	5	Related by gender markers	42.6666666667	46.0833333333	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+goo	Gooniyandi	1	Unrelated	-18.3333333333	126.333333333	Bunuban	Bunuban	Nominal Categories
+grb	Grebo	5	Related by gender markers	5.0	-8.0	Kru	Niger-Congo	Nominal Categories
+grw	Greenlandic (West)	4	Related to non-remote demonstratives	64.0	-51.0	Eskimo	Eskimo-Aleut	Nominal Categories
+gua	Guaraní	1	Unrelated	-26.0	-56.0	Tupi-Guaraní	Tupian	Nominal Categories
+guu	Guugu Yimidhirr	6	Related for non-human reference	-15.0	144.833333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+hau	Hausa	1	Unrelated	12.0	7.0	West Chadic	Afro-Asiatic	Nominal Categories
+haw	Hawaiian	3	Related to remote demonstratives	19.5833333333	-155.5	Oceanic	Austronesian	Nominal Categories
+heb	Hebrew (Modern)	2	Related for all demonstratives	31.5	34.8333333333	Semitic	Afro-Asiatic	Nominal Categories
+hin	Hindi	2	Related for all demonstratives	25.0	77.0	Indic	Indo-European	Nominal Categories
+hix	Hixkaryana	2	Related for all demonstratives	-1.0	-59.0	Cariban	Cariban	Nominal Categories
+hun	Hungarian	6	Related for non-human reference	47.0	20.0	Ugric	Uralic	Nominal Categories
+hzb	Hunzib	2	Related for all demonstratives	42.1666666667	46.25	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+ika	Ika	1	Unrelated	10.6666666667	-73.75	Arhuacic	Chibchan	Nominal Categories
+ila	Ila	5	Related by gender markers	-15.5833333333	26.5	Bantoid	Niger-Congo	Nominal Categories
+imo	Imonda	1	Unrelated	-3.33333333333	141.166666667	Border	Border	Nominal Categories
+ind	Indonesian	1	Unrelated	0.0	106.0	Malayo-Sumbawan	Austronesian	Nominal Categories
+ing	Ingush	1	Unrelated	43.1666666667	45.0833333333	Nakh	Nakh-Daghestanian	Nominal Categories
+irq	Iraqw	1	Unrelated	-4.0	35.5	Southern Cushitic	Afro-Asiatic	Nominal Categories
+iri	Irish	3	Related to remote demonstratives	53.0	-8.0	Celtic	Indo-European	Nominal Categories
+jak	Jakaltek	1	Unrelated	15.6666666667	-91.6666666667	Mayan	Mayan	Nominal Categories
+jpn	Japanese	1	Unrelated	37.0	140.0	Japanese	Japanese	Nominal Categories
+jaq	Jaqaru	6	Related for non-human reference	-13.0	-76.0	Aymaran	Aymaran	Nominal Categories
+jun	Juang	1	Unrelated	21.3333333333	86.0	Munda	Austro-Asiatic	Nominal Categories
+juh	Ju|'hoan	5	Related by gender markers	-19.0	21.0	Ju-Kung	Kxa	Nominal Categories
+kam	Kambera	2	Related for all demonstratives	-9.83333333333	120.166666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+knd	Kannada	3	Related to remote demonstratives	14.0	76.0	Southern Dravidian	Dravidian	Nominal Categories
+knr	Kanuri	1	Unrelated	12.0	13.0	Western Saharan	Saharan	Nominal Categories
+kws	Kawaiisu	2	Related for all demonstratives	36.0	-117.5	Numic	Uto-Aztecan	Nominal Categories
+kyl	Kayah Li (Eastern)	1	Unrelated	19.0	97.5	Karen	Sino-Tibetan	Nominal Categories
+kay	Kayardild	6	Related for non-human reference	-17.05	139.5	Tangkic	Tangkic	Nominal Categories
+kew	Kewa	1	Unrelated	-6.5	143.833333333	Engan	Trans-New Guinea	Nominal Categories
+kha	Khalkha	2	Related for all demonstratives	47.0	105.0	Mongolic	Altaic	Nominal Categories
+khr	Kharia	2	Related for all demonstratives	22.5	84.3333333333	Munda	Austro-Asiatic	Nominal Categories
+khs	Khasi	2	Related for all demonstratives	25.5	92.0	Khasian	Austro-Asiatic	Nominal Categories
+kmu	Khmu'	1	Unrelated	21.0	102.0	Palaung-Khmuic	Austro-Asiatic	Nominal Categories
+kho	Khoekhoe	1	Unrelated	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Nominal Categories
+klv	Kilivila	4	Related to non-remote demonstratives	-8.5	151.083333333	Oceanic	Austronesian	Nominal Categories
+krb	Kiribati	1	Unrelated	1.33333333333	173.0	Oceanic	Austronesian	Nominal Categories
+kis	Kisi	5	Related by gender markers	8.83333333333	-10.1666666667	Mel	Niger-Congo	Nominal Categories
+koa	Koasati	1	Unrelated	34.8333333333	-85.1666666667	Muskogean	Muskogean	Nominal Categories
+kob	Kobon	1	Unrelated	-5.16666666667	144.333333333	Madang	Trans-New Guinea	Nominal Categories
+kor	Korean	1	Unrelated	37.5	128.0	Korean	Korean	Nominal Categories
+kfe	Koromfe	1	Unrelated	14.25	-0.916666666667	Gur	Niger-Congo	Nominal Categories
+kos	Kosraean	1	Unrelated	5.3	163.0	Oceanic	Austronesian	Nominal Categories
+kch	Koyra Chiini	1	Unrelated	17.0	-3.0	Songhay	Songhay	Nominal Categories
+kse	Koyraboro Senni	1	Unrelated	16.0	0.0	Songhay	Songhay	Nominal Categories
+kwk	Kwakw'ala	1	Unrelated	51.0	-127.0	Northern Wakashan	Wakashan	Nominal Categories
+lah	Lahu	1	Unrelated	20.0	98.1666666667	Burmese-Lolo	Sino-Tibetan	Nominal Categories
+lkt	Lakhota	1	Unrelated	43.8333333333	-101.833333333	Core Siouan	Siouan	Nominal Categories
+lmp	Lampung	6	Related for non-human reference	-5.0	105.0	Lampungic	Austronesian	Nominal Categories
+lan	Lango	1	Unrelated	2.16666666667	33.0	Nilotic	Eastern Sudanic	Nominal Categories
+lat	Latvian	5	Related by gender markers	57.0	24.0	Baltic	Indo-European	Nominal Categories
+lav	Lavukaleve	2	Related for all demonstratives	-9.08333333333	159.2	Lavukaleve	Solomons East Papuan	Nominal Categories
+lep	Lepcha	1	Unrelated	27.1666666667	88.5	Lepcha	Sino-Tibetan	Nominal Categories
+lez	Lezgian	4	Related to non-remote demonstratives	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Nominal Categories
+lil	Lillooet	1	Unrelated	50.75	-122.0	Interior Salish	Salishan	Nominal Categories
+lim	Limbu	3	Related to remote demonstratives	27.1666666667	87.75	Mahakiranti	Sino-Tibetan	Nominal Categories
+luv	Luvale	5	Related by gender markers	-12.0	22.0	Bantoid	Niger-Congo	Nominal Categories
+mac	Macushi	2	Related for all demonstratives	4.0	-60.0	Cariban	Cariban	Nominal Categories
+mym	Malayalam	2	Related for all demonstratives	10.0	76.5	Southern Dravidian	Dravidian	Nominal Categories
+mlt	Maltese	5	Related by gender markers	35.9166666667	14.4166666667	Semitic	Afro-Asiatic	Nominal Categories
+mnd	Mandarin	6	Related for non-human reference	34.0	110.0	Chinese	Sino-Tibetan	Nominal Categories
+myi	Mangarrayi	2	Related for all demonstratives	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Nominal Categories
+mao	Maori	3	Related to remote demonstratives	-40.0	176.0	Oceanic	Austronesian	Nominal Categories
+map	Mapudungun	4	Related to non-remote demonstratives	-38.0	-72.0	Araucanian	Araucanian	Nominal Categories
+mhi	Marathi	2	Related for all demonstratives	19.0	76.0	Indic	Indo-European	Nominal Categories
+mrg	Margi	1	Unrelated	11.0	13.0	Biu-Mandara	Afro-Asiatic	Nominal Categories
+mar	Maricopa	2	Related for all demonstratives	33.1666666667	-113.166666667	Yuman	Hokan	Nominal Categories
+msh	Marshallese	4	Related to non-remote demonstratives	7.11666666667	171.05	Oceanic	Austronesian	Nominal Categories
+mrt	Martuthunira	1	Unrelated	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+mau	Maung	5	Related by gender markers	-11.9166666667	133.5	Iwaidjan	Iwaidjan	Nominal Categories
+may	Maybrat	5	Related by gender markers	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Nominal Categories
+mby	Mbay	1	Unrelated	8.25	17.5	Bongo-Bagirmi	Central Sudanic	Nominal Categories
+mei	Meithei	2	Related for all demonstratives	24.75	94.0	Kuki-Chin	Sino-Tibetan	Nominal Categories
+mic	Micmac	1	Unrelated	45.0	-63.0	Algonquian	Algic	Nominal Categories
+mss	Miwok (Southern Sierra)	2	Related for all demonstratives	37.5	-120.0	Miwok	Penutian	Nominal Categories
+mxc	Mixtec (Chalcatongo)	1	Unrelated	17.05	-97.5833333333	Mixtecan	Oto-Manguean	Nominal Categories
+mxo	Mixtec (Ocotepec)	1	Unrelated	17.1666666667	-97.75	Mixtecan	Oto-Manguean	Nominal Categories
+mxy	Mixtec (Yosondúa)	1	Unrelated	16.9166666667	-97.5833333333	Mixtecan	Oto-Manguean	Nominal Categories
+miy	Miya	1	Unrelated	10.9166666667	9.66666666667	West Chadic	Afro-Asiatic	Nominal Categories
+mok	Mokilese	1	Unrelated	6.66666666667	159.75	Oceanic	Austronesian	Nominal Categories
+mud	Mundani	1	Unrelated	5.66666666667	9.91666666667	Bantoid	Niger-Congo	Nominal Categories
+mun	Mundari	1	Unrelated	23.0	84.6666666667	Munda	Austro-Asiatic	Nominal Categories
+mup	Mupun	6	Related for non-human reference	9.5	8.83333333333	West Chadic	Afro-Asiatic	Nominal Categories
+nma	Naga (Mao)	1	Unrelated	25.5	94.3333333333	Kuki-Chin	Sino-Tibetan	Nominal Categories
+nht	Nahuatl (Tetelcingo)	2	Related for all demonstratives	19.6666666667	-99.0	Aztecan	Uto-Aztecan	Nominal Categories
+ndy	Ndyuka	1	Unrelated	4.5	-54.5	Creoles and Pidgins	other	Nominal Categories
+nez	Nez Perce	1	Unrelated	46.0	-116.0	Sahaptian	Penutian	Nominal Categories
+nti	Ngiti	1	Unrelated	1.33333333333	30.25	Lendu	Central Sudanic	Nominal Categories
+ngi	Ngiyambaa	2	Related for all demonstratives	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+niv	Nivkh	6	Related for non-human reference	53.3333333333	142.0	Nivkh	Nivkh	Nominal Categories
+nko	Nkore-Kiga	5	Related by gender markers	-0.916666666667	29.8333333333	Bantoid	Niger-Congo	Nominal Categories
+nku	Nubian (Kunuz)	1	Unrelated	23.0	33.0	Nubian	Eastern Sudanic	Nominal Categories
+nug	Nunggubuyu	1	Unrelated	-13.75	135.666666667	Nunggubuyu	Gunwinyguan	Nominal Categories
+ond	Oneida	1	Unrelated	43.0	-75.6666666667	Northern Iroquoian	Iroquoian	Nominal Categories
+orh	Oromo (Harar)	1	Unrelated	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+pms	Paamese	2	Related for all demonstratives	-16.5	168.25	Oceanic	Austronesian	Nominal Categories
+pal	Palauan	2	Related for all demonstratives	7.5	134.583333333	Palauan	Austronesian	Nominal Categories
+pan	Panjabi	2	Related for all demonstratives	31.0	74.0	Indic	Indo-European	Nominal Categories
+psm	Passamaquoddy-Maliseet	1	Unrelated	45.0	-67.0	Algonquian	Algic	Nominal Categories
+pau	Paumarí	2	Related for all demonstratives	-6.0	-64.0	Arauan	Arauan	Nominal Categories
+per	Pero	5	Related by gender markers	9.58333333333	11.0	West Chadic	Afro-Asiatic	Nominal Categories
+prs	Persian	6	Related for non-human reference	32.0	54.0	Iranian	Indo-European	Nominal Categories
+pip	Pipil	3	Related to remote demonstratives	13.8333333333	-89.5833333333	Aztecan	Uto-Aztecan	Nominal Categories
+prh	Pirahã	3	Related to remote demonstratives	-7.0	-62.0	Mura	Mura	Nominal Categories
+pit	Pitjantjatjara	4	Related to non-remote demonstratives	-26.0	130.0	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+ppi	Pitta Pitta	2	Related for all demonstratives	-22.8333333333	140.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+poh	Pohnpeian	1	Unrelated	6.88333333333	158.25	Oceanic	Austronesian	Nominal Categories
+pme	Pomo (Eastern)	1	Unrelated	39.0	-122.666666667	Pomoan	Hokan	Nominal Categories
+pso	Pomo (Southeastern)	2	Related for all demonstratives	39.0	-122.5	Pomoan	Hokan	Nominal Categories
+qim	Quechua (Imbabura)	6	Related for non-human reference	0.333333333333	-78.0	Quechuan	Quechuan	Nominal Categories
+qta	Quechua (Tarma)	6	Related for non-human reference	-11.4166666667	-75.75	Quechuan	Quechuan	Nominal Categories
+ram	Rama	2	Related for all demonstratives	11.75	-83.75	Rama	Chibchan	Nominal Categories
+rap	Rapanui	3	Related to remote demonstratives	-27.1166666667	-109.366666667	Oceanic	Austronesian	Nominal Categories
+rej	Rejang	1	Unrelated	-3.41666666667	102.5	Rejang	Austronesian	Nominal Categories
+rem	Remo	1	Unrelated	18.0	82.0	Munda	Austro-Asiatic	Nominal Categories
+ret	Retuarã	2	Related for all demonstratives	-0.5	-70.6666666667	Tucanoan	Tucanoan	Nominal Categories
+shp	Sahaptin (Northern)	1	Unrelated	46.5	-120.0	Sahaptian	Penutian	Nominal Categories
+sam	Samoan	3	Related to remote demonstratives	-13.9166666667	-171.833333333	Oceanic	Austronesian	Nominal Categories
+san	Sango	1	Unrelated	5.0	18.0	Ubangi	Niger-Congo	Nominal Categories
+saw	Sawu	1	Unrelated	-11.5	121.916666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+sml	Semelai	1	Unrelated	3.0	103.0	Aslian	Austro-Asiatic	Nominal Categories
+snt	Sentani	2	Related for all demonstratives	-2.58333333333	140.583333333	Sentani	Sentani	Nominal Categories
+scr	Serbian-Croatian	1	Unrelated	44.0	19.0	Slavic	Indo-European	Nominal Categories
+shn	Shona	5	Related by gender markers	-18.0	31.0	Bantoid	Niger-Congo	Nominal Categories
+snh	Sinhala	2	Related for all demonstratives	7.0	80.5	Indic	Indo-European	Nominal Categories
+sla	Slave	6	Related for non-human reference	67.0	-125.0	Athapaskan	Na-Dene	Nominal Categories
+spa	Spanish	1	Unrelated	40.0	-4.0	Romance	Indo-European	Nominal Categories
+sup	Supyire	2	Related for all demonstratives	11.5	-5.58333333333	Gur	Niger-Congo	Nominal Categories
+tab	Taba	2	Related for all demonstratives	0.0	127.5	South Halmahera - West New Guinea	Austronesian	Nominal Categories
+tag	Tagalog	1	Unrelated	15.0	121.0	Greater Central Philippine	Austronesian	Nominal Categories
+tau	Tauya	1	Unrelated	-5.75	145.333333333	Madang	Trans-New Guinea	Nominal Categories
+tha	Thai	1	Unrelated	16.0	101.0	Kam-Tai	Tai-Kadai	Nominal Categories
+tib	Tibetan (Standard Spoken)	1	Unrelated	30.0	91.0	Bodic	Sino-Tibetan	Nominal Categories
+tid	Tidore	2	Related for all demonstratives	0.75	127.5	North Halmaheran	West Papuan	Nominal Categories
+tja	Tiipay (Jamul)	2	Related for all demonstratives	32.1666666667	-116.5	Yuman	Hokan	Nominal Categories
+ton	Tonkawa	1	Unrelated	30.25	-96.75	Tonkawa	Tonkawa	Nominal Categories
+toq	Toqabaqita	1	Unrelated	-8.41666666667	160.583333333	Oceanic	Austronesian	Nominal Categories
+tot	Totonac (Misantla)	1	Unrelated	19.9166666667	-96.9166666667	Totonacan	Totonacan	Nominal Categories
+tru	Trumai	5	Related by gender markers	-11.9166666667	-53.5833333333	Trumai	Trumai	Nominal Categories
+tuk	Tukang Besi	1	Unrelated	-5.5	123.5	Celebic	Austronesian	Nominal Categories
+tun	Tunica	1	Unrelated	32.6666666667	-91.0	Tunica	Tunica	Nominal Categories
+tna	Turkana	1	Unrelated	3.0	35.5	Nilotic	Eastern Sudanic	Nominal Categories
+tur	Turkish	3	Related to remote demonstratives	39.0	35.0	Turkic	Altaic	Nominal Categories
+tte	Tutelo	1	Unrelated	37.6666666667	-78.75	Core Siouan	Siouan	Nominal Categories
+tvl	Tuvaluan	3	Related to remote demonstratives	-8.5	179.166666667	Oceanic	Austronesian	Nominal Categories
+tzu	Tzutujil	2	Related for all demonstratives	14.6666666667	-91.3333333333	Mayan	Mayan	Nominal Categories
+tsh	Tümpisa Shoshone	2	Related for all demonstratives	37.0	-117.0	Numic	Uto-Aztecan	Nominal Categories
+urk	Urubú-Kaapor	1	Unrelated	-2.33333333333	-46.5	Tupi-Guaraní	Tupian	Nominal Categories
+usa	Usan	1	Unrelated	-4.83333333333	145.166666667	Madang	Trans-New Guinea	Nominal Categories
+ven	Venda	5	Related by gender markers	-22.0	30.0	Bantoid	Niger-Congo	Nominal Categories
+vie	Vietnamese	3	Related to remote demonstratives	10.5	106.5	Viet-Muong	Austro-Asiatic	Nominal Categories
+wam	Wambaya	2	Related for all demonstratives	-18.6666666667	135.75	Wambayan	Mirndi	Nominal Categories
+wra	Warao	4	Related to non-remote demonstratives	9.33333333333	-61.6666666667	Warao	Warao	Nominal Categories
+wrd	Wardaman	2	Related for all demonstratives	-15.5	131.0	Yangmanic	Yangmanic	Nominal Categories
+war	Wari'	1	Unrelated	-11.3333333333	-65.0	Chapacura-Wanham	Chapacura-Wanham	Nominal Categories
+wic	Wichita	1	Unrelated	33.3333333333	-97.3333333333	Caddoan	Caddoan	Nominal Categories
+wik	Wikchamni	1	Unrelated	36.4166666667	-119.083333333	Yokuts	Penutian	Nominal Categories
+win	Wintu	4	Related to non-remote demonstratives	41.0	-122.5	Wintuan	Penutian	Nominal Categories
+yag	Yagua	6	Related for non-human reference	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Nominal Categories
+yaq	Yaqui	1	Unrelated	27.5	-110.25	Cahita	Uto-Aztecan	Nominal Categories
+yid	Yidiny	2	Related for all demonstratives	-17.0	145.75	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yim	Yimas	2	Related for all demonstratives	-4.66666666667	143.55	Lower Sepik	Lower Sepik-Ramu	Nominal Categories
+yor	Yoruba	1	Unrelated	8.0	4.33333333333	Defoid	Niger-Congo	Nominal Categories
+yuc	Yuchi	5	Related by gender markers	35.75	-86.75	Yuchi	Yuchi	Nominal Categories
+yko	Yukaghir (Kolyma)	1	Unrelated	65.75	150.833333333	Yukaghir	Yukaghir	Nominal Categories
+yuk	Yukulta	2	Related for all demonstratives	-17.3333333333	138.833333333	Tangkic	Tangkic	Nominal Categories
+ypk	Yup'ik (Central)	1	Unrelated	59.5	-160.0	Eskimo	Eskimo-Aleut	Nominal Categories
+yur	Yurok	2	Related for all demonstratives	41.3333333333	-124.0	Yurok	Algic	Nominal Categories
+zul	Zulu	5	Related by gender markers	-30.0	30.0	Bantoid	Niger-Congo	Nominal Categories

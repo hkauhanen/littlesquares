@@ -1,0 +1,330 @@
+Thomas Stolz, Cornelia Stroh, Aina Urdze. 2013. Comitatives and Instrumentals.
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at http://wals.info/chapter/52, Accessed on 2017-07-18.)
+
+
+wals code	name	value	description	latitude	longitude	genus	family	area
+xam	/Xam	1	Identity	-31.0	21.0	Tu	Tu	Nominal Categories
+abk	Abkhaz	2	Differentiation	43.0833333333	41.0	Northwest Caucasian	Northwest Caucasian	Nominal Categories
+acg	Achagua	2	Differentiation	4.41666666667	-72.25	Inland Northern Arawakan	Arawakan	Nominal Categories
+acl	Acholi	1	Identity	3.0	32.6666666667	Nilotic	Eastern Sudanic	Nominal Categories
+aco	Acoma	2	Differentiation	34.9166666667	-107.583333333	Keresan	Keresan	Nominal Categories
+afr	Afrikaans	1	Identity	-31.0	22.0	Germanic	Indo-European	Nominal Categories
+ain	Ainu	2	Differentiation	43.0	143.0	Ainu	Ainu	Nominal Categories
+ala	Alamblak	2	Differentiation	-4.66666666667	143.333333333	Sepik Hill	Sepik	Nominal Categories
+alb	Albanian	1	Identity	41.0	20.0	Albanian	Indo-European	Nominal Categories
+ale	Aleut	3	Mixed	54.0	-166.0	Aleut	Eskimo-Aleut	Nominal Categories
+aly	Alyawarra	2	Differentiation	-22.5	135.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+ame	Amele	2	Differentiation	-5.25	145.583333333	Madang	Trans-New Guinea	Nominal Categories
+adk	Andoke	1	Identity	-0.666666666667	-72.0	Andoke	Andoke	Nominal Categories
+agt	Anguthimri	2	Differentiation	-12.3333333333	141.833333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+aeg	Arabic (Egyptian)	2	Differentiation	30.0	31.0	Semitic	Afro-Asiatic	Nominal Categories
+arg	Arabic (Gulf)	2	Differentiation	26.0	49.0	Semitic	Afro-Asiatic	Nominal Categories
+arp	Arapesh (Mountain)	2	Differentiation	-3.46666666667	143.166666667	Kombio-Arapesh	Torricelli	Nominal Categories
+arm	Armenian (Eastern)	2	Differentiation	40.0	45.0	Armenian	Indo-European	Nominal Categories
+arr	Arrernte	2	Differentiation	-24.0	134.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+auy	Auyana	2	Differentiation	-6.5	145.75	Eastern Highlands	Trans-New Guinea	Nominal Categories
+ava	Avar	2	Differentiation	42.5	46.5	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+awt	Awtuw	1	Identity	-3.58333333333	142.0	Ram	Sepik	Nominal Categories
+aym	Aymara (Central)	1	Identity	-17.0	-69.0	Aymaran	Aymaran	Nominal Categories
+bag	Bagirmi	2	Differentiation	11.6666666667	16.0	Bongo-Bagirmi	Central Sudanic	Nominal Categories
+bak	Baka (in Cameroon)	1	Identity	2.58333333333	13.5833333333	Ubangi	Niger-Congo	Nominal Categories
+bam	Bambara	3	Mixed	12.5	-7.5	Western Mande	Mande	Nominal Categories
+brs	Barasano	1	Identity	-0.166666666667	-70.6666666667	Tucanoan	Tucanoan	Nominal Categories
+bar	Bari	1	Identity	5.0	31.6666666667	Nilotic	Eastern Sudanic	Nominal Categories
+bsq	Basque	2	Differentiation	43.0	-3.0	Basque	Basque	Nominal Categories
+bma	Berber (Middle Atlas)	2	Differentiation	33.0	-5.0	Berber	Afro-Asiatic	Nominal Categories
+bou	Berber (Wargla)	2	Differentiation	31.9166666667	5.33333333333	Berber	Afro-Asiatic	Nominal Categories
+bkl	Bikol	1	Identity	13.3333333333	123.5	Greater Central Philippine	Austronesian	Nominal Categories
+bnm	Binumarien	2	Differentiation	-6.28333333333	146.083333333	Eastern Highlands	Trans-New Guinea	Nominal Categories
+bis	Bisa	2	Differentiation	11.5	-0.5	Eastern Mande	Mande	Nominal Categories
+bla	Blackfoot	2	Differentiation	50.0	-112.666666667	Algonquian	Algic	Nominal Categories
+brh	Brahui	2	Differentiation	28.5	67.0	Northern Dravidian	Dravidian	Nominal Categories
+bre	Breton	1	Identity	48.0	-3.0	Celtic	Indo-European	Nominal Categories
+bur	Burushaski	2	Differentiation	36.5	74.5	Burushaski	Burushaski	Nominal Categories
+car	Carib	2	Differentiation	5.5	-56.0	Cariban	Cariban	Nominal Categories
+ctl	Catalan	1	Identity	41.75	2.0	Romance	Indo-European	Nominal Categories
+cmh	Chemehuevi	2	Differentiation	34.3333333333	-115.166666667	Numic	Uto-Aztecan	Nominal Categories
+cle	Chinantec (Lealao)	1	Identity	17.3333333333	-95.9166666667	Chinantecan	Oto-Manguean	Nominal Categories
+crg	Chiriguano	2	Differentiation	-23.6666666667	-64.3333333333	Tupi-Guaraní	Tupian	Nominal Categories
+cch	Chocho	1	Identity	17.6666666667	-97.4166666667	Popolocan	Oto-Manguean	Nominal Categories
+col	Chol	1	Identity	17.75	-92.5	Mayan	Mayan	Nominal Categories
+chk	Chukchi	2	Differentiation	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+ccp	Cocopa	1	Identity	32.3333333333	-115.0	Yuman	Hokan	Nominal Categories
+cog	Cogui	2	Differentiation	11.0	-73.8333333333	Arhuacic	Chibchan	Nominal Categories
+cmn	Comanche	2	Differentiation	33.5	-101.5	Numic	Uto-Aztecan	Nominal Categories
+com	Comorian	2	Differentiation	-12.0	44.0	Bantoid	Niger-Congo	Nominal Categories
+cmx	Comox	1	Identity	50.1666666667	-125.0	Central Salish	Salishan	Nominal Categories
+coo	Coos (Hanis)	3	Mixed	43.5	-124.166666667	Coosan	Oregon Coast	Nominal Categories
+cor	Cora	2	Differentiation	22.1666666667	-104.833333333	Corachol	Uto-Aztecan	Nominal Categories
+cem	Cèmuhî	2	Differentiation	-20.8333333333	165.166666667	Oceanic	Austronesian	Nominal Categories
+dgr	Dagur	2	Differentiation	48.0	124.0	Mongolic	Altaic	Nominal Categories
+dah	Dahalo	2	Differentiation	-2.33333333333	40.5	Dahalo	Afro-Asiatic	Nominal Categories
+dam	Damana	2	Differentiation	11.0	-73.5	Arhuacic	Chibchan	Nominal Categories
+dni	Dani (Lower Grand Valley)	2	Differentiation	-4.33333333333	138.833333333	Dani	Trans-New Guinea	Nominal Categories
+dsh	Danish	1	Identity	56.0	10.0	Germanic	Indo-European	Nominal Categories
+des	Desano	2	Differentiation	0.833333333333	-69.8333333333	Tucanoan	Tucanoan	Nominal Categories
+dre	Drehu	2	Differentiation	-21.0	167.25	Oceanic	Austronesian	Nominal Categories
+dug	Dullay (Gollango)	2	Differentiation	5.5	37.25	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+dmi	Dumi	2	Differentiation	27.25	86.6666666667	Mahakiranti	Sino-Tibetan	Nominal Categories
+efi	Efik	2	Differentiation	4.91666666667	8.5	Cross River	Niger-Congo	Nominal Categories
+ena	Enga	2	Differentiation	-5.5	143.666666667	Engan	Trans-New Guinea	Nominal Categories
+eng	English	1	Identity	52.0	0.0	Germanic	Indo-European	Nominal Categories
+est	Estonian	1	Identity	59.0	26.0	Finnic	Uralic	Nominal Categories
+evn	Even	2	Differentiation	68.0	130.0	Tungusic	Altaic	Nominal Categories
+eve	Evenki	2	Differentiation	56.0	125.0	Tungusic	Altaic	Nominal Categories
+ewe	Ewe	1	Identity	6.33333333333	0.416666666667	Kwa	Niger-Congo	Nominal Categories
+fij	Fijian	2	Differentiation	-17.8333333333	178.0	Oceanic	Austronesian	Nominal Categories
+fin	Finnish	2	Differentiation	62.0	25.0	Finnic	Uralic	Nominal Categories
+fon	Fongbe	3	Mixed	6.41666666667	2.16666666667	Kwa	Niger-Congo	Nominal Categories
+fre	French	1	Identity	48.0	2.0	Romance	Indo-European	Nominal Categories
+fni	Fula (Nigerian)	2	Differentiation	8.16666666667	10.5	Northern Atlantic	Niger-Congo	Nominal Categories
+fur	Fur	1	Identity	13.5	25.0	Fur	Fur	Nominal Categories
+fut	Futuna-Aniwa	1	Identity	-19.5333333333	170.216666667	Oceanic	Austronesian	Nominal Categories
+gds	Gadsup	2	Differentiation	-6.25	146.0	Eastern Highlands	Trans-New Guinea	Nominal Categories
+grf	Garífuna	3	Mixed	15.6666666667	-88.0	Caribbean Arawakan	Arawakan	Nominal Categories
+gbb	Gbeya Bossangoa	1	Identity	6.66666666667	17.5	Gbaya-Manza-Ngbaka	Niger-Congo	Nominal Categories
+geo	Georgian	3	Mixed	42.0	44.0	Kartvelian	Kartvelian	Nominal Categories
+ger	German	1	Identity	52.0	10.0	Germanic	Indo-European	Nominal Categories
+goa	Goajiro	2	Differentiation	12.0	-72.0	Caribbean Arawakan	Arawakan	Nominal Categories
+gol	Gola	2	Differentiation	7.25	-10.8333333333	Mel	Niger-Congo	Nominal Categories
+gon	Gondi	2	Differentiation	19.0	81.0	South-Central Dravidian	Dravidian	Nominal Categories
+goo	Gooniyandi	2	Differentiation	-18.3333333333	126.333333333	Bunuban	Bunuban	Nominal Categories
+grk	Greek (Modern)	1	Identity	39.0	22.0	Greek	Indo-European	Nominal Categories
+grw	Greenlandic (West)	2	Differentiation	64.0	-51.0	Eskimo	Eskimo-Aleut	Nominal Categories
+gua	Guaraní	2	Differentiation	-26.0	-56.0	Tupi-Guaraní	Tupian	Nominal Categories
+grj	Guarijío	2	Differentiation	27.75	-108.666666667	Tarahumaran	Uto-Aztecan	Nominal Categories
+gum	Gumbaynggir	2	Differentiation	-30.1666666667	152.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+gnn	Gunin	2	Differentiation	-14.25	126.666666667	Worrorran	Worrorran	Nominal Categories
+guu	Guugu Yimidhirr	2	Differentiation	-15.0	144.833333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+hai	Haida	3	Mixed	53.0	-132.0	Haida	Haida	Nominal Categories
+hau	Hausa	1	Identity	12.0	7.0	West Chadic	Afro-Asiatic	Nominal Categories
+haw	Hawaiian	3	Mixed	19.5833333333	-155.5	Oceanic	Austronesian	Nominal Categories
+heb	Hebrew (Modern)	1	Identity	31.5	34.8333333333	Semitic	Afro-Asiatic	Nominal Categories
+hin	Hindi	2	Differentiation	25.0	77.0	Indic	Indo-European	Nominal Categories
+hix	Hixkaryana	2	Differentiation	-1.0	-59.0	Cariban	Cariban	Nominal Categories
+ho	Ho	2	Differentiation	22.0	86.0	Munda	Austro-Asiatic	Nominal Categories
+hua	Hua	2	Differentiation	-6.33333333333	145.333333333	Eastern Highlands	Trans-New Guinea	Nominal Categories
+hve	Huave (San Mateo del Mar)	2	Differentiation	16.2166666667	-95.0	Huavean	Huavean	Nominal Categories
+hui	Huichol	2	Differentiation	22.0	-104.0	Corachol	Uto-Aztecan	Nominal Categories
+hun	Hungarian	3	Mixed	47.0	20.0	Ugric	Uralic	Nominal Categories
+hzb	Hunzib	2	Differentiation	42.1666666667	46.25	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+hup	Hupa	2	Differentiation	41.0833333333	-123.666666667	Athapaskan	Na-Dene	Nominal Categories
+ice	Icelandic	3	Mixed	65.0	-17.0	Germanic	Indo-European	Nominal Categories
+ila	Ila	1	Identity	-15.5833333333	26.5	Bantoid	Niger-Congo	Nominal Categories
+imo	Imonda	2	Differentiation	-3.33333333333	141.166666667	Border	Border	Nominal Categories
+ind	Indonesian	3	Mixed	0.0	106.0	Malayo-Sumbawan	Austronesian	Nominal Categories
+iga	Inga	1	Identity	1.0	-77.0	Quechuan	Quechuan	Nominal Categories
+irq	Iraqw	3	Mixed	-4.0	35.5	Southern Cushitic	Afro-Asiatic	Nominal Categories
+iri	Irish	1	Identity	53.0	-8.0	Celtic	Indo-European	Nominal Categories
+ita	Italian	1	Identity	43.0	12.0	Romance	Indo-European	Nominal Categories
+ite	Itelmen	2	Differentiation	57.0	157.5	Southern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+jak	Jakaltek	2	Differentiation	15.6666666667	-91.6666666667	Mayan	Mayan	Nominal Categories
+jpn	Japanese	2	Differentiation	37.0	140.0	Japanese	Japanese	Nominal Categories
+juh	Ju|'hoan	1	Identity	-19.0	21.0	Ju-Kung	Kxa	Nominal Categories
+kng	Kaingang	2	Differentiation	-26.0	-52.0	Ge-Kaingang	Macro-Ge	Nominal Categories
+kms	Kamass	1	Identity	52.0	92.0	Samoyedic	Uralic	Nominal Categories
+kam	Kambera	2	Differentiation	-9.83333333333	120.166666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+kwe	Kanjobal (Western)	2	Differentiation	15.8333333333	-91.8333333333	Mayan	Mayan	Nominal Categories
+knd	Kannada	2	Differentiation	14.0	76.0	Southern Dravidian	Dravidian	Nominal Categories
+knr	Kanuri	2	Differentiation	12.0	13.0	Western Saharan	Saharan	Nominal Categories
+krk	Karok	2	Differentiation	41.6666666667	-123.0	Karok	Karok	Nominal Categories
+kay	Kayardild	2	Differentiation	-17.05	139.5	Tangkic	Tangkic	Nominal Categories
+ker	Kera	1	Identity	9.83333333333	15.0833333333	East Chadic	Afro-Asiatic	Nominal Categories
+ket	Ket	1	Identity	64.0	87.0	Yeniseian	Yeniseian	Nominal Categories
+khl	Khalaj	1	Identity	35.0	50.0	Turkic	Altaic	Nominal Categories
+kha	Khalkha	2	Differentiation	47.0	105.0	Mongolic	Altaic	Nominal Categories
+kty	Khanty	1	Identity	65.0	65.0	Ugric	Uralic	Nominal Categories
+khr	Kharia	2	Differentiation	22.5	84.3333333333	Munda	Austro-Asiatic	Nominal Categories
+khs	Khasi	2	Differentiation	25.5	92.0	Khasian	Austro-Asiatic	Nominal Categories
+khm	Khmer	2	Differentiation	12.5	105.0	Khmer	Austro-Asiatic	Nominal Categories
+kho	Khoekhoe	1	Identity	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Nominal Categories
+klv	Kilivila	2	Differentiation	-8.5	151.083333333	Oceanic	Austronesian	Nominal Categories
+kin	Kinyarwanda	2	Differentiation	-2.0	30.0	Bantoid	Niger-Congo	Nominal Categories
+kis	Kisi	1	Identity	8.83333333333	-10.1666666667	Mel	Niger-Congo	Nominal Categories
+koa	Koasati	2	Differentiation	34.8333333333	-85.1666666667	Muskogean	Muskogean	Nominal Categories
+kob	Kobon	2	Differentiation	-5.16666666667	144.333333333	Madang	Trans-New Guinea	Nominal Categories
+koi	Koiari	2	Differentiation	-9.5	147.333333333	Koiarian	Trans-New Guinea	Nominal Categories
+kzy	Komi-Zyrian	3	Mixed	65.0	55.0	Permic	Uralic	Nominal Categories
+kor	Korean	2	Differentiation	37.5	128.0	Korean	Korean	Nominal Categories
+kry	Koryak	2	Differentiation	61.0	167.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+ktt	Kott	2	Differentiation	57.0	94.0	Yeniseian	Yeniseian	Nominal Categories
+koy	Koya	3	Mixed	17.5	81.3333333333	South-Central Dravidian	Dravidian	Nominal Categories
+kch	Koyra Chiini	3	Mixed	17.0	-3.0	Songhay	Songhay	Nominal Categories
+kro	Krongo	2	Differentiation	10.5	30.0	Kadugli	Kadu	Nominal Categories
+knm	Kunama	2	Differentiation	14.5	37.0	Kunama	Kunama	Nominal Categories
+kur	Kurukh	2	Differentiation	22.8333333333	85.5	Northern Dravidian	Dravidian	Nominal Categories
+kwr	Kwamera	1	Identity	-19.5833333333	169.416666667	Oceanic	Austronesian	Nominal Categories
+kwm	Kwami	2	Differentiation	10.4166666667	11.0	West Chadic	Afro-Asiatic	Nominal Categories
+kxo	Kxoe	2	Differentiation	-17.5	22.5	Khoe-Kwadi	Khoe-Kwadi	Nominal Categories
+kat	Kâte	2	Differentiation	-6.5	147.75	Finisterre-Huon	Trans-New Guinea	Nominal Categories
+lad	Ladakhi	2	Differentiation	34.0	78.0	Bodic	Sino-Tibetan	Nominal Categories
+ldn	Ladin	1	Identity	46.5833333333	11.9166666667	Romance	Indo-European	Nominal Categories
+lah	Lahu	2	Differentiation	20.0	98.1666666667	Burmese-Lolo	Sino-Tibetan	Nominal Categories
+lak	Lak	2	Differentiation	42.1666666667	47.1666666667	Lak-Dargwa	Nakh-Daghestanian	Nominal Categories
+lkt	Lakhota	2	Differentiation	43.8333333333	-101.833333333	Core Siouan	Siouan	Nominal Categories
+lan	Lango	3	Mixed	2.16666666667	33.0	Nilotic	Eastern Sudanic	Nominal Categories
+lat	Latvian	1	Identity	57.0	24.0	Baltic	Indo-European	Nominal Categories
+laz	Laz	2	Differentiation	41.5	41.5	Kartvelian	Kartvelian	Nominal Categories
+les	Lese	2	Differentiation	2.0	29.0	Mangbutu-Efe	Central Sudanic	Nominal Categories
+lez	Lezgian	2	Differentiation	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Nominal Categories
+lim	Limbu	2	Differentiation	27.1666666667	87.75	Mahakiranti	Sino-Tibetan	Nominal Categories
+lit	Lithuanian	3	Mixed	55.0	24.0	Baltic	Indo-European	Nominal Categories
+lga	Luangiua	1	Identity	-5.33333333333	159.416666667	Oceanic	Austronesian	Nominal Categories
+lug	Lugbara	2	Differentiation	3.08333333333	30.9166666667	Moru-Ma'di	Central Sudanic	Nominal Categories
+lui	Luiseño	2	Differentiation	33.3333333333	-117.166666667	California Uto-Aztecan	Uto-Aztecan	Nominal Categories
+luo	Luo	2	Differentiation	-0.5	34.75	Nilotic	Eastern Sudanic	Nominal Categories
+mne	Maidu (Northeast)	2	Differentiation	40.0	-120.666666667	Maiduan	Penutian	Nominal Categories
+mlt	Maltese	2	Differentiation	35.9166666667	14.4166666667	Semitic	Afro-Asiatic	Nominal Categories
+mmv	Mamvu	2	Differentiation	3.25	29.0	Mangbutu-Efe	Central Sudanic	Nominal Categories
+mnc	Manchu	2	Differentiation	49.5	127.5	Tungusic	Altaic	Nominal Categories
+mnd	Mandarin	2	Differentiation	34.0	110.0	Chinese	Sino-Tibetan	Nominal Categories
+myi	Mangarrayi	2	Differentiation	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Nominal Categories
+mgg	Mangghuer	2	Differentiation	36.0	102.0	Mongolic	Altaic	Nominal Categories
+maw	Maninka (Western)	2	Differentiation	13.0	-11.0	Western Mande	Mande	Nominal Categories
+mjk	Manjaku	2	Differentiation	12.0	-16.25	Northern Atlantic	Niger-Congo	Nominal Categories
+mns	Mansi	3	Mixed	62.0	62.0	Ugric	Uralic	Nominal Categories
+mao	Maori	2	Differentiation	-40.0	176.0	Oceanic	Austronesian	Nominal Categories
+map	Mapudungun	2	Differentiation	-38.0	-72.0	Araucanian	Araucanian	Nominal Categories
+mhi	Marathi	1	Identity	19.0	76.0	Indic	Indo-European	Nominal Categories
+mrg	Margi	2	Differentiation	11.0	13.0	Biu-Mandara	Afro-Asiatic	Nominal Categories
+mah	Mari (Hill)	2	Differentiation	57.0	58.0	Mari	Uralic	Nominal Categories
+mrd	Marind	2	Differentiation	-7.83333333333	140.166666667	Marind Proper	Marind	Nominal Categories
+msh	Marshallese	2	Differentiation	7.11666666667	171.05	Oceanic	Austronesian	Nominal Categories
+mrt	Martuthunira	2	Differentiation	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+msl	Masalit	1	Identity	13.3333333333	22.0	Maban	Maban	Nominal Categories
+myo	Mayo	2	Differentiation	26.0	-108.0	Cahita	Uto-Aztecan	Nominal Categories
+mzc	Mazatec (Chiquihuitlán)	1	Identity	17.75	-96.9166666667	Popolocan	Oto-Manguean	Nominal Categories
+mhu	Mbalanhu	1	Identity	-17.5	15.0	Bantoid	Niger-Congo	Nominal Categories
+mei	Meithei	2	Differentiation	24.75	94.0	Kuki-Chin	Sino-Tibetan	Nominal Categories
+mxa	Mixtec (Atatlahuca)	1	Identity	17.0	-97.75	Mixtecan	Oto-Manguean	Nominal Categories
+mog	Moghol	1	Identity	35.0	62.0	Mongolic	Altaic	Nominal Categories
+mok	Mokilese	1	Identity	6.66666666667	159.75	Oceanic	Austronesian	Nominal Categories
+moa	Mono-Alu	2	Differentiation	-7.05	155.75	Oceanic	Austronesian	Nominal Categories
+mun	Mundari	2	Differentiation	23.0	84.6666666667	Munda	Austro-Asiatic	Nominal Categories
+mup	Mupun	2	Differentiation	9.5	8.83333333333	West Chadic	Afro-Asiatic	Nominal Categories
+mrw	Muruwari	2	Differentiation	-28.75	147.0	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+nah	Nahali	2	Differentiation	19.75	77.8333333333	Nahali	Nahali	Nominal Categories
+nmi	Nahuatl (Mecayapan Isthmus)	2	Differentiation	18.25	-94.8333333333	Aztecan	Uto-Aztecan	Nominal Categories
+nan	Nandi	2	Differentiation	0.25	35.0	Nilotic	Eastern Sudanic	Nominal Categories
+nav	Navajo	2	Differentiation	36.1666666667	-108.0	Athapaskan	Na-Dene	Nominal Categories
+nen	Nenets	3	Mixed	69.0	72.0	Samoyedic	Uralic	Nominal Categories
+nwd	Newar (Dolakha)	2	Differentiation	27.3333333333	86.0	Mahakiranti	Sino-Tibetan	Nominal Categories
+ngl	Ngalakan	3	Mixed	-14.25	134.0	Ngalakan	Gunwinyguan	Nominal Categories
+nti	Ngiti	2	Differentiation	1.33333333333	30.25	Lendu	Central Sudanic	Nominal Categories
+ngi	Ngiyambaa	2	Differentiation	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+niv	Nivkh	2	Differentiation	53.3333333333	142.0	Nivkh	Nivkh	Nominal Categories
+nob	Nobiin	2	Differentiation	21.0	31.0	Nubian	Eastern Sudanic	Nominal Categories
+nor	Norwegian	1	Identity	61.0	8.0	Germanic	Indo-European	Nominal Categories
+nkr	Nukuoro	2	Differentiation	3.83333333333	154.916666667	Oceanic	Austronesian	Nominal Categories
+nya	Nyawaygi	2	Differentiation	-19.0	146.166666667	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+nyu	Nyulnyul	3	Mixed	-17.0	122.833333333	Nyulnyulan	Nyulnyulan	Nominal Categories
+orh	Oromo (Harar)	2	Differentiation	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+owc	Oromo (West-Central)	3	Mixed	9.0	37.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+ots	Otomí (Sierra)	2	Differentiation	20.6666666667	-98.8333333333	Otomian	Oto-Manguean	Nominal Categories
+pai	Paiwan	2	Differentiation	22.5	120.833333333	Paiwan	Austronesian	Nominal Categories
+pal	Palauan	2	Differentiation	7.5	134.583333333	Palauan	Austronesian	Nominal Categories
+pen	Pengo	3	Mixed	19.8333333333	83.8333333333	South-Central Dravidian	Dravidian	Nominal Categories
+per	Pero	2	Differentiation	9.58333333333	11.0	West Chadic	Afro-Asiatic	Nominal Categories
+prs	Persian	1	Identity	32.0	54.0	Iranian	Indo-European	Nominal Categories
+pia	Piaroa	2	Differentiation	5.0	-67.0	Piaroa	Sáliban	Nominal Categories
+pip	Pipil	1	Identity	13.8333333333	-89.5833333333	Aztecan	Uto-Aztecan	Nominal Categories
+prh	Pirahã	2	Differentiation	-7.0	-62.0	Mura	Mura	Nominal Categories
+ppi	Pitta Pitta	2	Differentiation	-22.8333333333	140.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+pol	Polish	2	Differentiation	52.0	20.0	Slavic	Indo-European	Nominal Categories
+psj	Popoloca (San Juan Atzingo)	2	Differentiation	18.1666666667	-96.4166666667	Popolocan	Oto-Manguean	Nominal Categories
+por	Portuguese	1	Identity	39.0	-8.0	Romance	Indo-European	Nominal Categories
+pur	Purépecha	2	Differentiation	19.5	-101.666666667	Tarascan	Tarascan	Nominal Categories
+pae	Páez	2	Differentiation	2.66666666667	-76.0	Páezan	Páezan	Nominal Categories
+qaw	Qawasqar	2	Differentiation	-49.0	-75.0	Alacalufan	Alacalufan	Nominal Categories
+qay	Quechua (Ayacucho)	3	Mixed	-14.0	-74.0	Quechuan	Quechuan	Nominal Categories
+qim	Quechua (Imbabura)	1	Identity	0.333333333333	-78.0	Quechuan	Quechuan	Nominal Categories
+qch	Quiché	2	Differentiation	15.0	-91.4166666667	Mayan	Mayan	Nominal Categories
+rap	Rapanui	2	Differentiation	-27.1166666667	-109.366666667	Oceanic	Austronesian	Nominal Categories
+rbu	Romani (Bugurdzi)	1	Identity	42.6666666667	21.1666666667	Indic	Indo-European	Nominal Categories
+rom	Romanian	1	Identity	46.0	25.0	Romance	Indo-European	Nominal Categories
+rmc	Romansch	1	Identity	46.6666666667	9.16666666667	Romance	Indo-European	Nominal Categories
+rus	Russian	3	Mixed	56.0	38.0	Slavic	Indo-European	Nominal Categories
+sno	Saami (Northern)	1	Identity	69.0	24.0	Saami	Uralic	Nominal Categories
+slb	Saliba (in Papua New Guinea)	2	Differentiation	-10.5833333333	150.716666667	Oceanic	Austronesian	Nominal Categories
+syu	Salt-Yui	2	Differentiation	-6.28333333333	145.033333333	Chimbu	Trans-New Guinea	Nominal Categories
+sam	Samoan	2	Differentiation	-13.9166666667	-171.833333333	Oceanic	Austronesian	Nominal Categories
+san	Sango	1	Identity	5.0	18.0	Ubangi	Niger-Congo	Nominal Categories
+srm	Saramaccan	3	Mixed	4.5	-55.5	Creoles and Pidgins	other	Nominal Categories
+slp	Selepet	2	Differentiation	-6.16666666667	147.166666667	Finisterre-Huon	Trans-New Guinea	Nominal Categories
+ssh	Shinassha	2	Differentiation	10.4166666667	36.1666666667	North Omotic	Afro-Asiatic	Nominal Categories
+shn	Shona	2	Differentiation	-18.0	31.0	Bantoid	Niger-Congo	Nominal Categories
+siu	Siuslaw	2	Differentiation	44.0	-124.0	Siuslawan	Oregon Coast	Nominal Categories
+sla	Slave	2	Differentiation	67.0	-125.0	Athapaskan	Na-Dene	Nominal Categories
+so	So	2	Differentiation	2.58333333333	34.75	Kuliak	Eastern Sudanic	Nominal Categories
+som	Somali	2	Differentiation	3.0	45.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+sor	Sora	1	Identity	20.0	84.3333333333	Munda	Austro-Asiatic	Nominal Categories
+srl	Sorbian (Lower)	1	Identity	51.75	14.3333333333	Slavic	Indo-European	Nominal Categories
+sre	Sre	3	Mixed	11.5	108.0	Bahnaric	Austro-Asiatic	Nominal Categories
+sup	Supyire	3	Mixed	11.5	-5.58333333333	Gur	Niger-Congo	Nominal Categories
+sus	Susu	1	Identity	10.0	-13.0	Western Mande	Mande	Nominal Categories
+swa	Swahili	2	Differentiation	-6.5	39.0	Bantoid	Niger-Congo	Nominal Categories
+swe	Swedish	1	Identity	60.0	15.0	Germanic	Indo-European	Nominal Categories
+tbs	Tabassaran	2	Differentiation	41.8333333333	47.9166666667	Lezgic	Nakh-Daghestanian	Nominal Categories
+tag	Tagalog	2	Differentiation	15.0	121.0	Greater Central Philippine	Austronesian	Nominal Categories
+tah	Tahitian	2	Differentiation	-17.6666666667	-149.583333333	Oceanic	Austronesian	Nominal Categories
+trr	Tairora	2	Differentiation	-6.5	146.0	Eastern Highlands	Trans-New Guinea	Nominal Categories
+tkl	Takelma	3	Mixed	42.5	-123.0	Takelma	Takelma	Nominal Categories
+tml	Tamil	2	Differentiation	11.0	78.5	Southern Dravidian	Dravidian	Nominal Categories
+tas	Tashlhiyt	2	Differentiation	31.0	-5.0	Berber	Afro-Asiatic	Nominal Categories
+tau	Tauya	2	Differentiation	-5.75	145.333333333	Madang	Trans-New Guinea	Nominal Categories
+tel	Telugu	2	Differentiation	16.0	79.0	South-Central Dravidian	Dravidian	Nominal Categories
+ter	Tera	1	Identity	11.0	11.8333333333	Biu-Mandara	Afro-Asiatic	Nominal Categories
+tha	Thai	2	Differentiation	16.0	101.0	Kam-Tai	Tai-Kadai	Nominal Categories
+tgk	Tigak	1	Identity	-2.71666666667	150.8	Oceanic	Austronesian	Nominal Categories
+tik	Tikar	1	Identity	5.83333333333	11.6666666667	Bantoid	Niger-Congo	Nominal Categories
+tin	Tinrin	2	Differentiation	-21.6666666667	165.75	Oceanic	Austronesian	Nominal Categories
+tlp	Tlapanec	1	Identity	17.0833333333	-99.0	Subtiaba-Tlapanec	Oto-Manguean	Nominal Categories
+tli	Tlingit	2	Differentiation	59.0	-135.0	Tlingit	Na-Dene	Nominal Categories
+tke	Tokelauan	2	Differentiation	-9.0	-172.0	Oceanic	Austronesian	Nominal Categories
+tng	Tongan	2	Differentiation	-21.1666666667	-175.166666667	Oceanic	Austronesian	Nominal Categories
+toq	Toqabaqita	2	Differentiation	-8.41666666667	160.583333333	Oceanic	Austronesian	Nominal Categories
+txj	Totonac (Xicotepec de Juárez)	2	Differentiation	20.4166666667	-97.8333333333	Totonacan	Totonacan	Nominal Categories
+tri	Trique (Copala)	2	Differentiation	17.1666666667	-97.9166666667	Mixtecan	Oto-Manguean	Nominal Categories
+tru	Trumai	2	Differentiation	-11.9166666667	-53.5833333333	Trumai	Trumai	Nominal Categories
+tug	Tuareg (Ahaggar)	2	Differentiation	23.0	6.0	Berber	Afro-Asiatic	Nominal Categories
+tbu	Tubu	2	Differentiation	16.0	15.0	Western Saharan	Saharan	Nominal Categories
+tup	Tupi	2	Differentiation	-6.0	-36.0	Tupi-Guaraní	Tupian	Nominal Categories
+tur	Turkish	1	Identity	39.0	35.0	Turkic	Altaic	Nominal Categories
+uby	Ubykh	2	Differentiation	43.6666666667	39.6666666667	Northwest Caucasian	Northwest Caucasian	Nominal Categories
+udi	Udi	2	Differentiation	41.0	48.0	Lezgic	Nakh-Daghestanian	Nominal Categories
+udm	Udmurt	1	Identity	57.5	52.5	Permic	Uralic	Nominal Categories
+una	Una	2	Differentiation	-4.66666666667	140.0	Mek	Trans-New Guinea	Nominal Categories
+uhi	Uradhi	2	Differentiation	-11.9166666667	142.416666667	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+url	Urak Lawoi'	1	Identity	8.0	98.3333333333	Malayo-Sumbawan	Austronesian	Nominal Categories
+urd	Urdu	2	Differentiation	25.0	67.0	Indic	Indo-European	Nominal Categories
+urk	Urubú-Kaapor	2	Differentiation	-2.33333333333	-46.5	Tupi-Guaraní	Tupian	Nominal Categories
+usr	Usarufa	2	Differentiation	-6.41666666667	145.583333333	Eastern Highlands	Trans-New Guinea	Nominal Categories
+uzb	Uzbek	3	Mixed	39.0	66.0	Turkic	Altaic	Nominal Categories
+vai	Vai	2	Differentiation	6.91666666667	-11.25	Western Mande	Mande	Nominal Categories
+ven	Venda	2	Differentiation	-22.0	30.0	Bantoid	Niger-Congo	Nominal Categories
+vot	Votic	3	Mixed	59.5	30.0	Finnic	Uralic	Nominal Categories
+wan	Wangkumara	2	Differentiation	-27.3333333333	143.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+wra	Warao	2	Differentiation	9.33333333333	-61.6666666667	Warao	Warao	Nominal Categories
+wrg	Warrgamay	2	Differentiation	-18.5833333333	146.083333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+wrw	Warrwa	2	Differentiation	-17.5	123.5	Nyulnyulan	Nyulnyulan	Nominal Categories
+wsk	Waskia	2	Differentiation	-4.5	146.0	Madang	Trans-New Guinea	Nominal Categories
+way	Wayampi	2	Differentiation	1.0	-52.0	Tupi-Guaraní	Tupian	Nominal Categories
+wel	Welsh	3	Mixed	52.0	-3.0	Celtic	Indo-European	Nominal Categories
+wch	Wichí	2	Differentiation	-22.5	-62.5833333333	Matacoan	Matacoan	Nominal Categories
+win	Wintu	2	Differentiation	41.0	-122.5	Wintuan	Penutian	Nominal Categories
+bah	Xiriana	2	Differentiation	2.66666666667	-62.5	Bahuanic	Arawakan	Nominal Categories
+ykt	Yakut	2	Differentiation	62.0	130.0	Turkic	Altaic	Nominal Categories
+yaq	Yaqui	2	Differentiation	27.5	-110.25	Cahita	Uto-Aztecan	Nominal Categories
+yel	Yelî Dnye	2	Differentiation	-11.3666666667	154.166666667	Yele	Yele	Nominal Categories
+yir	Yir Yiront	2	Differentiation	-14.8333333333	141.833333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yor	Yoruba	2	Differentiation	8.0	4.33333333333	Defoid	Niger-Congo	Nominal Categories
+yct	Yucatec	1	Identity	20.0	-89.0	Mayan	Mayan	Nominal Categories
+yko	Yukaghir (Kolyma)	2	Differentiation	65.75	150.833333333	Yukaghir	Yukaghir	Nominal Categories
+yuk	Yukulta	2	Differentiation	-17.3333333333	138.833333333	Tangkic	Tangkic	Nominal Categories
+ypk	Yup'ik (Central)	2	Differentiation	59.5	-160.0	Eskimo	Eskimo-Aleut	Nominal Categories
+zya	Zapotec (Yatzachi)	3	Mixed	17.2	-96.2	Zapotecan	Oto-Manguean	Nominal Categories
+zaz	Zazaki	1	Identity	39.0	41.0	Iranian	Indo-European	Nominal Categories
+zch	Zoque (Chimalapa)	2	Differentiation	16.75	-94.75	Mixe-Zoque	Mixe-Zoque	Nominal Categories

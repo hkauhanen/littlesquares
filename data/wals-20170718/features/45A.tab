@@ -1,0 +1,215 @@
+Johannes Helmbrecht. 2013. Politeness Distinctions in Pronouns.
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at http://wals.info/chapter/45, Accessed on 2017-07-18.)
+
+
+wals code	name	value	description	latitude	longitude	genus	family	area
+abu	Abun	1	No politeness distinction	-0.5	132.5	North-Central Bird's Head	West Papuan	Nominal Categories
+aco	Acoma	1	No politeness distinction	34.9166666667	-107.583333333	Keresan	Keresan	Nominal Categories
+ain	Ainu	2	Binary politeness distinction	43.0	143.0	Ainu	Ainu	Nominal Categories
+ala	Alamblak	1	No politeness distinction	-4.66666666667	143.333333333	Sepik Hill	Sepik	Nominal Categories
+alb	Albanian	1	No politeness distinction	41.0	20.0	Albanian	Indo-European	Nominal Categories
+ame	Amele	1	No politeness distinction	-5.25	145.583333333	Madang	Trans-New Guinea	Nominal Categories
+ago	Angolar	2	Binary politeness distinction	0.25	6.5	Creoles and Pidgins	other	Nominal Categories
+apu	Apurinã	1	No politeness distinction	-9.0	-67.0	Purus	Arawakan	Nominal Categories
+aeg	Arabic (Egyptian)	1	No politeness distinction	30.0	31.0	Semitic	Afro-Asiatic	Nominal Categories
+arp	Arapesh (Mountain)	1	No politeness distinction	-3.46666666667	143.166666667	Kombio-Arapesh	Torricelli	Nominal Categories
+arm	Armenian (Eastern)	2	Binary politeness distinction	40.0	45.0	Armenian	Indo-European	Nominal Categories
+asm	Asmat	1	No politeness distinction	-5.5	138.5	Asmat-Kamoro	Trans-New Guinea	Nominal Categories
+awp	Awa Pit	1	No politeness distinction	1.5	-78.25	Barbacoan	Barbacoan	Nominal Categories
+aym	Aymara (Central)	1	No politeness distinction	-17.0	-69.0	Aymaran	Aymaran	Nominal Categories
+bab	Babungo	1	No politeness distinction	6.11666666667	10.4166666667	Bantoid	Niger-Congo	Nominal Categories
+bag	Bagirmi	1	No politeness distinction	11.6666666667	16.0	Bongo-Bagirmi	Central Sudanic	Nominal Categories
+bam	Bambara	1	No politeness distinction	12.5	-7.5	Western Mande	Mande	Nominal Categories
+brs	Barasano	1	No politeness distinction	-0.166666666667	-70.6666666667	Tucanoan	Tucanoan	Nominal Categories
+bsq	Basque	2	Binary politeness distinction	43.0	-3.0	Basque	Basque	Nominal Categories
+bto	Batak (Toba)	2	Binary politeness distinction	2.5	99.0	Northwest Sumatra-Barrier Islands	Austronesian	Nominal Categories
+ble	Baule	1	No politeness distinction	7.0	-5.0	Kwa	Niger-Congo	Nominal Categories
+bma	Berber (Middle Atlas)	1	No politeness distinction	33.0	-5.0	Berber	Afro-Asiatic	Nominal Categories
+brh	Brahui	1	No politeness distinction	28.5	67.0	Northern Dravidian	Dravidian	Nominal Categories
+bre	Breton	2	Binary politeness distinction	48.0	-3.0	Celtic	Indo-European	Nominal Categories
+bri	Bribri	1	No politeness distinction	9.41666666667	-83.0	Talamanca	Chibchan	Nominal Categories
+brm	Burmese	4	Pronouns avoided for politeness	21.0	96.0	Burmese-Lolo	Sino-Tibetan	Nominal Categories
+bur	Burushaski	1	No politeness distinction	36.5	74.5	Burushaski	Burushaski	Nominal Categories
+ckr	Canela-Krahô	1	No politeness distinction	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Nominal Categories
+cyv	Cayuvava	1	No politeness distinction	-13.5	-65.5	Cayuvava	Cayuvava	Nominal Categories
+cha	Chamorro	1	No politeness distinction	13.45	144.75	Chamorro	Austronesian	Nominal Categories
+chk	Chukchi	1	No politeness distinction	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+cmn	Comanche	1	No politeness distinction	33.5	-101.5	Numic	Uto-Aztecan	Nominal Categories
+cop	Coptic	1	No politeness distinction	26.0	32.0	Egyptian-Coptic	Afro-Asiatic	Nominal Categories
+crn	Cornish	2	Binary politeness distinction	50.3333333333	-5.0	Celtic	Indo-European	Nominal Categories
+cre	Cree (Plains)	1	No politeness distinction	54.0	-110.0	Algonquian	Algic	Nominal Categories
+dag	Daga	1	No politeness distinction	-10.0	149.333333333	Dagan	Dagan	Nominal Categories
+dni	Dani (Lower Grand Valley)	1	No politeness distinction	-4.33333333333	138.833333333	Dani	Trans-New Guinea	Nominal Categories
+dsh	Danish	2	Binary politeness distinction	56.0	10.0	Germanic	Indo-European	Nominal Categories
+dmi	Dumi	1	No politeness distinction	27.25	86.6666666667	Mahakiranti	Sino-Tibetan	Nominal Categories
+dut	Dutch	2	Binary politeness distinction	52.5	6.0	Germanic	Indo-European	Nominal Categories
+dyi	Dyirbal	1	No politeness distinction	-17.8333333333	145.583333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+eng	English	1	No politeness distinction	52.0	0.0	Germanic	Indo-European	Nominal Categories
+eve	Evenki	1	No politeness distinction	56.0	125.0	Tungusic	Altaic	Nominal Categories
+ewe	Ewe	1	No politeness distinction	6.33333333333	0.416666666667	Kwa	Niger-Congo	Nominal Categories
+fij	Fijian	2	Binary politeness distinction	-17.8333333333	178.0	Oceanic	Austronesian	Nominal Categories
+fin	Finnish	2	Binary politeness distinction	62.0	25.0	Finnic	Uralic	Nominal Categories
+fre	French	2	Binary politeness distinction	48.0	2.0	Romance	Indo-European	Nominal Categories
+fur	Fur	1	No politeness distinction	13.5	25.0	Fur	Fur	Nominal Categories
+gae	Gaelic (Scots)	2	Binary politeness distinction	57.0	-4.0	Celtic	Indo-European	Nominal Categories
+gar	Garo	1	No politeness distinction	25.6666666667	90.5	Bodo-Garo	Sino-Tibetan	Nominal Categories
+geo	Georgian	2	Binary politeness distinction	42.0	44.0	Kartvelian	Kartvelian	Nominal Categories
+ger	German	2	Binary politeness distinction	52.0	10.0	Germanic	Indo-European	Nominal Categories
+goo	Gooniyandi	1	No politeness distinction	-18.3333333333	126.333333333	Bunuban	Bunuban	Nominal Categories
+grb	Grebo	1	No politeness distinction	5.0	-8.0	Kru	Niger-Congo	Nominal Categories
+grk	Greek (Modern)	2	Binary politeness distinction	39.0	22.0	Greek	Indo-European	Nominal Categories
+grw	Greenlandic (West)	1	No politeness distinction	64.0	-51.0	Eskimo	Eskimo-Aleut	Nominal Categories
+gua	Guaraní	1	No politeness distinction	-26.0	-56.0	Tupi-Guaraní	Tupian	Nominal Categories
+hat	Hatam	1	No politeness distinction	-1.0	134.0	Hatam	West Papuan	Nominal Categories
+hau	Hausa	1	No politeness distinction	12.0	7.0	West Chadic	Afro-Asiatic	Nominal Categories
+haw	Hawaiian	1	No politeness distinction	19.5833333333	-155.5	Oceanic	Austronesian	Nominal Categories
+heb	Hebrew (Modern)	1	No politeness distinction	31.5	34.8333333333	Semitic	Afro-Asiatic	Nominal Categories
+hin	Hindi	3	Multiple politeness distinctions	25.0	77.0	Indic	Indo-European	Nominal Categories
+hix	Hixkaryana	1	No politeness distinction	-1.0	-59.0	Cariban	Cariban	Nominal Categories
+hmo	Hmong Njua	1	No politeness distinction	28.0	105.0	Hmong-Mien	Hmong-Mien	Nominal Categories
+hun	Hungarian	3	Multiple politeness distinctions	47.0	20.0	Ugric	Uralic	Nominal Categories
+igb	Igbo	1	No politeness distinction	6.0	7.33333333333	Igboid	Niger-Congo	Nominal Categories
+imo	Imonda	1	No politeness distinction	-3.33333333333	141.166666667	Border	Border	Nominal Categories
+ind	Indonesian	4	Pronouns avoided for politeness	0.0	106.0	Malayo-Sumbawan	Austronesian	Nominal Categories
+irq	Iraqw	1	No politeness distinction	-4.0	35.5	Southern Cushitic	Afro-Asiatic	Nominal Categories
+iri	Irish	1	No politeness distinction	53.0	-8.0	Celtic	Indo-European	Nominal Categories
+ita	Italian	2	Binary politeness distinction	43.0	12.0	Romance	Indo-European	Nominal Categories
+jak	Jakaltek	1	No politeness distinction	15.6666666667	-91.6666666667	Mayan	Mayan	Nominal Categories
+jpn	Japanese	4	Pronouns avoided for politeness	37.0	140.0	Japanese	Japanese	Nominal Categories
+jaq	Jaqaru	1	No politeness distinction	-13.0	-76.0	Aymaran	Aymaran	Nominal Categories
+juh	Ju|'hoan	1	No politeness distinction	-19.0	21.0	Ju-Kung	Kxa	Nominal Categories
+kam	Kambera	1	No politeness distinction	-9.83333333333	120.166666667	Central Malayo-Polynesian	Austronesian	Nominal Categories
+knd	Kannada	3	Multiple politeness distinctions	14.0	76.0	Southern Dravidian	Dravidian	Nominal Categories
+knr	Kanuri	1	No politeness distinction	12.0	13.0	Western Saharan	Saharan	Nominal Categories
+krk	Karok	1	No politeness distinction	41.6666666667	-123.0	Karok	Karok	Nominal Categories
+kas	Kashmiri	2	Binary politeness distinction	34.0	76.0	Indic	Indo-European	Nominal Categories
+kyl	Kayah Li (Eastern)	1	No politeness distinction	19.0	97.5	Karen	Sino-Tibetan	Nominal Categories
+kay	Kayardild	1	No politeness distinction	-17.05	139.5	Tangkic	Tangkic	Nominal Categories
+ker	Kera	1	No politeness distinction	9.83333333333	15.0833333333	East Chadic	Afro-Asiatic	Nominal Categories
+kew	Kewa	1	No politeness distinction	-6.5	143.833333333	Engan	Trans-New Guinea	Nominal Categories
+kha	Khalkha	2	Binary politeness distinction	47.0	105.0	Mongolic	Altaic	Nominal Categories
+khs	Khasi	2	Binary politeness distinction	25.5	92.0	Khasian	Austro-Asiatic	Nominal Categories
+khm	Khmer	4	Pronouns avoided for politeness	12.5	105.0	Khmer	Austro-Asiatic	Nominal Categories
+kmu	Khmu'	1	No politeness distinction	21.0	102.0	Palaung-Khmuic	Austro-Asiatic	Nominal Categories
+kho	Khoekhoe	2	Binary politeness distinction	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Nominal Categories
+klv	Kilivila	1	No politeness distinction	-8.5	151.083333333	Oceanic	Austronesian	Nominal Categories
+kio	Kiowa	1	No politeness distinction	37.0	-99.0	Kiowa-Tanoan	Kiowa-Tanoan	Nominal Categories
+kis	Kisi	1	No politeness distinction	8.83333333333	-10.1666666667	Mel	Niger-Congo	Nominal Categories
+koa	Koasati	1	No politeness distinction	34.8333333333	-85.1666666667	Muskogean	Muskogean	Nominal Categories
+kob	Kobon	1	No politeness distinction	-5.16666666667	144.333333333	Madang	Trans-New Guinea	Nominal Categories
+kmb	Kombai	1	No politeness distinction	-5.58333333333	140.0	Awju-Dumut	Trans-New Guinea	Nominal Categories
+kon	Kongo	1	No politeness distinction	-5.0	15.0	Bantoid	Niger-Congo	Nominal Categories
+kor	Korean	4	Pronouns avoided for politeness	37.5	128.0	Korean	Korean	Nominal Categories
+kfe	Koromfe	2	Binary politeness distinction	14.25	-0.916666666667	Gur	Niger-Congo	Nominal Categories
+kos	Kosraean	2	Binary politeness distinction	5.3	163.0	Oceanic	Austronesian	Nominal Categories
+kse	Koyraboro Senni	1	No politeness distinction	16.0	0.0	Songhay	Songhay	Nominal Categories
+kro	Krongo	1	No politeness distinction	10.5	30.0	Kadugli	Kadu	Nominal Categories
+knm	Kunama	1	No politeness distinction	14.5	37.0	Kunama	Kunama	Nominal Categories
+kji	Kurmanji	1	No politeness distinction	38.0	42.0	Iranian	Indo-European	Nominal Categories
+kut	Kutenai	1	No politeness distinction	49.5	-116.0	Kutenai	Kutenai	Nominal Categories
+lkt	Lakhota	1	No politeness distinction	43.8333333333	-101.833333333	Core Siouan	Siouan	Nominal Categories
+lan	Lango	1	No politeness distinction	2.16666666667	33.0	Nilotic	Eastern Sudanic	Nominal Categories
+lat	Latvian	2	Binary politeness distinction	57.0	24.0	Baltic	Indo-European	Nominal Categories
+lav	Lavukaleve	1	No politeness distinction	-9.08333333333	159.2	Lavukaleve	Solomons East Papuan	Nominal Categories
+lez	Lezgian	1	No politeness distinction	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Nominal Categories
+lim	Limbu	1	No politeness distinction	27.1666666667	87.75	Mahakiranti	Sino-Tibetan	Nominal Categories
+lit	Lithuanian	3	Multiple politeness distinctions	55.0	24.0	Baltic	Indo-European	Nominal Categories
+luv	Luvale	2	Binary politeness distinction	-12.0	22.0	Bantoid	Niger-Congo	Nominal Categories
+mak	Makah	1	No politeness distinction	48.3333333333	-124.666666667	Southern Wakashan	Wakashan	Nominal Categories
+mal	Malagasy	1	No politeness distinction	-20.0	47.0	Barito	Austronesian	Nominal Categories
+mym	Malayalam	3	Multiple politeness distinctions	10.0	76.5	Southern Dravidian	Dravidian	Nominal Categories
+mnd	Mandarin	2	Binary politeness distinction	34.0	110.0	Chinese	Sino-Tibetan	Nominal Categories
+mmb	Mangap-Mbula	1	No politeness distinction	-5.66666666667	148.083333333	Oceanic	Austronesian	Nominal Categories
+myi	Mangarrayi	1	No politeness distinction	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Nominal Categories
+mnx	Manx	2	Binary politeness distinction	54.1666666667	-4.5	Celtic	Indo-European	Nominal Categories
+mao	Maori	1	No politeness distinction	-40.0	176.0	Oceanic	Austronesian	Nominal Categories
+map	Mapudungun	1	No politeness distinction	-38.0	-72.0	Araucanian	Araucanian	Nominal Categories
+mhi	Marathi	3	Multiple politeness distinctions	19.0	76.0	Indic	Indo-European	Nominal Categories
+mar	Maricopa	1	No politeness distinction	33.1666666667	-113.166666667	Yuman	Hokan	Nominal Categories
+mrt	Martuthunira	1	No politeness distinction	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+msl	Masalit	1	No politeness distinction	13.3333333333	22.0	Maban	Maban	Nominal Categories
+mau	Maung	1	No politeness distinction	-11.9166666667	133.5	Iwaidjan	Iwaidjan	Nominal Categories
+may	Maybrat	1	No politeness distinction	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Nominal Categories
+mei	Meithei	1	No politeness distinction	24.75	94.0	Kuki-Chin	Sino-Tibetan	Nominal Categories
+mss	Miwok (Southern Sierra)	1	No politeness distinction	37.5	-120.0	Miwok	Penutian	Nominal Categories
+mxc	Mixtec (Chalcatongo)	2	Binary politeness distinction	17.05	-97.5833333333	Mixtecan	Oto-Manguean	Nominal Categories
+mrl	Murle	1	No politeness distinction	6.5	33.5	Surmic	Eastern Sudanic	Nominal Categories
+nhh	Nahuatl (Huasteca)	2	Binary politeness distinction	22.0	-99.0	Aztecan	Uto-Aztecan	Nominal Categories
+nhn	Nahuatl (North Puebla)	2	Binary politeness distinction	20.0	-98.25	Aztecan	Uto-Aztecan	Nominal Categories
+nht	Nahuatl (Tetelcingo)	3	Multiple politeness distinctions	19.6666666667	-99.0	Aztecan	Uto-Aztecan	Nominal Categories
+nep	Nepali	3	Multiple politeness distinctions	28.0	85.0	Indic	Indo-European	Nominal Categories
+nez	Nez Perce	1	No politeness distinction	46.0	-116.0	Sahaptian	Penutian	Nominal Categories
+nti	Ngiti	1	No politeness distinction	1.33333333333	30.25	Lendu	Central Sudanic	Nominal Categories
+ngi	Ngiyambaa	1	No politeness distinction	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+noo	Noon	1	No politeness distinction	14.8333333333	-16.8333333333	Northern Atlantic	Niger-Congo	Nominal Categories
+nor	Norwegian	2	Binary politeness distinction	61.0	8.0	Germanic	Indo-European	Nominal Categories
+nbd	Nubian (Dongolese)	1	No politeness distinction	18.25	30.75	Nubian	Eastern Sudanic	Nominal Categories
+nug	Nunggubuyu	1	No politeness distinction	-13.75	135.666666667	Nunggubuyu	Gunwinyguan	Nominal Categories
+ond	Oneida	1	No politeness distinction	43.0	-75.6666666667	Northern Iroquoian	Iroquoian	Nominal Categories
+orh	Oromo (Harar)	1	No politeness distinction	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+oss	Ossetic	1	No politeness distinction	43.0	44.0	Iranian	Indo-European	Nominal Categories
+otm	Otomí (Mezquital)	1	No politeness distinction	20.1666666667	-99.1666666667	Otomian	Oto-Manguean	Nominal Categories
+pai	Paiwan	1	No politeness distinction	22.5	120.833333333	Paiwan	Austronesian	Nominal Categories
+pan	Panjabi	2	Binary politeness distinction	31.0	74.0	Indic	Indo-European	Nominal Categories
+psh	Pashto	2	Binary politeness distinction	33.0	67.0	Iranian	Indo-European	Nominal Categories
+per	Pero	1	No politeness distinction	9.58333333333	11.0	West Chadic	Afro-Asiatic	Nominal Categories
+prs	Persian	2	Binary politeness distinction	32.0	54.0	Iranian	Indo-European	Nominal Categories
+pip	Pipil	1	No politeness distinction	13.8333333333	-89.5833333333	Aztecan	Uto-Aztecan	Nominal Categories
+prh	Pirahã	1	No politeness distinction	-7.0	-62.0	Mura	Mura	Nominal Categories
+pit	Pitjantjatjara	1	No politeness distinction	-26.0	130.0	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+poh	Pohnpeian	3	Multiple politeness distinctions	6.88333333333	158.25	Oceanic	Austronesian	Nominal Categories
+pol	Polish	2	Binary politeness distinction	52.0	20.0	Slavic	Indo-European	Nominal Categories
+pso	Pomo (Southeastern)	1	No politeness distinction	39.0	-122.5	Pomoan	Hokan	Nominal Categories
+por	Portuguese	2	Binary politeness distinction	39.0	-8.0	Romance	Indo-European	Nominal Categories
+qim	Quechua (Imbabura)	2	Binary politeness distinction	0.333333333333	-78.0	Quechuan	Quechuan	Nominal Categories
+ram	Rama	1	No politeness distinction	11.75	-83.75	Rama	Chibchan	Nominal Categories
+rap	Rapanui	1	No politeness distinction	-27.1166666667	-109.366666667	Oceanic	Austronesian	Nominal Categories
+rom	Romanian	3	Multiple politeness distinctions	46.0	25.0	Romance	Indo-European	Nominal Categories
+rus	Russian	2	Binary politeness distinction	56.0	38.0	Slavic	Indo-European	Nominal Categories
+san	Sango	2	Binary politeness distinction	5.0	18.0	Ubangi	Niger-Congo	Nominal Categories
+snm	Sanuma	1	No politeness distinction	4.5	-64.6666666667	Yanomam	Yanomam	Nominal Categories
+sav	Savi	1	No politeness distinction	35.0	71.5	Indic	Indo-European	Nominal Categories
+snt	Sentani	1	No politeness distinction	-2.58333333333	140.583333333	Sentani	Sentani	Nominal Categories
+sng	Sinaugoro	1	No politeness distinction	-9.83333333333	147.833333333	Oceanic	Austronesian	Nominal Categories
+snh	Sinhala	3	Multiple politeness distinctions	7.0	80.5	Indic	Indo-European	Nominal Categories
+sla	Slave	1	No politeness distinction	67.0	-125.0	Athapaskan	Na-Dene	Nominal Categories
+som	Somali	1	No politeness distinction	3.0	45.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+spa	Spanish	2	Binary politeness distinction	40.0	-4.0	Romance	Indo-European	Nominal Categories
+sue	Suena	2	Binary politeness distinction	-7.75	147.55	Binanderean	Trans-New Guinea	Nominal Categories
+sup	Supyire	1	No politeness distinction	11.5	-5.58333333333	Gur	Niger-Congo	Nominal Categories
+swa	Swahili	1	No politeness distinction	-6.5	39.0	Bantoid	Niger-Congo	Nominal Categories
+swe	Swedish	2	Binary politeness distinction	60.0	15.0	Germanic	Indo-European	Nominal Categories
+tab	Taba	2	Binary politeness distinction	0.0	127.5	South Halmahera - West New Guinea	Austronesian	Nominal Categories
+tag	Tagalog	3	Multiple politeness distinctions	15.0	121.0	Greater Central Philippine	Austronesian	Nominal Categories
+tml	Tamil	3	Multiple politeness distinctions	11.0	78.5	Southern Dravidian	Dravidian	Nominal Categories
+taw	Tawala	1	No politeness distinction	-10.3333333333	150.666666667	Oceanic	Austronesian	Nominal Categories
+tay	Tayo	2	Binary politeness distinction	-22.0	166.333333333	Creoles and Pidgins	other	Nominal Categories
+ttn	Tetun	2	Binary politeness distinction	-9.0	126.0	Central Malayo-Polynesian	Austronesian	Nominal Categories
+tha	Thai	4	Pronouns avoided for politeness	16.0	101.0	Kam-Tai	Tai-Kadai	Nominal Categories
+tib	Tibetan (Standard Spoken)	2	Binary politeness distinction	30.0	91.0	Bodic	Sino-Tibetan	Nominal Categories
+tiw	Tiwi	1	No politeness distinction	-11.5	131.0	Tiwian	Tiwian	Nominal Categories
+tli	Tlingit	1	No politeness distinction	59.0	-135.0	Tlingit	Na-Dene	Nominal Categories
+tuk	Tukang Besi	3	Multiple politeness distinctions	-5.5	123.5	Celebic	Austronesian	Nominal Categories
+tur	Turkish	2	Binary politeness distinction	39.0	35.0	Turkic	Altaic	Nominal Categories
+ura	Ura	1	No politeness distinction	-18.6666666667	169.083333333	Oceanic	Austronesian	Nominal Categories
+urd	Urdu	3	Multiple politeness distinctions	25.0	67.0	Indic	Indo-European	Nominal Categories
+vie	Vietnamese	4	Pronouns avoided for politeness	10.5	106.5	Viet-Muong	Austro-Asiatic	Nominal Categories
+wam	Wambaya	1	No politeness distinction	-18.6666666667	135.75	Wambayan	Mirndi	Nominal Categories
+wra	Warao	1	No politeness distinction	9.33333333333	-61.6666666667	Warao	Warao	Nominal Categories
+war	Wari'	1	No politeness distinction	-11.3333333333	-65.0	Chapacura-Wanham	Chapacura-Wanham	Nominal Categories
+wel	Welsh	2	Binary politeness distinction	52.0	-3.0	Celtic	Indo-European	Nominal Categories
+wic	Wichita	1	No politeness distinction	33.3333333333	-97.3333333333	Caddoan	Caddoan	Nominal Categories
+wch	Wichí	1	No politeness distinction	-22.5	-62.5833333333	Matacoan	Matacoan	Nominal Categories
+yag	Yagua	1	No politeness distinction	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Nominal Categories
+yaq	Yaqui	1	No politeness distinction	27.5	-110.25	Cahita	Uto-Aztecan	Nominal Categories
+yim	Yimas	1	No politeness distinction	-4.66666666667	143.55	Lower Sepik	Lower Sepik-Ramu	Nominal Categories
+yin	Yindjibarndi	1	No politeness distinction	-21.75	117.916666667	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yor	Yoruba	2	Binary politeness distinction	8.0	4.33333333333	Defoid	Niger-Congo	Nominal Categories
+yct	Yucatec	1	No politeness distinction	20.0	-89.0	Mayan	Mayan	Nominal Categories
+yko	Yukaghir (Kolyma)	1	No politeness distinction	65.75	150.833333333	Yukaghir	Yukaghir	Nominal Categories
+yur	Yurok	1	No politeness distinction	41.3333333333	-124.0	Yurok	Algic	Nominal Categories
+zqc	Zoque (Copainalá)	1	No politeness distinction	17.0	-93.25	Mixe-Zoque	Mixe-Zoque	Nominal Categories
+zul	Zulu	1	No politeness distinction	-30.0	30.0	Bantoid	Niger-Congo	Nominal Categories

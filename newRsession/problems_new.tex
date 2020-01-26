@@ -1,0 +1,98 @@
+% with xelatex
+\documentclass[border=1pt]{standalone}
+
+\usepackage{mathspec}
+\setallmainfonts{Arial}
+
+\usepackage{wasysym}
+\usepackage{xcolor}
+
+%\definecolor{downcolor}{HTML}{0000FF}
+%\definecolor{upcolor}{HTML}{FF0000}
+\definecolor{upcolor}{HTML}{E3E600}
+\definecolor{downcolor}{HTML}{008EE6}
+\newcommand{\down}{\textcolor{downcolor}{\newmoon}}
+\newcommand{\up}{\textcolor{upcolor}{\newmoon}}
+
+\usepackage{tikz}
+\usepackage{marvosym}
+
+\usepackage{forest}
+\forestset{
+  sn edges/.style={for tree={parent anchor=south, child anchor=north}}
+}
+\forestset{
+  sn edgesn/.style={for tree={grow=north, parent anchor=north, child anchor=south}}
+}
+
+\newcommand{\horitransfer}{
+  \begin{tikzpicture}
+    \draw[purple,very thick,->] (6.7,-5.3) to[out=210,in=-30] (6.2,-5.3);
+  \end{tikzpicture}
+}
+
+
+
+\begin{document}
+
+\begin{tikzpicture}
+  \node[above] at (0,0) {\begin{forest}
+  sn edges
+  %for tree={grow=0,reversed,parent anchor=east,child anchor=west,edge={line cap=round},outer sep=+1pt}
+  [Uralic
+    [Samoyed
+      [\textbf{Nenets} \down]
+      [\textbf{\textdagger Kamassian} \up]
+    ]
+    [Finno-Ugric, l*=1.5
+      [Finno-Permic, l*=2.5
+        [Permic
+          [\textbf{Udmurt} \down]
+          [\textbf{Komi} \up]
+        ]
+        [Finno-Volgaic
+          [Finno-Samic
+            [Finnic
+              [Estonian
+                [\textbf{Modern Estonian} \down]
+                [\textbf{\textdagger Old Written Estonian} \up]
+              ]
+              [\textbf{Finnish} \down]
+            ]
+            [\textbf{Sami} \down]
+          ]
+          [\textbf{Mordvin} \up]
+        ]
+      ]
+      [Ugric
+        [\textbf{Hungarian} \up]
+        [\textbf{Mansi} \down]
+      ]
+    ]
+  ]
+  \end{forest}};
+  \node[above] at (8.0,0) {\begin{forest}
+    sn edges
+  %for tree={grow=0,reversed,parent anchor=east,child anchor=west,edge={line cap=round},outer sep=+1pt}
+  [Germanic
+    [East Germanic
+      [\textbf{\textdagger Gothic} \down]
+    ]
+    [West Germanic, l*=3, before computing xy={s=-6mm}
+      [\textbf{German} \up]
+      [\textbf{English} \up]
+      [\textbf{Dutch} \up]
+    ]
+    [North Germanic, before computing xy={s=20mm}
+      [\textbf{Icelandic} \up]
+      [\textbf{Swedish} \up]
+    ]
+  ]
+  \end{forest}};
+
+  \node[align=left] at (9.5,8.1) {\renewcommand{\arraystretch}{1.2}\begin{tabular}{|cl|}\hline\up&definite marker\\\down&no definite marker\\|&vertical descent\\\textcolor{purple}{\horitransfer}&horizontal transfer\\\textbf{\textdagger}&extinct language\\\hline\end{tabular}};
+
+    \draw[purple,very thick,->] (5.6,0.2) to[out=210,in=-30] (2.80,0.2);
+\end{tikzpicture}
+
+\end{document}

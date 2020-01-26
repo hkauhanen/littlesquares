@@ -1,0 +1,169 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+xun	!Xun (Ekoka)	7	Restricted	-19.6666666667	18.0	Ju-Kung	Kxa	Nominal Syntax
+abk	Abkhaz	3	Ergative-Possessive	43.0833333333	41.0	Northwest Caucasian	Northwest Caucasian	Nominal Syntax
+agl	Aghul	6	Mixed	41.75	47.6666666667	Lezgic	Nakh-Daghestanian	Nominal Syntax
+axv	Akhvakh	1	Sentential	42.3333333333	46.3333333333	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Syntax
+ala	Alamblak	8	No action nominals	-4.66666666667	143.333333333	Sepik Hill	Sepik	Nominal Syntax
+alb	Albanian	3	Ergative-Possessive	41.0	20.0	Albanian	Indo-European	Nominal Syntax
+ame	Amele	2	Possessive-Accusative	-5.25	145.583333333	Madang	Trans-New Guinea	Nominal Syntax
+amh	Amharic	2	Possessive-Accusative	10.0	38.0	Semitic	Afro-Asiatic	Nominal Syntax
+apl	Apalaí	3	Ergative-Possessive	0.0	-54.0	Cariban	Cariban	Nominal Syntax
+apu	Apurinã	1	Sentential	-9.0	-67.0	Purus	Arawakan	Nominal Syntax
+aeg	Arabic (Egyptian)	6	Mixed	30.0	31.0	Semitic	Afro-Asiatic	Nominal Syntax
+arp	Arapesh (Mountain)	8	No action nominals	-3.46666666667	143.166666667	Kombio-Arapesh	Torricelli	Nominal Syntax
+arc	Archi	1	Sentential	42.0	46.8333333333	Lezgic	Nakh-Daghestanian	Nominal Syntax
+arm	Armenian (Eastern)	2	Possessive-Accusative	40.0	45.0	Armenian	Indo-European	Nominal Syntax
+ava	Avar	1	Sentential	42.5	46.5	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Syntax
+awp	Awa Pit	8	No action nominals	1.5	-78.25	Barbacoan	Barbacoan	Nominal Syntax
+bam	Bambara	4	Double-Possessive	12.5	-7.5	Western Mande	Mande	Nominal Syntax
+brs	Barasano	1	Sentential	-0.166666666667	-70.6666666667	Tucanoan	Tucanoan	Nominal Syntax
+bsq	Basque	1	Sentential	43.0	-3.0	Basque	Basque	Nominal Syntax
+bez	Bezhta	1	Sentential	42.0833333333	46.1666666667	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Syntax
+bul	Bulgarian	3	Ergative-Possessive	42.5	25.0	Slavic	Indo-European	Nominal Syntax
+but	Buriat	2	Possessive-Accusative	52.0	108.0	Mongolic	Altaic	Nominal Syntax
+brm	Burmese	5	Other	21.0	96.0	Burmese-Lolo	Sino-Tibetan	Nominal Syntax
+bur	Burushaski	1	Sentential	36.5	74.5	Burushaski	Burushaski	Nominal Syntax
+bet	Bété	7	Restricted	6.25	-6.25	Kru	Niger-Congo	Nominal Syntax
+ckr	Canela-Krahô	1	Sentential	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Nominal Syntax
+cnt	Cantonese	8	No action nominals	23.0	113.0	Chinese	Sino-Tibetan	Nominal Syntax
+car	Carib	3	Ergative-Possessive	5.5	-56.0	Cariban	Cariban	Nominal Syntax
+crj	Carijona	3	Ergative-Possessive	1.0	-73.0	Cariban	Cariban	Nominal Syntax
+chm	Chamalal	1	Sentential	42.55	46.05	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Syntax
+cha	Chamorro	5	Other	13.45	144.75	Chamorro	Austronesian	Nominal Syntax
+chk	Chukchi	7	Restricted	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Syntax
+cre	Cree (Plains)	7	Restricted	54.0	-110.0	Algonquian	Algic	Nominal Syntax
+dbw	Dan (Blowo)	4	Double-Possessive	7.33333333333	-8.16666666667	Eastern Mande	Mande	Nominal Syntax
+die	Diegueño (Mesa Grande)	8	No action nominals	32.6666666667	-116.166666667	Yuman	Hokan	Nominal Syntax
+dut	Dutch	3	Ergative-Possessive	52.5	6.0	Germanic	Indo-European	Nominal Syntax
+eng	English	6	Mixed	52.0	0.0	Germanic	Indo-European	Nominal Syntax
+est	Estonian	6	Mixed	59.0	26.0	Finnic	Uralic	Nominal Syntax
+eve	Evenki	2	Possessive-Accusative	56.0	125.0	Tungusic	Altaic	Nominal Syntax
+ewe	Ewe	7	Restricted	6.33333333333	0.416666666667	Kwa	Niger-Congo	Nominal Syntax
+fin	Finnish	4	Double-Possessive	62.0	25.0	Finnic	Uralic	Nominal Syntax
+for	Fore	8	No action nominals	-6.75	145.5	Eastern Highlands	Trans-New Guinea	Nominal Syntax
+fre	French	3	Ergative-Possessive	48.0	2.0	Romance	Indo-European	Nominal Syntax
+fni	Fula (Nigerian)	7	Restricted	8.16666666667	10.5	Northern Atlantic	Niger-Congo	Nominal Syntax
+gag	Gagauz	8	No action nominals	46.3333333333	28.6666666667	Turkic	Altaic	Nominal Syntax
+geo	Georgian	3	Ergative-Possessive	42.0	44.0	Kartvelian	Kartvelian	Nominal Syntax
+ger	German	3	Ergative-Possessive	52.0	10.0	Germanic	Indo-European	Nominal Syntax
+god	Godoberi	1	Sentential	42.6666666667	46.0833333333	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Syntax
+goo	Gooniyandi	8	No action nominals	-18.3333333333	126.333333333	Bunuban	Bunuban	Nominal Syntax
+grk	Greek (Modern)	3	Ergative-Possessive	39.0	22.0	Greek	Indo-European	Nominal Syntax
+grw	Greenlandic (West)	7	Restricted	64.0	-51.0	Eskimo	Eskimo-Aleut	Nominal Syntax
+gua	Guaraní	7	Restricted	-26.0	-56.0	Tupi-Guaraní	Tupian	Nominal Syntax
+hau	Hausa	7	Restricted	12.0	7.0	West Chadic	Afro-Asiatic	Nominal Syntax
+heb	Hebrew (Modern)	6	Mixed	31.5	34.8333333333	Semitic	Afro-Asiatic	Nominal Syntax
+hin	Hindi	2	Possessive-Accusative	25.0	77.0	Indic	Indo-European	Nominal Syntax
+hix	Hixkaryana	3	Ergative-Possessive	-1.0	-59.0	Cariban	Cariban	Nominal Syntax
+hmo	Hmong Njua	8	No action nominals	28.0	105.0	Hmong-Mien	Hmong-Mien	Nominal Syntax
+hua	Hua	8	No action nominals	-6.33333333333	145.333333333	Eastern Highlands	Trans-New Guinea	Nominal Syntax
+hlp	Hualapai	8	No action nominals	35.5	-113.75	Yuman	Hokan	Nominal Syntax
+hun	Hungarian	7	Restricted	47.0	20.0	Ugric	Uralic	Nominal Syntax
+ice	Icelandic	5	Other	65.0	-17.0	Germanic	Indo-European	Nominal Syntax
+ika	Ika	8	No action nominals	10.6666666667	-73.75	Arhuacic	Chibchan	Nominal Syntax
+imo	Imonda	8	No action nominals	-3.33333333333	141.166666667	Border	Border	Nominal Syntax
+ind	Indonesian	3	Ergative-Possessive	0.0	106.0	Malayo-Sumbawan	Austronesian	Nominal Syntax
+ing	Ingush	1	Sentential	43.1666666667	45.0833333333	Nakh	Nakh-Daghestanian	Nominal Syntax
+iql	Inuktitut (Quebec-Labrador)	7	Restricted	62.0	-73.0	Eskimo	Eskimo-Aleut	Nominal Syntax
+irq	Iraqw	7	Restricted	-4.0	35.5	Southern Cushitic	Afro-Asiatic	Nominal Syntax
+iri	Irish	6	Mixed	53.0	-8.0	Celtic	Indo-European	Nominal Syntax
+jpn	Japanese	4	Double-Possessive	37.0	140.0	Japanese	Japanese	Nominal Syntax
+kbl	Kabyle	3	Ergative-Possessive	36.5	5.0	Berber	Afro-Asiatic	Nominal Syntax
+knd	Kannada	6	Mixed	14.0	76.0	Southern Dravidian	Dravidian	Nominal Syntax
+knr	Kanuri	6	Mixed	12.0	13.0	Western Saharan	Saharan	Nominal Syntax
+kyl	Kayah Li (Eastern)	8	No action nominals	19.0	97.5	Karen	Sino-Tibetan	Nominal Syntax
+kay	Kayardild	8	No action nominals	-17.05	139.5	Tangkic	Tangkic	Nominal Syntax
+ket	Ket	7	Restricted	64.0	87.0	Yeniseian	Yeniseian	Nominal Syntax
+kha	Khalkha	2	Possessive-Accusative	47.0	105.0	Mongolic	Altaic	Nominal Syntax
+kmu	Khmu'	7	Restricted	21.0	102.0	Palaung-Khmuic	Austro-Asiatic	Nominal Syntax
+kho	Khoekhoe	8	No action nominals	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Nominal Syntax
+klv	Kilivila	8	No action nominals	-8.5	151.083333333	Oceanic	Austronesian	Nominal Syntax
+kio	Kiowa	7	Restricted	37.0	-99.0	Kiowa-Tanoan	Kiowa-Tanoan	Nominal Syntax
+kob	Kobon	1	Sentential	-5.16666666667	144.333333333	Madang	Trans-New Guinea	Nominal Syntax
+kor	Korean	1	Sentential	37.5	128.0	Korean	Korean	Nominal Syntax
+kfe	Koromfe	7	Restricted	14.25	-0.916666666667	Gur	Niger-Congo	Nominal Syntax
+kse	Koyraboro Senni	7	Restricted	16.0	0.0	Songhay	Songhay	Nominal Syntax
+kro	Krongo	2	Possessive-Accusative	10.5	30.0	Kadugli	Kadu	Nominal Syntax
+kuo	Kuot	7	Restricted	-3.05	151.5	Kuot	Kuot	Nominal Syntax
+kji	Kurmanji	3	Ergative-Possessive	38.0	42.0	Iranian	Indo-European	Nominal Syntax
+kut	Kutenai	8	No action nominals	49.5	-116.0	Kutenai	Kutenai	Nominal Syntax
+lak	Lak	1	Sentential	42.1666666667	47.1666666667	Lak-Dargwa	Nakh-Daghestanian	Nominal Syntax
+lkt	Lakhota	8	No action nominals	43.8333333333	-101.833333333	Core Siouan	Siouan	Nominal Syntax
+lan	Lango	2	Possessive-Accusative	2.16666666667	33.0	Nilotic	Eastern Sudanic	Nominal Syntax
+lat	Latvian	4	Double-Possessive	57.0	24.0	Baltic	Indo-European	Nominal Syntax
+lav	Lavukaleve	1	Sentential	-9.08333333333	159.2	Lavukaleve	Solomons East Papuan	Nominal Syntax
+lel	Lele	6	Mixed	9.08333333333	15.5833333333	East Chadic	Afro-Asiatic	Nominal Syntax
+lez	Lezgian	1	Sentential	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Nominal Syntax
+lnd	Linda	2	Possessive-Accusative	6.5	20.75	Ubangi	Niger-Congo	Nominal Syntax
+luv	Luvale	2	Possessive-Accusative	-12.0	22.0	Bantoid	Niger-Congo	Nominal Syntax
+mak	Makah	8	No action nominals	48.3333333333	-124.666666667	Southern Wakashan	Wakashan	Nominal Syntax
+mlt	Maltese	4	Double-Possessive	35.9166666667	14.4166666667	Semitic	Afro-Asiatic	Nominal Syntax
+mnd	Mandarin	8	No action nominals	34.0	110.0	Chinese	Sino-Tibetan	Nominal Syntax
+myi	Mangarrayi	8	No action nominals	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Nominal Syntax
+mao	Maori	6	Mixed	-40.0	176.0	Oceanic	Austronesian	Nominal Syntax
+map	Mapudungun	2	Possessive-Accusative	-38.0	-72.0	Araucanian	Araucanian	Nominal Syntax
+mme	Mari (Meadow)	2	Possessive-Accusative	57.0	48.0	Mari	Uralic	Nominal Syntax
+mar	Maricopa	2	Possessive-Accusative	33.1666666667	-113.166666667	Yuman	Hokan	Nominal Syntax
+mrt	Martuthunira	8	No action nominals	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Nominal Syntax
+mau	Maung	8	No action nominals	-11.9166666667	133.5	Iwaidjan	Iwaidjan	Nominal Syntax
+may	Maybrat	8	No action nominals	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Nominal Syntax
+mei	Meithei	8	No action nominals	24.75	94.0	Kuki-Chin	Sino-Tibetan	Nominal Syntax
+mxc	Mixtec (Chalcatongo)	8	No action nominals	17.05	-97.5833333333	Mixtecan	Oto-Manguean	Nominal Syntax
+nmb	Nambikuára (Southern)	1	Sentential	-14.0	-59.5	Nambikuaran	Nambikuaran	Nominal Syntax
+nav	Navajo	8	No action nominals	36.1666666667	-108.0	Athapaskan	Na-Dene	Nominal Syntax
+nen	Nenets	2	Possessive-Accusative	69.0	72.0	Samoyedic	Uralic	Nominal Syntax
+nep	Nepali	1	Sentential	28.0	85.0	Indic	Indo-European	Nominal Syntax
+nez	Nez Perce	2	Possessive-Accusative	46.0	-116.0	Sahaptian	Penutian	Nominal Syntax
+ngi	Ngiyambaa	8	No action nominals	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Syntax
+niv	Nivkh	1	Sentential	53.3333333333	142.0	Nivkh	Nivkh	Nominal Syntax
+ond	Oneida	8	No action nominals	43.0	-75.6666666667	Northern Iroquoian	Iroquoian	Nominal Syntax
+orh	Oromo (Harar)	2	Possessive-Accusative	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Nominal Syntax
+pms	Paamese	7	Restricted	-16.5	168.25	Oceanic	Austronesian	Nominal Syntax
+pan	Panjabi	2	Possessive-Accusative	31.0	74.0	Indic	Indo-European	Nominal Syntax
+prs	Persian	3	Ergative-Possessive	32.0	54.0	Iranian	Indo-European	Nominal Syntax
+prh	Pirahã	1	Sentential	-7.0	-62.0	Mura	Mura	Nominal Syntax
+qim	Quechua (Imbabura)	1	Sentential	0.333333333333	-78.0	Quechuan	Quechuan	Nominal Syntax
+qch	Quiché	7	Restricted	15.0	-91.4166666667	Mayan	Mayan	Nominal Syntax
+ram	Rama	8	No action nominals	11.75	-83.75	Rama	Chibchan	Nominal Syntax
+rus	Russian	3	Ergative-Possessive	56.0	38.0	Slavic	Indo-European	Nominal Syntax
+sam	Samoan	5	Other	-13.9166666667	-171.833333333	Oceanic	Austronesian	Nominal Syntax
+san	Sango	2	Possessive-Accusative	5.0	18.0	Ubangi	Niger-Congo	Nominal Syntax
+snm	Sanuma	8	No action nominals	4.5	-64.6666666667	Yanomam	Yanomam	Nominal Syntax
+skp	Selkup	2	Possessive-Accusative	65.0	82.0	Samoyedic	Uralic	Nominal Syntax
+sla	Slave	8	No action nominals	67.0	-125.0	Athapaskan	Na-Dene	Nominal Syntax
+spa	Spanish	3	Ergative-Possessive	40.0	-4.0	Romance	Indo-European	Nominal Syntax
+squ	Squamish	8	No action nominals	49.6666666667	-123.166666667	Central Salish	Salishan	Nominal Syntax
+sup	Supyire	6	Mixed	11.5	-5.58333333333	Gur	Niger-Congo	Nominal Syntax
+swa	Swahili	2	Possessive-Accusative	-6.5	39.0	Bantoid	Niger-Congo	Nominal Syntax
+swe	Swedish	5	Other	60.0	15.0	Germanic	Indo-European	Nominal Syntax
+tab	Taba	8	No action nominals	0.0	127.5	South Halmahera - West New Guinea	Austronesian	Nominal Syntax
+tag	Tagalog	2	Possessive-Accusative	15.0	121.0	Greater Central Philippine	Austronesian	Nominal Syntax
+tml	Tamil	1	Sentential	11.0	78.5	Southern Dravidian	Dravidian	Nominal Syntax
+tep	Tepehua (Tlachichilco)	7	Restricted	20.5833333333	-98.25	Totonacan	Totonacan	Nominal Syntax
+tha	Thai	6	Mixed	16.0	101.0	Kam-Tai	Tai-Kadai	Nominal Syntax
+tid	Tidore	8	No action nominals	0.75	127.5	North Halmaheran	West Papuan	Nominal Syntax
+tms	Tommo So	7	Restricted	15.0	-3.0	Dogon	Dogon	Nominal Syntax
+tru	Trumai	8	No action nominals	-11.9166666667	-53.5833333333	Trumai	Trumai	Nominal Syntax
+tsa	Tsakhur	6	Mixed	41.6666666667	47.1666666667	Lezgic	Nakh-Daghestanian	Nominal Syntax
+tuk	Tukang Besi	4	Double-Possessive	-5.5	123.5	Celebic	Austronesian	Nominal Syntax
+tur	Turkish	2	Possessive-Accusative	39.0	35.0	Turkic	Altaic	Nominal Syntax
+tvl	Tuvaluan	6	Mixed	-8.5	179.166666667	Oceanic	Austronesian	Nominal Syntax
+tuv	Tuvan	2	Possessive-Accusative	52.0	95.0	Turkic	Altaic	Nominal Syntax
+vat	Vata	2	Possessive-Accusative	5.83333333333	-5.41666666667	Kru	Niger-Congo	Nominal Syntax
+vie	Vietnamese	2	Possessive-Accusative	10.5	106.5	Viet-Muong	Austro-Asiatic	Nominal Syntax
+wai	Wai Wai	3	Ergative-Possessive	1.0	-59.0	Cariban	Cariban	Nominal Syntax
+wam	Wambaya	8	No action nominals	-18.6666666667	135.75	Wambayan	Mirndi	Nominal Syntax
+wra	Warao	5	Other	9.33333333333	-61.6666666667	Warao	Warao	Nominal Syntax
+war	Wari'	8	No action nominals	-11.3333333333	-65.0	Chapacura-Wanham	Chapacura-Wanham	Nominal Syntax
+wrl	Warlpiri	8	No action nominals	-20.0	132.333333333	Western Pama-Nyungan	Pama-Nyungan	Nominal Syntax
+wyn	Wayana	3	Ergative-Possessive	3.25	-54.1666666667	Cariban	Cariban	Nominal Syntax
+wel	Welsh	3	Ergative-Possessive	52.0	-3.0	Celtic	Indo-European	Nominal Syntax
+wic	Wichita	8	No action nominals	33.3333333333	-97.3333333333	Caddoan	Caddoan	Nominal Syntax
+wch	Wichí	7	Restricted	-22.5	-62.5833333333	Matacoan	Matacoan	Nominal Syntax
+wik	Wikchamni	2	Possessive-Accusative	36.4166666667	-119.083333333	Yokuts	Penutian	Nominal Syntax
+yag	Yagua	1	Sentential	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Nominal Syntax
+yaq	Yaqui	8	No action nominals	27.5	-110.25	Cahita	Uto-Aztecan	Nominal Syntax
+yim	Yimas	2	Possessive-Accusative	-4.66666666667	143.55	Lower Sepik	Lower Sepik-Ramu	Nominal Syntax
+yor	Yoruba	7	Restricted	8.0	4.33333333333	Defoid	Niger-Congo	Nominal Syntax
+yko	Yukaghir (Kolyma)	2	Possessive-Accusative	65.75	150.833333333	Yukaghir	Yukaghir	Nominal Syntax
+ysi	Yupik (Sirenik)	1	Sentential	64.5	-174.0	Eskimo	Eskimo-Aleut	Nominal Syntax

@@ -1,0 +1,82 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+adg	Adang	2	(Neg)VNeg	-8.2	124.0	Greater Alor	Timor-Alor-Pantar	Word Order
+adz	Adzera	5	[Neg-V](Neg)	-6.25	146.25	Oceanic	Austronesian	Word Order
+ame	Amele	18	NegV/[V-Neg]/Neg[V-Neg]	-5.25	145.583333333	Madang	Trans-New Guinea	Word Order
+ann	Anindilyakwa	12	Neg[(Neg-)]V	-14.0	136.5	Anindilyakwa	Gunwinyguan	Word Order
+ao	Ao	7	[Neg-V(-Neg)]	26.5833333333	94.6666666667	Kuki-Chin	Sino-Tibetan	Word Order
+aeg	Arabic (Egyptian)	14	NegV/[Neg-V-Neg]	30.0	31.0	Semitic	Afro-Asiatic	Word Order
+arp	Arapesh (Mountain)	1	NegV(Neg)	-3.46666666667	143.166666667	Kombio-Arapesh	Torricelli	Word Order
+bbu	Barambu	5	[Neg-V](Neg)	3.5	27.0	Ubangi	Niger-Congo	Word Order
+bel	Belhare	8	[(Neg-)V-Neg]	26.9666666667	87.3	Mahakiranti	Sino-Tibetan	Word Order
+blx	Biloxi	6	[(Neg-)V]Neg	30.5	-88.6666666667	Core Siouan	Siouan	Word Order
+bmb	Bimoba	1	NegV(Neg)	10.5	0.0	Gur	Niger-Congo	Word Order
+bok	Boko	2	(Neg)VNeg	10.5	3.5	Eastern Mande	Mande	Word Order
+bol	Bolia	5	[Neg-V](Neg)	-1.25	18.3333333333	Bantoid	Niger-Congo	Word Order
+bgo	Bongo	2	(Neg)VNeg	7.5	28.5	Bongo-Bagirmi	Central Sudanic	Word Order
+ctl	Catalan	1	NegV(Neg)	41.75	2.0	Romance	Indo-European	Word Order
+cmh	Chemehuevi	4	(Neg)[V-Neg]	34.3333333333	-115.166666667	Numic	Uto-Aztecan	Word Order
+chi	Chimariko	8	[(Neg-)V-Neg]	41.0	-123.0	Chimariko	Hokan	Word Order
+chr	Chrau	1	NegV(Neg)	10.75	107.5	Bahnaric	Austro-Asiatic	Word Order
+chj	Chuj	1	NegV(Neg)	15.9166666667	-91.5833333333	Mayan	Mayan	Word Order
+cop	Coptic	16	[Neg-V]/NegVNeg	26.0	32.0	Egyptian-Coptic	Afro-Asiatic	Word Order
+dom	Domari	20	NegV/[V-Neg]/[Neg-V-Neg]	32.0	35.0	Indic	Indo-European	Word Order
+dma	Duma	2	(Neg)VNeg	-0.95	13.0	Bantoid	Niger-Congo	Word Order
+dun	Duna	15	VNeg/[Neg-V-Neg]	-5.5	142.5	Duna	Trans-New Guinea	Word Order
+ewo	Ewondo	17	NegV or NegativeTone&VNeg	4.0	12.0	Bantoid	Niger-Congo	Word Order
+fre	French	2	(Neg)VNeg	48.0	2.0	Romance	Indo-European	Word Order
+fye	Fyem	2	(Neg)VNeg	9.58333333333	9.33333333333	Platoid	Niger-Congo	Word Order
+gbb	Gbeya Bossangoa	2	(Neg)VNeg	6.66666666667	17.5	Gbaya-Manza-Ngbaka	Niger-Congo	Word Order
+guh	Guhu-Samane	18	NegV/[V-Neg]/Neg[V-Neg]	-8.0	147.333333333	Binanderean	Trans-New Guinea	Word Order
+hau	Hausa	1	NegV(Neg)	12.0	7.0	West Chadic	Afro-Asiatic	Word Order
+hlp	Hualapai	2	(Neg)VNeg	35.5	-113.75	Yuman	Hokan	Word Order
+mxe	Ifira-Mele	6	[(Neg-)V]Neg	-17.75	168.25	Oceanic	Austronesian	Word Order
+ina	Inanwatan	4	(Neg)[V-Neg]	-2.08333333333	132.083333333	South Bird's Head	Marind	Word Order
+kma	Kamaiurá	8	[(Neg-)V-Neg]	-12.0833333333	-52.5833333333	Tupi-Guaraní	Tupian	Word Order
+kyz	Kayabí	8	[(Neg-)V-Neg]	-11.0	-55.5	Tupi-Guaraní	Tupian	Word Order
+khg	Khaling	7	[Neg-V(-Neg)]	27.5	86.6666666667	Mahakiranti	Sino-Tibetan	Word Order
+klw	Kiliwa	2	(Neg)VNeg	31.3333333333	-115.666666667	Yuman	Hokan	Word Order
+kmb	Kombai	8	[(Neg-)V-Neg]	-5.58333333333	140.0	Awju-Dumut	Trans-New Guinea	Word Order
+kre	Kresh	2	(Neg)VNeg	8.5	24.5	Kresh	Central Sudanic	Word Order
+kwo	Kwoma	4	(Neg)[V-Neg]	-4.16666666667	142.75	Middle Sepik	Sepik	Word Order
+kwt	Kwomtari	23	OptDoubleNeg&OptTripleNeg	-3.5	141.5	Kwomtari	Kwomtari-Baibai	Word Order
+lmg	Lamang	9	V(Neg)Neg	11.25	13.5833333333	Biu-Mandara	Afro-Asiatic	Word Order
+lew	Lewo	9	V(Neg)Neg	-16.75	168.333333333	Oceanic	Austronesian	Word Order
+mab	Maba	10	[V-Neg](Neg)	13.75	20.8333333333	Maban	Maban	Word Order
+mku	Maranungku	1	NegV(Neg)	-13.6666666667	130.0	Wagaydy	Western Daly	Word Order
+mka	Mauka	1	NegV(Neg)	8.33333333333	-7.5	Western Mande	Mande	Word Order
+mbe	Mbere	2	(Neg)VNeg	-0.5	14.0	Bantoid	Niger-Congo	Word Order
+min	Minangkabau	1	NegV(Neg)	-1.0	101.0	Malayo-Sumbawan	Austronesian	Word Order
+mxx	Mixe (Ayutla)	22	NegV/[Neg-V]/Neg[Neg-V]	17.0833333333	-96.0833333333	Mixe-Zoque	Mixe-Zoque	Word Order
+moh	Mohawk	12	Neg[(Neg-)]V	43.5	-74.25	Northern Iroquoian	Iroquoian	Word Order
+mum	Mumuye	2	(Neg)VNeg	9.0	11.6666666667	Adamawa	Niger-Congo	Word Order
+mgk	Mungaka	2	(Neg)VNeg	5.91666666667	10.0	Bantoid	Niger-Congo	Word Order
+mup	Mupun	2	(Neg)VNeg	9.5	8.83333333333	West Chadic	Afro-Asiatic	Word Order
+nph	Nar-Phu	7	[Neg-V(-Neg)]	28.6666666667	84.25	Bodic	Sino-Tibetan	Word Order
+niv	Nivkh	10	[V-Neg](Neg)	53.3333333333	142.0	Nivkh	Nivkh	Word Order
+nke	Nkem	18	NegV/[V-Neg]/Neg[V-Neg]	6.58333333333	8.58333333333	Bantoid	Niger-Congo	Word Order
+one	One	2	(Neg)VNeg	-3.25	141.916666667	West Wapei	Torricelli	Word Order
+ond	Oneida	12	Neg[(Neg-)]V	43.0	-75.6666666667	Northern Iroquoian	Iroquoian	Word Order
+paa	Pa'a	2	(Neg)VNeg	11.0	9.25	West Chadic	Afro-Asiatic	Word Order
+plh	Paulohi	1	NegV(Neg)	-3.25	128.75	Central Malayo-Polynesian	Austronesian	Word Order
+pkt	Pokot	14	NegV/[Neg-V-Neg]	1.5	35.5	Nilotic	Eastern Sudanic	Word Order
+rap	Rapanui	11	Neg(Neg)V	-27.1166666667	-109.366666667	Oceanic	Austronesian	Word Order
+rwe	Romani (Welsh)	19	NegV/VNeg/NegVNeg	52.0	-4.0	Indic	Indo-European	Word Order
+run	Runga	4	(Neg)[V-Neg]	10.3333333333	21.0	Maban	Maban	Word Order
+siu	Siuslaw	3	Neg[V(-Neg)]	44.0	-124.0	Siuslawan	Oregon Coast	Word Order
+sup	Supyire	2	(Neg)VNeg	11.5	-5.58333333333	Gur	Niger-Congo	Word Order
+tac	Tacana	19	NegV/VNeg/NegVNeg	-13.5	-68.0	Tacanan	Tacanan	Word Order
+tsk	Tamashek	13	NegV&OptChangeVerbStem	20.0	-2.0	Berber	Afro-Asiatic	Word Order
+tar	Tariana	8	[(Neg-)V-Neg]	1.0	-69.1666666667	Inland Northern Arawakan	Arawakan	Word Order
+tmn	Temein	3	Neg[V(-Neg)]	11.9166666667	29.4166666667	Temein	Eastern Sudanic	Word Order
+ter	Tera	2	(Neg)VNeg	11.0	11.8333333333	Biu-Mandara	Afro-Asiatic	Word Order
+tid	Tidore	2	(Neg)VNeg	0.75	127.5	North Halmaheran	West Papuan	Word Order
+tja	Tiipay (Jamul)	2	(Neg)VNeg	32.1666666667	-116.5	Yuman	Hokan	Word Order
+tbt	Tobati	18	NegV/[V-Neg]/Neg[V-Neg]	-2.58333333333	140.666666667	Oceanic	Austronesian	Word Order
+tgl	Tshangla	21	[Neg-V]/VNeg/[Neg-V-Neg]	27.8333333333	92.1666666667	Bodic	Sino-Tibetan	Word Order
+tsh	Tümpisa Shoshone	3	Neg[V(-Neg)]	37.0	-117.0	Numic	Uto-Aztecan	Word Order
+urt	Urat	1	NegV(Neg)	-3.66666666667	142.833333333	Wapei-Palei	Torricelli	Word Order
+wrn	Warndarang	7	[Neg-V(-Neg)]	-14.4166666667	135.583333333	Warndarang	Mangarrayi-Maran	Word Order
+wiy	Wiyot	3	Neg[V(-Neg)]	40.8333333333	-124.166666667	Wiyot	Algic	Word Order
+woi	Woisika	4	(Neg)[V-Neg]	-8.25	124.833333333	Greater Alor	Timor-Alor-Pantar	Word Order
+zch	Zoque (Chimalapa)	3	Neg[V(-Neg)]	16.75	-94.75	Mixe-Zoque	Mixe-Zoque	Word Order
+zul	Zulu	7	[Neg-V(-Neg)]	-30.0	30.0	Bantoid	Niger-Congo	Word Order

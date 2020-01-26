@@ -1,0 +1,327 @@
+wals code	name	value	description	latitude	longitude	genus	family	area
+abk	Abkhaz	3	Special	43.0833333333	41.0	Northwest Caucasian	Northwest Caucasian	Nominal Categories
+abu	Abun	2	Generic-noun-based	-0.5	132.5	North-Central Bird's Head	West Papuan	Nominal Categories
+ace	Acehnese	1	Interrogative-based	5.5	95.5	Malayo-Sumbawan	Austronesian	Nominal Categories
+aco	Acoma	1	Interrogative-based	34.9166666667	-107.583333333	Keresan	Keresan	Nominal Categories
+ain	Ainu	1	Interrogative-based	43.0	143.0	Ainu	Ainu	Nominal Categories
+abm	Alabama	1	Interrogative-based	32.3333333333	-87.4166666667	Muskogean	Muskogean	Nominal Categories
+aso	Altai (Southern)	1	Interrogative-based	51.0	87.0	Turkic	Altaic	Nominal Categories
+aly	Alyawarra	1	Interrogative-based	-22.5	135.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+aml	Ambae (Lolovoli Northeast)	2	Generic-noun-based	-15.4166666667	167.883333333	Oceanic	Austronesian	Nominal Categories
+ame	Amele	2	Generic-noun-based	-5.25	145.583333333	Madang	Trans-New Guinea	Nominal Categories
+agt	Anguthimri	1	Interrogative-based	-12.3333333333	141.833333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+ano	Anong	2	Generic-noun-based	27.3333333333	98.75	Nungish	Sino-Tibetan	Nominal Categories
+aeg	Arabic (Egyptian)	2	Generic-noun-based	30.0	31.0	Semitic	Afro-Asiatic	Nominal Categories
+ana	Araona	1	Interrogative-based	-12.3333333333	-67.75	Tacanan	Tacanan	Nominal Categories
+amp	Arrernte (Mparntwe)	2	Generic-noun-based	-24.0	136.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+ass	Assamese	1	Interrogative-based	26.0	93.0	Indic	Indo-European	Nominal Categories
+atc	Atchin	1	Interrogative-based	-16.0	167.333333333	Oceanic	Austronesian	Nominal Categories
+awp	Awa Pit	1	Interrogative-based	1.5	-78.25	Barbacoan	Barbacoan	Nominal Categories
+aze	Azerbaijani	1	Interrogative-based	40.5	48.5	Turkic	Altaic	Nominal Categories
+bab	Babungo	2	Generic-noun-based	6.11666666667	10.4166666667	Bantoid	Niger-Congo	Nominal Categories
+bdm	Badimaya	1	Interrogative-based	-27.6666666667	118.0	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+bag	Bagirmi	2	Generic-noun-based	11.6666666667	16.0	Bongo-Bagirmi	Central Sudanic	Nominal Categories
+bak	Baka (in Cameroon)	2	Generic-noun-based	2.58333333333	13.5833333333	Ubangi	Niger-Congo	Nominal Categories
+bam	Bambara	2	Generic-noun-based	12.5	-7.5	Western Mande	Mande	Nominal Categories
+bao	Bao'an	1	Interrogative-based	35.75	102.833333333	Mongolic	Altaic	Nominal Categories
+bsk	Bashkir	1	Interrogative-based	53.0	58.0	Turkic	Altaic	Nominal Categories
+bsq	Basque	1	Interrogative-based	43.0	-3.0	Basque	Basque	Nominal Categories
+baw	Bawm	1	Interrogative-based	22.5	92.25	Kuki-Chin	Sino-Tibetan	Nominal Categories
+blr	Belorussian	1	Interrogative-based	54.0	28.0	Slavic	Indo-European	Nominal Categories
+bbw	Bininj Gun-Wok	4	Mixed	-12.5	133.75	Gunwinygic	Gunwinyguan	Nominal Categories
+boz	Bozo (Tigemaxo)	4	Mixed	15.0	-4.0	Western Mande	Mande	Nominal Categories
+brh	Brahui	3	Special	28.5	67.0	Northern Dravidian	Dravidian	Nominal Categories
+bud	Buduma	2	Generic-noun-based	13.5	14.5	Biu-Mandara	Afro-Asiatic	Nominal Categories
+bug	Bugis	1	Interrogative-based	-4.0	120.0	South Sulawesi	Austronesian	Nominal Categories
+bul	Bulgarian	1	Interrogative-based	42.5	25.0	Slavic	Indo-European	Nominal Categories
+but	Buriat	1	Interrogative-based	52.0	108.0	Mongolic	Altaic	Nominal Categories
+bur	Burushaski	1	Interrogative-based	36.5	74.5	Burushaski	Burushaski	Nominal Categories
+cah	Cahuilla	1	Interrogative-based	33.5	-116.25	California Uto-Aztecan	Uto-Aztecan	Nominal Categories
+ckr	Canela-Krahô	1	Interrogative-based	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Nominal Categories
+cnt	Cantonese	3	Special	23.0	113.0	Chinese	Sino-Tibetan	Nominal Categories
+chn	Chantyal	1	Interrogative-based	28.5833333333	83.4166666667	Bodic	Sino-Tibetan	Nominal Categories
+cic	Chichewa	2	Generic-noun-based	-14.0	34.0	Bantoid	Niger-Congo	Nominal Categories
+ctm	Chitimacha	1	Interrogative-based	29.6666666667	-91.0	Chitimacha	Chitimacha	Nominal Categories
+cch	Chocho	1	Interrogative-based	17.6666666667	-97.4166666667	Popolocan	Oto-Manguean	Nominal Categories
+chk	Chukchi	1	Interrogative-based	67.0	-173.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+chv	Chuvash	1	Interrogative-based	55.5	47.5	Turkic	Altaic	Nominal Categories
+cmn	Comanche	1	Interrogative-based	33.5	-101.5	Numic	Uto-Aztecan	Nominal Categories
+coo	Coos (Hanis)	1	Interrogative-based	43.5	-124.166666667	Coosan	Oregon Coast	Nominal Categories
+crk	Creek	1	Interrogative-based	34.0	-85.0	Muskogean	Muskogean	Nominal Categories
+cri	Crimean Tatar	4	Mixed	45.0	34.0833333333	Turkic	Altaic	Nominal Categories
+dgb	Dagbani	2	Generic-noun-based	9.58333333333	-0.5	Gur	Niger-Congo	Nominal Categories
+diy	Diyari	1	Interrogative-based	-28.0	139.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+dja	Djabugay	1	Interrogative-based	-16.75	145.583333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+djp	Djapu	1	Interrogative-based	-12.6666666667	136.0	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+djr	Djaru	1	Interrogative-based	-18.75	128.0	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+dji	Djingili	1	Interrogative-based	-17.75	134.0	Djingili	Mirndi	Nominal Categories
+doy	Doyayo	2	Generic-noun-based	8.66666666667	13.0833333333	Adamawa	Niger-Congo	Nominal Categories
+dut	Dutch	3	Special	52.5	6.0	Germanic	Indo-European	Nominal Categories
+dyi	Dyirbal	1	Interrogative-based	-17.8333333333	145.583333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+ene	Enets	1	Interrogative-based	67.5	86.5	Samoyedic	Uralic	Nominal Categories
+eng	English	2	Generic-noun-based	52.0	0.0	Germanic	Indo-European	Nominal Categories
+err	Erromangan	2	Generic-noun-based	-18.8333333333	169.166666667	Oceanic	Austronesian	Nominal Categories
+est	Estonian	1	Interrogative-based	59.0	26.0	Finnic	Uralic	Nominal Categories
+evn	Even	1	Interrogative-based	68.0	130.0	Tungusic	Altaic	Nominal Categories
+eve	Evenki	1	Interrogative-based	56.0	125.0	Tungusic	Altaic	Nominal Categories
+ewe	Ewe	2	Generic-noun-based	6.33333333333	0.416666666667	Kwa	Niger-Congo	Nominal Categories
+fin	Finnish	3	Special	62.0	25.0	Finnic	Uralic	Nominal Categories
+fon	Fongbe	2	Generic-noun-based	6.41666666667	2.16666666667	Kwa	Niger-Congo	Nominal Categories
+fre	French	2	Generic-noun-based	48.0	2.0	Romance	Indo-European	Nominal Categories
+ful	Fulniô	1	Interrogative-based	-8.0	-37.5	Yatê	Yatê	Nominal Categories
+fue	Futuna (East)	2	Generic-noun-based	-14.3333333333	-178.166666667	Oceanic	Austronesian	Nominal Categories
+gaa	Gaagudju	1	Interrogative-based	-12.5833333333	132.833333333	Gaagudju	Gaagudju	Nominal Categories
+gag	Gagauz	1	Interrogative-based	46.3333333333	28.6666666667	Turkic	Altaic	Nominal Categories
+gam	Gamo	2	Generic-noun-based	6.66666666667	37.25	North Omotic	Afro-Asiatic	Nominal Categories
+gar	Garo	1	Interrogative-based	25.6666666667	90.5	Bodo-Garo	Sino-Tibetan	Nominal Categories
+gbb	Gbeya Bossangoa	2	Generic-noun-based	6.66666666667	17.5	Gbaya-Manza-Ngbaka	Niger-Congo	Nominal Categories
+geo	Georgian	1	Interrogative-based	42.0	44.0	Kartvelian	Kartvelian	Nominal Categories
+ger	German	4	Mixed	52.0	10.0	Germanic	Indo-European	Nominal Categories
+goa	Goajiro	1	Interrogative-based	12.0	-72.0	Caribbean Arawakan	Arawakan	Nominal Categories
+gol	Gola	2	Generic-noun-based	7.25	-10.8333333333	Mel	Niger-Congo	Nominal Categories
+goo	Gooniyandi	1	Interrogative-based	-18.3333333333	126.333333333	Bunuban	Bunuban	Nominal Categories
+grk	Greek (Modern)	1	Interrogative-based	39.0	22.0	Greek	Indo-European	Nominal Categories
+grw	Greenlandic (West)	1	Interrogative-based	64.0	-51.0	Eskimo	Eskimo-Aleut	Nominal Categories
+gua	Guaraní	4	Mixed	-26.0	-56.0	Tupi-Guaraní	Tupian	Nominal Categories
+gum	Gumbaynggir	1	Interrogative-based	-30.1666666667	152.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+grg	Gurr-goni	1	Interrogative-based	-12.25	134.416666667	Burarran	Mangrida	Nominal Categories
+guu	Guugu Yimidhirr	1	Interrogative-based	-15.0	144.833333333	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+hau	Hausa	2	Generic-noun-based	12.0	7.0	West Chadic	Afro-Asiatic	Nominal Categories
+hay	Hayu	1	Interrogative-based	27.25	86.0	Mahakiranti	Sino-Tibetan	Nominal Categories
+heb	Hebrew (Modern)	1	Interrogative-based	31.5	34.8333333333	Semitic	Afro-Asiatic	Nominal Categories
+hin	Hindi	3	Special	25.0	77.0	Indic	Indo-European	Nominal Categories
+hmo	Hmong Njua	1	Interrogative-based	28.0	105.0	Hmong-Mien	Hmong-Mien	Nominal Categories
+htc	Huastec	1	Interrogative-based	22.0833333333	-99.3333333333	Mayan	Mayan	Nominal Categories
+hun	Hungarian	1	Interrogative-based	47.0	20.0	Ugric	Uralic	Nominal Categories
+hzb	Hunzib	1	Interrogative-based	42.1666666667	46.25	Avar-Andic-Tsezic	Nakh-Daghestanian	Nominal Categories
+hup	Hupa	1	Interrogative-based	41.0833333333	-123.666666667	Athapaskan	Na-Dene	Nominal Categories
+ibi	Ibibio	2	Generic-noun-based	5.25	7.83333333333	Cross River	Niger-Congo	Nominal Categories
+ice	Icelandic	1	Interrogative-based	65.0	-17.0	Germanic	Indo-European	Nominal Categories
+ilo	Ilocano	2	Generic-noun-based	16.0	121.0	Northern Luzon	Austronesian	Nominal Categories
+ind	Indonesian	2	Generic-noun-based	0.0	106.0	Malayo-Sumbawan	Austronesian	Nominal Categories
+irq	Iraqw	2	Generic-noun-based	-4.0	35.5	Southern Cushitic	Afro-Asiatic	Nominal Categories
+iri	Irish	2	Generic-noun-based	53.0	-8.0	Celtic	Indo-European	Nominal Categories
+ita	Italian	2	Generic-noun-based	43.0	12.0	Romance	Indo-European	Nominal Categories
+itz	Itzaj	1	Interrogative-based	17.0	-89.8333333333	Mayan	Mayan	Nominal Categories
+jak	Jakaltek	1	Interrogative-based	15.6666666667	-91.6666666667	Mayan	Mayan	Nominal Categories
+jam	Jaminjung	1	Interrogative-based	-15.0833333333	130.5	Jaminjungan	Mirndi	Nominal Categories
+jpn	Japanese	1	Interrogative-based	37.0	140.0	Japanese	Japanese	Nominal Categories
+jaq	Jaqaru	1	Interrogative-based	-13.0	-76.0	Aymaran	Aymaran	Nominal Categories
+kng	Kaingang	1	Interrogative-based	-26.0	-52.0	Ge-Kaingang	Macro-Ge	Nominal Categories
+klq	Kalam	2	Generic-noun-based	-5.25	144.583333333	Madang	Trans-New Guinea	Nominal Categories
+kgu	Kalkatungu	3	Special	-21.0	139.5	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+kma	Kamaiurá	1	Interrogative-based	-12.0833333333	-52.5833333333	Tupi-Guaraní	Tupian	Nominal Categories
+kan	Kana	2	Generic-noun-based	4.75	7.41666666667	Cross River	Niger-Congo	Nominal Categories
+knd	Kannada	1	Interrogative-based	14.0	76.0	Southern Dravidian	Dravidian	Nominal Categories
+krc	Karachay-Balkar	1	Interrogative-based	43.5	42.0	Turkic	Altaic	Nominal Categories
+krm	Karaim	1	Interrogative-based	54.6666666667	24.9166666667	Turkic	Altaic	Nominal Categories
+kkp	Karakalpak	3	Special	43.0	60.0	Turkic	Altaic	Nominal Categories
+krl	Karelian	1	Interrogative-based	64.0	32.0	Finnic	Uralic	Nominal Categories
+krk	Karok	1	Interrogative-based	41.6666666667	-123.0	Karok	Karok	Nominal Categories
+kas	Kashmiri	3	Special	34.0	76.0	Indic	Indo-European	Nominal Categories
+kay	Kayardild	1	Interrogative-based	-17.05	139.5	Tangkic	Tangkic	Nominal Categories
+kaz	Kazakh	4	Mixed	50.0	70.0	Turkic	Altaic	Nominal Categories
+krq	Kerek	3	Special	62.25	175.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+ket	Ket	1	Interrogative-based	64.0	87.0	Yeniseian	Yeniseian	Nominal Categories
+khk	Khakas	1	Interrogative-based	53.0	90.0	Turkic	Altaic	Nominal Categories
+kmh	Kham	1	Interrogative-based	28.5	82.75	Mahakiranti	Sino-Tibetan	Nominal Categories
+kty	Khanty	1	Interrogative-based	65.0	65.0	Ugric	Uralic	Nominal Categories
+khs	Khasi	1	Interrogative-based	25.5	92.0	Khasian	Austro-Asiatic	Nominal Categories
+khm	Khmer	4	Mixed	12.5	105.0	Khmer	Austro-Asiatic	Nominal Categories
+kmu	Khmu'	3	Special	21.0	102.0	Palaung-Khmuic	Austro-Asiatic	Nominal Categories
+klv	Kilivila	4	Mixed	-8.5	151.083333333	Oceanic	Austronesian	Nominal Categories
+kio	Kiowa	1	Interrogative-based	37.0	-99.0	Kiowa-Tanoan	Kiowa-Tanoan	Nominal Categories
+kgz	Kirghiz	1	Interrogative-based	42.0	75.0	Turkic	Altaic	Nominal Categories
+koa	Koasati	1	Interrogative-based	34.8333333333	-85.1666666667	Muskogean	Muskogean	Nominal Categories
+kob	Kobon	2	Generic-noun-based	-5.16666666667	144.333333333	Madang	Trans-New Guinea	Nominal Categories
+kod	Kodava	1	Interrogative-based	12.1666666667	76.8333333333	Southern Dravidian	Dravidian	Nominal Categories
+kop	Komi-Permyak	1	Interrogative-based	59.5	54.5	Permic	Uralic	Nominal Categories
+kzy	Komi-Zyrian	1	Interrogative-based	65.0	55.0	Permic	Uralic	Nominal Categories
+kor	Korean	1	Interrogative-based	37.5	128.0	Korean	Korean	Nominal Categories
+kku	Korku	1	Interrogative-based	22.5	78.5	Munda	Austro-Asiatic	Nominal Categories
+kfe	Koromfe	2	Generic-noun-based	14.25	-0.916666666667	Gur	Niger-Congo	Nominal Categories
+kry	Koryak	1	Interrogative-based	61.0	167.0	Northern Chukotko-Kamchatkan	Chukotko-Kamchatkan	Nominal Categories
+kse	Koyraboro Senni	2	Generic-noun-based	16.0	0.0	Songhay	Songhay	Nominal Categories
+ksi	Ksingmul	1	Interrogative-based	21.0833333333	104.0	Palaung-Khmuic	Austro-Asiatic	Nominal Categories
+knc	Kugu Nganhcara	1	Interrogative-based	-14.4166666667	142.0	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+kya	Kuku-Yalanji	2	Generic-noun-based	-16.0	145.0	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+kji	Kurmanji	2	Generic-noun-based	38.0	42.0	Iranian	Indo-European	Nominal Categories
+kut	Kutenai	1	Interrogative-based	49.5	-116.0	Kutenai	Kutenai	Nominal Categories
+kwr	Kwamera	2	Generic-noun-based	-19.5833333333	169.416666667	Oceanic	Austronesian	Nominal Categories
+kyk	Kyaka	2	Generic-noun-based	-5.55	144.083333333	Engan	Trans-New Guinea	Nominal Categories
+kat	Kâte	2	Generic-noun-based	-6.5	147.75	Finisterre-Huon	Trans-New Guinea	Nominal Categories
+lak	Lak	1	Interrogative-based	42.1666666667	47.1666666667	Lak-Dargwa	Nakh-Daghestanian	Nominal Categories
+lkt	Lakhota	1	Interrogative-based	43.8333333333	-101.833333333	Core Siouan	Siouan	Nominal Categories
+lan	Lango	2	Generic-noun-based	2.16666666667	33.0	Nilotic	Eastern Sudanic	Nominal Categories
+lat	Latvian	1	Interrogative-based	57.0	24.0	Baltic	Indo-European	Nominal Categories
+lav	Lavukaleve	2	Generic-noun-based	-9.08333333333	159.2	Lavukaleve	Solomons East Papuan	Nominal Categories
+lel	Lele	2	Generic-noun-based	9.08333333333	15.5833333333	East Chadic	Afro-Asiatic	Nominal Categories
+lez	Lezgian	1	Interrogative-based	41.6666666667	47.8333333333	Lezgic	Nakh-Daghestanian	Nominal Categories
+lil	Lillooet	1	Interrogative-based	50.75	-122.0	Interior Salish	Salishan	Nominal Categories
+lml	Limilngan	1	Interrogative-based	-12.5	131.916666667	Limilngan	Darwin Region	Nominal Categories
+lit	Lithuanian	1	Interrogative-based	55.0	24.0	Baltic	Indo-European	Nominal Categories
+lgu	Longgu	2	Generic-noun-based	-9.75	160.666666667	Oceanic	Austronesian	Nominal Categories
+lug	Lugbara	2	Generic-noun-based	3.08333333333	30.9166666667	Moru-Ma'di	Central Sudanic	Nominal Categories
+mle	Maale	2	Generic-noun-based	6.0	36.9166666667	North Omotic	Afro-Asiatic	Nominal Categories
+mac	Macushi	1	Interrogative-based	4.0	-60.0	Cariban	Cariban	Nominal Categories
+mai	Maithili	1	Interrogative-based	26.0	86.0	Indic	Indo-European	Nominal Categories
+mak	Makah	3	Special	48.3333333333	-124.666666667	Southern Wakashan	Wakashan	Nominal Categories
+mal	Malagasy	2	Generic-noun-based	-20.0	47.0	Barito	Austronesian	Nominal Categories
+mlk	Malakmalak	1	Interrogative-based	-13.4166666667	130.416666667	Northern Daly	Northern Daly	Nominal Categories
+mym	Malayalam	1	Interrogative-based	10.0	76.5	Southern Dravidian	Dravidian	Nominal Categories
+mlg	Malgwa	4	Mixed	11.5	13.75	Biu-Mandara	Afro-Asiatic	Nominal Categories
+mlt	Maltese	2	Generic-noun-based	35.9166666667	14.4166666667	Semitic	Afro-Asiatic	Nominal Categories
+mnd	Mandarin	4	Mixed	34.0	110.0	Chinese	Sino-Tibetan	Nominal Categories
+myi	Mangarrayi	1	Interrogative-based	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Nominal Categories
+mns	Mansi	3	Special	62.0	62.0	Ugric	Uralic	Nominal Categories
+mao	Maori	4	Mixed	-40.0	176.0	Oceanic	Austronesian	Nominal Categories
+mra	Mara	1	Interrogative-based	-15.0	135.166666667	Mara	Mangarrayi-Maran	Nominal Categories
+mhi	Marathi	1	Interrogative-based	19.0	76.0	Indic	Indo-European	Nominal Categories
+mrg	Margi	2	Generic-noun-based	11.0	13.0	Biu-Mandara	Afro-Asiatic	Nominal Categories
+mah	Mari (Hill)	1	Interrogative-based	57.0	58.0	Mari	Uralic	Nominal Categories
+mme	Mari (Meadow)	1	Interrogative-based	57.0	48.0	Mari	Uralic	Nominal Categories
+mar	Maricopa	1	Interrogative-based	33.1666666667	-113.166666667	Yuman	Hokan	Nominal Categories
+mrh	Marrithiyel	1	Interrogative-based	-13.8333333333	130.0	Bringen	Western Daly	Nominal Categories
+msh	Marshallese	2	Generic-noun-based	7.11666666667	171.05	Oceanic	Austronesian	Nominal Categories
+mrt	Martuthunira	1	Interrogative-based	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+may	Maybrat	2	Generic-noun-based	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Nominal Categories
+mby	Mbay	2	Generic-noun-based	8.25	17.5	Bongo-Bagirmi	Central Sudanic	Nominal Categories
+mbi	Mbili	2	Generic-noun-based	6.11666666667	10.2	Bantoid	Niger-Congo	Nominal Categories
+mei	Meithei	1	Interrogative-based	24.75	94.0	Kuki-Chin	Sino-Tibetan	Nominal Categories
+mde	Mende	2	Generic-noun-based	7.83333333333	-11.5	Western Mande	Mande	Nominal Categories
+mic	Micmac	1	Interrogative-based	45.0	-63.0	Algonquian	Algic	Nominal Categories
+mis	Miskito	2	Generic-noun-based	14.0	-83.6666666667	Misumalpan	Misumalpan	Nominal Categories
+mss	Miwok (Southern Sierra)	1	Interrogative-based	37.5	-120.0	Miwok	Penutian	Nominal Categories
+mcv	Mocoví	5	Existential construction	-28.0	-60.5	South Guaicuruan	Guaicuruan	Nominal Categories
+moe	Mordvin (Erzya)	1	Interrogative-based	53.0	45.5	Mordvin	Uralic	Nominal Categories
+mmo	Mordvin (Moksha)	1	Interrogative-based	54.0	44.0	Mordvin	Uralic	Nominal Categories
+mos	Mosetén	4	Mixed	-14.75	-67.8333333333	Mosetenan	Mosetenan	Nominal Categories
+mun	Mundari	1	Interrogative-based	23.0	84.6666666667	Munda	Austro-Asiatic	Nominal Categories
+mrw	Muruwari	1	Interrogative-based	-28.75	147.0	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+mgu	Musgu	2	Generic-noun-based	10.8333333333	14.9166666667	Biu-Mandara	Afro-Asiatic	Nominal Categories
+nht	Nahuatl (Tetelcingo)	1	Interrogative-based	19.6666666667	-99.0	Aztecan	Uto-Aztecan	Nominal Categories
+nai	Nanai	1	Interrogative-based	49.5	137.0	Tungusic	Altaic	Nominal Categories
+nav	Navajo	1	Interrogative-based	36.1666666667	-108.0	Athapaskan	Na-Dene	Nominal Categories
+ndb	Ndebele (in South Africa)	2	Generic-noun-based	-25.3333333333	29.0	Bantoid	Niger-Congo	Nominal Categories
+ndj	Ndjébbana	1	Interrogative-based	-12.1666666667	134.116666667	Ndjébbana	Mangrida	Nominal Categories
+neg	Negidal	1	Interrogative-based	53.0	139.0	Tungusic	Altaic	Nominal Categories
+nel	Nelemwa	3	Special	-20.25	164.083333333	Oceanic	Austronesian	Nominal Categories
+nen	Nenets	1	Interrogative-based	69.0	72.0	Samoyedic	Uralic	Nominal Categories
+nwd	Newar (Dolakha)	1	Interrogative-based	27.3333333333	86.0	Mahakiranti	Sino-Tibetan	Nominal Categories
+nez	Nez Perce	1	Interrogative-based	46.0	-116.0	Sahaptian	Penutian	Nominal Categories
+nga	Nganasan	1	Interrogative-based	71.0	93.0	Samoyedic	Uralic	Nominal Categories
+ngn	Ngandi	1	Interrogative-based	-13.8333333333	135.0	Ngandi	Gunwinyguan	Nominal Categories
+ngk	Ngankikurungkurr	1	Interrogative-based	-14.0	130.5	Ngankikurungkurr	Southern Daly	Nominal Categories
+nti	Ngiti	2	Generic-noun-based	1.33333333333	30.25	Lendu	Central Sudanic	Nominal Categories
+ngi	Ngiyambaa	1	Interrogative-based	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+nha	Nhanda	1	Interrogative-based	-27.0	114.166666667	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+nro	Nharo	4	Mixed	-22.3333333333	20.5	Khoe-Kwadi	Khoe-Kwadi	Nominal Categories
+nia	Nias	4	Mixed	1.0	97.75	Northwest Sumatra-Barrier Islands	Austronesian	Nominal Categories
+nsg	Nisgha	1	Interrogative-based	55.0	-130.0	Tsimshianic	Penutian	Nominal Categories
+niu	Niuean	2	Generic-noun-based	-19.05	-170.116666667	Oceanic	Austronesian	Nominal Categories
+niv	Nivkh	1	Interrogative-based	53.3333333333	142.0	Nivkh	Nivkh	Nominal Categories
+nko	Nkore-Kiga	2	Generic-noun-based	-0.916666666667	29.8333333333	Bantoid	Niger-Congo	Nominal Categories
+nog	Noghay	4	Mixed	44.0	46.0	Turkic	Altaic	Nominal Categories
+nto	Ntomba	2	Generic-noun-based	-2.0	18.3333333333	Bantoid	Niger-Congo	Nominal Categories
+nbd	Nubian (Dongolese)	2	Generic-noun-based	18.25	30.75	Nubian	Eastern Sudanic	Nominal Categories
+nug	Nunggubuyu	1	Interrogative-based	-13.75	135.666666667	Nunggubuyu	Gunwinyguan	Nominal Categories
+ood	O'odham	3	Special	32.0	-112.0	Tepiman	Uto-Aztecan	Nominal Categories
+oji	Ojibwa (Eastern)	3	Special	46.0	-80.0	Algonquian	Algic	Nominal Categories
+orl	Orokolo	2	Generic-noun-based	-7.83333333333	145.333333333	Eleman Proper	Eleman	Nominal Categories
+orh	Oromo (Harar)	2	Generic-noun-based	9.0	42.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+oss	Ossetic	1	Interrogative-based	43.0	44.0	Iranian	Indo-European	Nominal Categories
+pkn	Paakantyi	1	Interrogative-based	-32.5	142.5	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+pms	Paamese	2	Generic-noun-based	-16.5	168.25	Oceanic	Austronesian	Nominal Categories
+pno	Paiute (Northern)	1	Interrogative-based	42.0	-118.0	Numic	Uto-Aztecan	Nominal Categories
+pal	Palauan	2	Generic-noun-based	7.5	134.583333333	Palauan	Austronesian	Nominal Categories
+pan	Panjabi	3	Special	31.0	74.0	Indic	Indo-European	Nominal Categories
+pny	Panyjima	1	Interrogative-based	-22.8333333333	118.416666667	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+psh	Pashto	1	Interrogative-based	33.0	67.0	Iranian	Indo-European	Nominal Categories
+psm	Passamaquoddy-Maliseet	1	Interrogative-based	45.0	-67.0	Algonquian	Algic	Nominal Categories
+prs	Persian	2	Generic-noun-based	32.0	54.0	Iranian	Indo-European	Nominal Categories
+prh	Pirahã	4	Mixed	-7.0	-62.0	Mura	Mura	Nominal Categories
+ppi	Pitta Pitta	1	Interrogative-based	-22.8333333333	140.0	Central Pama-Nyungan	Pama-Nyungan	Nominal Categories
+pol	Polish	1	Interrogative-based	52.0	20.0	Slavic	Indo-European	Nominal Categories
+por	Portuguese	4	Mixed	39.0	-8.0	Romance	Indo-European	Nominal Categories
+pur	Purépecha	1	Interrogative-based	19.5	-101.666666667	Tarascan	Tarascan	Nominal Categories
+pae	Páez	1	Interrogative-based	2.66666666667	-76.0	Páezan	Páezan	Nominal Categories
+qia	Qiang	2	Generic-noun-based	32.0	102.666666667	Qiangic	Sino-Tibetan	Nominal Categories
+qhu	Quechua (Huallaga)	1	Interrogative-based	-9.5	-75.5	Quechuan	Quechuan	Nominal Categories
+qim	Quechua (Imbabura)	1	Interrogative-based	0.333333333333	-78.0	Quechuan	Quechuan	Nominal Categories
+rom	Romanian	1	Interrogative-based	46.0	25.0	Romance	Indo-European	Nominal Categories
+rus	Russian	1	Interrogative-based	56.0	38.0	Slavic	Indo-European	Nominal Categories
+ski	Saami (Kildin)	1	Interrogative-based	67.0	37.0	Saami	Uralic	Nominal Categories
+sno	Saami (Northern)	1	Interrogative-based	69.0	24.0	Saami	Uralic	Nominal Categories
+sam	Samoan	2	Generic-noun-based	-13.9166666667	-171.833333333	Oceanic	Austronesian	Nominal Categories
+san	Sango	2	Generic-noun-based	5.0	18.0	Ubangi	Niger-Congo	Nominal Categories
+stl	Santali	1	Interrogative-based	24.5	87.0	Munda	Austro-Asiatic	Nominal Categories
+see	Seediq	2	Generic-noun-based	24.1666666667	121.416666667	Atayalic	Austronesian	Nominal Categories
+skp	Selkup	1	Interrogative-based	65.0	82.0	Samoyedic	Uralic	Nominal Categories
+sml	Semelai	4	Mixed	3.0	103.0	Aslian	Austro-Asiatic	Nominal Categories
+scr	Serbian-Croatian	1	Interrogative-based	44.0	19.0	Slavic	Indo-European	Nominal Categories
+shk	Shipibo-Konibo	1	Interrogative-based	-7.5	-75.0	Panoan	Panoan	Nominal Categories
+shr	Shor	1	Interrogative-based	53.0	88.0	Turkic	Altaic	Nominal Categories
+sho	Shoshone	1	Interrogative-based	41.0	-114.0	Numic	Uto-Aztecan	Nominal Categories
+siu	Siuslaw	1	Interrogative-based	44.0	-124.0	Siuslawan	Oregon Coast	Nominal Categories
+sla	Slave	2	Generic-noun-based	67.0	-125.0	Athapaskan	Na-Dene	Nominal Categories
+som	Somali	2	Generic-noun-based	3.0	45.0	Lowland East Cushitic	Afro-Asiatic	Nominal Categories
+spa	Spanish	3	Special	40.0	-4.0	Romance	Indo-European	Nominal Categories
+squ	Squamish	1	Interrogative-based	49.6666666667	-123.166666667	Central Salish	Salishan	Nominal Categories
+sum	Sumu	2	Generic-noun-based	13.0	-84.5	Misumalpan	Misumalpan	Nominal Categories
+swa	Swahili	2	Generic-noun-based	-6.5	39.0	Bantoid	Niger-Congo	Nominal Categories
+swe	Swedish	3	Special	60.0	15.0	Germanic	Indo-European	Nominal Categories
+tab	Taba	1	Interrogative-based	0.0	127.5	South Halmahera - West New Guinea	Austronesian	Nominal Categories
+tag	Tagalog	5	Existential construction	15.0	121.0	Greater Central Philippine	Austronesian	Nominal Categories
+taj	Tajik	1	Interrogative-based	38.6666666667	70.0	Iranian	Indo-European	Nominal Categories
+tkl	Takelma	1	Interrogative-based	42.5	-123.0	Takelma	Takelma	Nominal Categories
+tml	Tamil	1	Interrogative-based	11.0	78.5	Southern Dravidian	Dravidian	Nominal Categories
+tmu	Tat (Muslim)	2	Generic-noun-based	41.25	48.75	Iranian	Indo-European	Nominal Categories
+tvo	Tatar	1	Interrogative-based	56.0	49.5	Turkic	Altaic	Nominal Categories
+tpn	Tepehuan (Northern)	4	Mixed	26.3333333333	-107.0	Tepiman	Uto-Aztecan	Nominal Categories
+tps	Tepehuan (Southeastern)	1	Interrogative-based	23.0	-104.5	Tepiman	Uto-Aztecan	Nominal Categories
+tha	Thai	1	Interrogative-based	16.0	101.0	Kam-Tai	Tai-Kadai	Nominal Categories
+tis	Tibetan (Shigatse)	2	Generic-noun-based	29.0	89.0	Bodic	Sino-Tibetan	Nominal Categories
+tid	Tidore	2	Generic-noun-based	0.75	127.5	North Halmaheran	West Papuan	Nominal Categories
+tja	Tiipay (Jamul)	1	Interrogative-based	32.1666666667	-116.5	Yuman	Hokan	Nominal Categories
+tiw	Tiwi	1	Interrogative-based	-11.5	131.0	Tiwian	Tiwian	Nominal Categories
+tms	Tommo So	2	Generic-noun-based	15.0	-3.0	Dogon	Dogon	Nominal Categories
+ton	Tonkawa	1	Interrogative-based	30.25	-96.75	Tonkawa	Tonkawa	Nominal Categories
+txj	Totonac (Xicotepec de Juárez)	1	Interrogative-based	20.4166666667	-97.8333333333	Totonacan	Totonacan	Nominal Categories
+tru	Trumai	2	Generic-noun-based	-11.9166666667	-53.5833333333	Trumai	Trumai	Nominal Categories
+tst	Tsat	1	Interrogative-based	18.25	109.5	Malayo-Sumbawan	Austronesian	Nominal Categories
+tun	Tunica	1	Interrogative-based	32.6666666667	-91.0	Tunica	Tunica	Nominal Categories
+tur	Turkish	2	Generic-noun-based	39.0	35.0	Turkic	Altaic	Nominal Categories
+tkm	Turkmen	4	Mixed	40.0	58.0	Turkic	Altaic	Nominal Categories
+tvl	Tuvaluan	2	Generic-noun-based	-8.5	179.166666667	Oceanic	Austronesian	Nominal Categories
+tuv	Tuvan	1	Interrogative-based	52.0	95.0	Turkic	Altaic	Nominal Categories
+udh	Udihe	1	Interrogative-based	47.6666666667	136.25	Tungusic	Altaic	Nominal Categories
+udm	Udmurt	1	Interrogative-based	57.5	52.5	Permic	Uralic	Nominal Categories
+ukr	Ukrainian	1	Interrogative-based	49.0	33.0	Slavic	Indo-European	Nominal Categories
+uku	Upper Kuskokwim	1	Interrogative-based	63.0	-157.0	Athapaskan	Na-Dene	Nominal Categories
+urk	Urubú-Kaapor	4	Mixed	-2.33333333333	-46.5	Tupi-Guaraní	Tupian	Nominal Categories
+usa	Usan	2	Generic-noun-based	-4.83333333333	145.166666667	Madang	Trans-New Guinea	Nominal Categories
+uzb	Uzbek	1	Interrogative-based	39.0	66.0	Turkic	Altaic	Nominal Categories
+vie	Vietnamese	1	Interrogative-based	10.5	106.5	Viet-Muong	Austro-Asiatic	Nominal Categories
+wam	Wambaya	1	Interrogative-based	-18.6666666667	135.75	Wambayan	Mirndi	Nominal Categories
+wra	Warao	4	Mixed	9.33333333333	-61.6666666667	Warao	Warao	Nominal Categories
+wry	Waray (in Australia)	1	Interrogative-based	-13.1666666667	131.25	Warayic	Gunwinyguan	Nominal Categories
+wrd	Wardaman	1	Interrogative-based	-15.5	131.0	Yangmanic	Yangmanic	Nominal Categories
+wrn	Warndarang	1	Interrogative-based	-14.4166666667	135.583333333	Warndarang	Mangarrayi-Maran	Nominal Categories
+wic	Wichita	1	Interrogative-based	33.3333333333	-97.3333333333	Caddoan	Caddoan	Nominal Categories
+wmu	Wik Munkan	1	Interrogative-based	-13.9166666667	141.75	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yag	Yagua	3	Special	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Nominal Categories
+ykt	Yakut	1	Interrogative-based	62.0	130.0	Turkic	Altaic	Nominal Categories
+amu	Yanesha'	1	Interrogative-based	-10.5	-75.4166666667	Yanesha'	Arawakan	Nominal Categories
+ynk	Yankuntjatjara	4	Mixed	-27.0	132.0	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yap	Yapese	2	Generic-noun-based	9.58333333333	138.166666667	Yapese	Austronesian	Nominal Categories
+yaq	Yaqui	1	Interrogative-based	27.5	-110.25	Cahita	Uto-Aztecan	Nominal Categories
+ywr	Yawuru	3	Special	-18.0	122.5	Nyulnyulan	Nyulnyulan	Nominal Categories
+yid	Yidiny	1	Interrogative-based	-17.0	145.75	Northern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yin	Yindjibarndi	1	Interrogative-based	-21.75	117.916666667	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yng	Yingkarta	1	Interrogative-based	-25.1666666667	114.833333333	Western Pama-Nyungan	Pama-Nyungan	Nominal Categories
+yor	Yoruba	2	Generic-noun-based	8.0	4.33333333333	Defoid	Niger-Congo	Nominal Categories
+yko	Yukaghir (Kolyma)	1	Interrogative-based	65.75	150.833333333	Yukaghir	Yukaghir	Nominal Categories
+ypk	Yup'ik (Central)	1	Interrogative-based	59.5	-160.0	Eskimo	Eskimo-Aleut	Nominal Categories
+yuw	Yuwaalaraay	1	Interrogative-based	-29.5	148.0	Southeastern Pama-Nyungan	Pama-Nyungan	Nominal Categories
+zaz	Zazaki	3	Special	39.0	41.0	Iranian	Indo-European	Nominal Categories
+zun	Zuni	1	Interrogative-based	35.0833333333	-108.833333333	Zuni	Zuni	Nominal Categories

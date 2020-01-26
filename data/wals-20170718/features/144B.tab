@@ -1,0 +1,617 @@
+Matthew S. Dryer. 2013. Position of Negative Morpheme With Respect to Subject, Object, and Verb.
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+The World Atlas of Language Structures Online.
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+(Available online at http://wals.info/chapter/144, Accessed on 2017-07-18.)
+
+
+wals code	name	value	description	latitude	longitude	genus	family	area
+ani	//Ani	4	Immed postverbal	-18.9166666667	21.9166666667	Khoe-Kwadi	Khoe-Kwadi	Word Order
+huc	=|Hoan	3	Immed preverbal	-25.5	25.0	=|Hoan	Kxa	Word Order
+aba	Abau	4	Immed postverbal	-4.0	141.25	Upper Sepik	Sepik	Word Order
+abv	Abui	4	Immed postverbal	-8.25	124.666666667	Greater Alor	Timor-Alor-Pantar	Word Order
+acg	Achagua	3	Immed preverbal	4.41666666667	-72.25	Inland Northern Arawakan	Arawakan	Word Order
+adg	Adang	4	Immed postverbal	-8.2	124.0	Greater Alor	Timor-Alor-Pantar	Word Order
+adz	Adzera	6	End, not immed postverbal	-6.25	146.25	Oceanic	Austronesian	Word Order
+agc	Agta (Central)	3	Immed preverbal	17.9666666667	121.833333333	Greater Central Philippine	Austronesian	Word Order
+agd	Agta (Dupaningan)	3	Immed preverbal	18.0	122.083333333	Greater Central Philippine	Austronesian	Word Order
+ain	Ainu	3	Immed preverbal	43.0	143.0	Ainu	Ainu	Word Order
+aja	Aja	6	End, not immed postverbal	7.33333333333	25.6666666667	Kresh	Central Sudanic	Word Order
+akh	Akha	3	Immed preverbal	21.8333333333	99.8333333333	Burmese-Lolo	Sino-Tibetan	Word Order
+ala	Alamblak	3	Immed preverbal	-4.66666666667	143.333333333	Sepik Hill	Sepik	Word Order
+alb	Albanian	3	Immed preverbal	41.0	20.0	Albanian	Indo-European	Word Order
+als	Alsea	3	Immed preverbal	44.6666666667	-123.916666667	Alsea	Oregon Coast	Word Order
+aln	Alune	6	End, not immed postverbal	-3.0	128.333333333	Central Malayo-Polynesian	Austronesian	Word Order
+amq	Ambai	6	End, not immed postverbal	-1.83333333333	136.5	South Halmahera - West New Guinea	Austronesian	Word Order
+anj	Anejom	3	Immed preverbal	-20.2	169.8	Oceanic	Austronesian	Word Order
+agm	Angami	4	Immed postverbal	25.6666666667	94.5	Kuki-Chin	Sino-Tibetan	Word Order
+anc	Angas	6	End, not immed postverbal	9.5	9.5	West Chadic	Afro-Asiatic	Word Order
+ann	Anindilyakwa	3	Immed preverbal	-14.0	136.5	Anindilyakwa	Gunwinyguan	Word Order
+anu	Anufo	4	Immed postverbal	10.0833333333	0.25	Kwa	Niger-Congo	Word Order
+any	Anywa	3	Immed preverbal	8.0	33.5	Nilotic	Eastern Sudanic	Word Order
+ane	Anêm	6	End, not immed postverbal	-5.58333333333	149.083333333	Anêm	Anêm	Word Order
+aeg	Arabic (Egyptian)	3	Immed preverbal	30.0	31.0	Semitic	Afro-Asiatic	Word Order
+arg	Arabic (Gulf)	3	Immed preverbal	26.0	49.0	Semitic	Afro-Asiatic	Word Order
+arj	Arabic (Kuwaiti)	3	Immed preverbal	29.5	47.5	Semitic	Afro-Asiatic	Word Order
+ams	Arabic (Modern Standard)	3	Immed preverbal	25.0	42.0	Semitic	Afro-Asiatic	Word Order
+asy	Arabic (Syrian)	3	Immed preverbal	34.0	38.0	Semitic	Afro-Asiatic	Word Order
+aab	Arapesh (Abu)	6	End, not immed postverbal	-3.45	142.95	Kombio-Arapesh	Torricelli	Word Order
+arp	Arapesh (Mountain)	3	Immed preverbal	-3.46666666667	143.166666667	Kombio-Arapesh	Torricelli	Word Order
+alk	Arop-Lokep	6	End, not immed postverbal	-5.38333333333	147.05	Oceanic	Austronesian	Word Order
+aro	Arosi	3	Immed preverbal	-10.25	161.333333333	Oceanic	Austronesian	Word Order
+asm	Asmat	4	Immed postverbal	-5.5	138.5	Asmat-Kamoro	Trans-New Guinea	Word Order
+ata	Atayal	3	Immed preverbal	24.5	121.333333333	Atayalic	Austronesian	Word Order
+ava	Avar	4	Immed postverbal	42.5	46.5	Avar-Andic-Tsezic	Nakh-Daghestanian	Word Order
+awa	Awa	3	Immed preverbal	-6.66666666667	145.75	Eastern Highlands	Trans-New Guinea	Word Order
+awp	Awa Pit	3	Immed preverbal	1.5	-78.25	Barbacoan	Barbacoan	Word Order
+bac	Bachamal	1	Beginning, not immed preverbal	-13.1666666667	130.166666667	Anson Bay	Anson Bay	Word Order
+bag	Bagirmi	6	End, not immed postverbal	11.6666666667	16.0	Bongo-Bagirmi	Central Sudanic	Word Order
+bgr	Bagiro	6	End, not immed postverbal	4.33333333333	20.5833333333	Bongo-Bagirmi	Central Sudanic	Word Order
+bai	Bai	3	Immed preverbal	26.0	100.0	Bai	Sino-Tibetan	Word Order
+bak	Baka (in Cameroon)	6	End, not immed postverbal	2.58333333333	13.5833333333	Ubangi	Niger-Congo	Word Order
+bka	Baka (in Sudan)	6	End, not immed postverbal	4.83333333333	29.25	Bongo-Bagirmi	Central Sudanic	Word Order
+bvi	Bali-Vitu	3	Immed preverbal	-4.9	149.116666667	Oceanic	Austronesian	Word Order
+bam	Bambara	2	Preverbal, not beginning or immed	12.5	-7.5	Western Mande	Mande	Word Order
+bnn	Banoni	3	Immed preverbal	-6.41666666667	155.25	Oceanic	Austronesian	Word Order
+baa	Barai	3	Immed preverbal	-9.33333333333	148.083333333	Koiarian	Trans-New Guinea	Word Order
+bbu	Barambu	6	End, not immed postverbal	3.5	27.0	Ubangi	Niger-Congo	Word Order
+bar	Bari	3	Immed preverbal	5.0	31.6666666667	Nilotic	Eastern Sudanic	Word Order
+brp	Barupu	2	Preverbal, not beginning or immed	-3.08333333333	142.083333333	Warapu	Skou	Word Order
+bae	Baré	3	Immed preverbal	1.0	-67.0	Inland Northern Arawakan	Arawakan	Word Order
+bsq	Basque	3	Immed preverbal	43.0	-3.0	Basque	Basque	Word Order
+bkr	Batak (Karo)	3	Immed preverbal	3.25	98.25	Northwest Sumatra-Barrier Islands	Austronesian	Word Order
+bto	Batak (Toba)	3	Immed preverbal	2.5	99.0	Northwest Sumatra-Barrier Islands	Austronesian	Word Order
+ble	Baule	4	Immed postverbal	7.0	-5.0	Kwa	Niger-Congo	Word Order
+baq	Baure	3	Immed preverbal	-13.0833333333	-64.1666666667	Bolivia-Parana	Arawakan	Word Order
+bzi	Bauzi	4	Immed postverbal	-2.5	137.5	East Geelvink Bay	East Geelvink Bay	Word Order
+baw	Bawm	4	Immed postverbal	22.5	92.25	Kuki-Chin	Sino-Tibetan	Word Order
+bco	Bella Coola	3	Immed preverbal	52.5	-126.666666667	Bella Coola	Salishan	Word Order
+ben	Bengali	4	Immed postverbal	24.0	90.0	Indic	Indo-European	Word Order
+bch	Berber (Chaouia)	3	Immed preverbal	35.0	7.0	Berber	Afro-Asiatic	Word Order
+bfg	Berber (Figuig)	3	Immed preverbal	32.5	-1.5	Berber	Afro-Asiatic	Word Order
+brf	Berber (Rif)	3	Immed preverbal	34.5	-4.0	Berber	Afro-Asiatic	Word Order
+bho	Bhojpuri	3	Immed preverbal	26.0	84.0	Indic	Indo-European	Word Order
+bik	Biak	6	End, not immed postverbal	-1.0	136.0	South Halmahera - West New Guinea	Austronesian	Word Order
+blx	Biloxi	4	Immed postverbal	30.5	-88.6666666667	Core Siouan	Siouan	Word Order
+bil	Bilua	3	Immed preverbal	-7.75	156.666666667	Bilua	Solomons East Papuan	Word Order
+bmb	Bimoba	3	Immed preverbal	10.5	0.0	Gur	Niger-Congo	Word Order
+bni	Bini	3	Immed preverbal	6.41666666667	5.83333333333	Edoid	Niger-Congo	Word Order
+bir	Birom	6	End, not immed postverbal	9.66666666667	8.83333333333	Platoid	Niger-Congo	Word Order
+bok	Boko	4	Immed postverbal	10.5	3.5	Eastern Mande	Mande	Word Order
+bol	Bolia	6	End, not immed postverbal	-1.25	18.3333333333	Bantoid	Niger-Congo	Word Order
+bgo	Bongo	6	End, not immed postverbal	7.5	28.5	Bongo-Bagirmi	Central Sudanic	Word Order
+bra	Brao	3	Immed preverbal	14.1666666667	107.5	Bahnaric	Austro-Asiatic	Word Order
+bud	Buduma	6	End, not immed postverbal	13.5	14.5	Biu-Mandara	Afro-Asiatic	Word Order
+bnu	Bularnu	1	Beginning, not immed preverbal	-21.0	138.0	Western Pama-Nyungan	Pama-Nyungan	Word Order
+bul	Bulgarian	3	Immed preverbal	42.5	25.0	Slavic	Indo-European	Word Order
+bum	Buma	6	End, not immed postverbal	-11.6333333333	166.833333333	Oceanic	Austronesian	Word Order
+brm	Burmese	4	Immed postverbal	21.0	96.0	Burmese-Lolo	Sino-Tibetan	Word Order
+bus	Busa	4	Immed postverbal	9.66666666667	4.0	Eastern Mande	Mande	Word Order
+cah	Cahuilla	3	Immed preverbal	33.5	-116.25	California Uto-Aztecan	Uto-Aztecan	Word Order
+ckr	Canela-Krahô	4	Immed postverbal	-6.0	-46.0	Ge-Kaingang	Macro-Ge	Word Order
+cnt	Cantonese	3	Immed preverbal	23.0	113.0	Chinese	Sino-Tibetan	Word Order
+ctl	Catalan	3	Immed preverbal	41.75	2.0	Romance	Indo-European	Word Order
+chw	Cham (Western)	6	End, not immed postverbal	12.0	105.5	Malayo-Sumbawan	Austronesian	Word Order
+cha	Chamorro	3	Immed preverbal	13.45	144.75	Chamorro	Austronesian	Word Order
+cso	Chatino (Sierra Occidental)	3	Immed preverbal	16.25	-97.3333333333	Zapotecan	Oto-Manguean	Word Order
+cya	Chatino (Yaitepec)	3	Immed preverbal	16.25	-97.25	Zapotecan	Oto-Manguean	Word Order
+chc	Chechen	3	Immed preverbal	43.25	45.8333333333	Nakh	Nakh-Daghestanian	Word Order
+cmr	Chin (Mara)	4	Immed postverbal	23.0	93.1666666667	Kuki-Chin	Sino-Tibetan	Word Order
+chs	Chin (Siyin)	4	Immed postverbal	23.8333333333	94.0	Kuki-Chin	Sino-Tibetan	Word Order
+cti	Chin (Tiddim)	4	Immed postverbal	23.3333333333	93.6666666667	Kuki-Chin	Sino-Tibetan	Word Order
+cle	Chinantec (Lealao)	3	Immed preverbal	17.3333333333	-95.9166666667	Chinantecan	Oto-Manguean	Word Order
+chq	Chinantec (Quiotepec)	3	Immed preverbal	17.5833333333	-96.6666666667	Chinantecan	Oto-Manguean	Word Order
+ckl	Chinook (Lower)	3	Immed preverbal	46.25	-123.5	Chinookan	Penutian	Word Order
+cpy	Chipaya	1	Beginning, not immed preverbal	-18.75	-67.8333333333	Uru-Chipaya	Uru-Chipaya	Word Order
+chp	Chipewyan	4	Immed postverbal	59.0	-106.0	Athapaskan	Na-Dene	Word Order
+chx	Chontal (Huamelultec Oaxaca)	3	Immed preverbal	16.0	-95.75	Tequistlatecan	Tequistlatecan	Word Order
+cmy	Chontal Maya	3	Immed preverbal	18.1666666667	-92.5833333333	Mayan	Mayan	Word Order
+chr	Chrau	3	Immed preverbal	10.75	107.5	Bahnaric	Austro-Asiatic	Word Order
+chj	Chuj	3	Immed preverbal	15.9166666667	-91.5833333333	Mayan	Mayan	Word Order
+coc	Cocama	1	Beginning, not immed preverbal	-5.0	-74.5	Tupi-Guaraní	Tupian	Word Order
+crn	Cornish	3	Immed preverbal	50.3333333333	-5.0	Celtic	Indo-European	Word Order
+cre	Cree (Plains)	3	Immed preverbal	54.0	-110.0	Algonquian	Algic	Word Order
+cea	Cree (Swampy)	3	Immed preverbal	56.0	-90.0	Algonquian	Algic	Word Order
+cui	Cuiba	1	Beginning, not immed preverbal	6.5	-70.0	Guahiban	Guahiban	Word Order
+cem	Cèmuhî	3	Immed preverbal	-20.8333333333	165.166666667	Oceanic	Austronesian	Word Order
+dag	Daga	3	Immed preverbal	-10.0	149.333333333	Dagan	Dagan	Word Order
+dga	Dagaare	3	Immed preverbal	10.5	-2.66666666667	Gur	Niger-Congo	Word Order
+dgb	Dagbani	3	Immed preverbal	9.58333333333	-0.5	Gur	Niger-Congo	Word Order
+dni	Dani (Lower Grand Valley)	4	Immed postverbal	-4.33333333333	138.833333333	Dani	Trans-New Guinea	Word Order
+did	Didinga	3	Immed preverbal	4.5	33.5	Surmic	Eastern Sudanic	Word Order
+die	Diegueño (Mesa Grande)	4	Immed postverbal	32.6666666667	-116.166666667	Yuman	Hokan	Word Order
+din	Dinka	2	Preverbal, not beginning or immed	8.5	28.0	Nilotic	Eastern Sudanic	Word Order
+djp	Djapu	1	Beginning, not immed preverbal	-12.6666666667	136.0	Western Pama-Nyungan	Pama-Nyungan	Word Order
+djn	Djinang	1	Beginning, not immed preverbal	-12.3333333333	134.833333333	Western Pama-Nyungan	Pama-Nyungan	Word Order
+dji	Djingili	3	Immed preverbal	-17.75	134.0	Djingili	Mirndi	Word Order
+dom	Domari	3	Immed preverbal	32.0	35.0	Indic	Indo-European	Word Order
+dgo	Dongo	6	End, not immed postverbal	3.0	30.0	Ubangi	Niger-Congo	Word Order
+doy	Doyayo	3	Immed preverbal	8.66666666667	13.0833333333	Adamawa	Niger-Congo	Word Order
+dre	Drehu	3	Immed preverbal	-21.0	167.25	Oceanic	Austronesian	Word Order
+dua	Duala	3	Immed preverbal	4.0	9.41666666667	Bantoid	Niger-Congo	Word Order
+duk	Duka	6	End, not immed postverbal	11.1666666667	5.08333333333	Kainji	Niger-Congo	Word Order
+dma	Duma	4	Immed postverbal	-0.95	13.0	Bantoid	Niger-Congo	Word Order
+dmk	Dumaki	3	Immed preverbal	36.1666666667	74.0	Indic	Indo-European	Word Order
+dum	Dumo	4	Immed postverbal	-2.68333333333	141.3	Western Skou	Skou	Word Order
+dun	Duna	4	Immed postverbal	-5.5	142.5	Duna	Trans-New Guinea	Word Order
+dut	Dutch	6	End, not immed postverbal	52.5	6.0	Germanic	Indo-European	Word Order
+dyi	Dyirbal	3	Immed preverbal	-17.8333333333	145.583333333	Northern Pama-Nyungan	Pama-Nyungan	Word Order
+ebi	Ebira	3	Immed preverbal	8.16666666667	7.0	Nupoid	Niger-Congo	Word Order
+ega	Ega	6	End, not immed postverbal	5.5	-5.5	Kwa	Niger-Congo	Word Order
+eng	English	3	Immed preverbal	52.0	0.0	Germanic	Indo-European	Word Order
+ese	Ese Ejja	4	Immed postverbal	-11.0	-66.0	Tacanan	Tacanan	Word Order
+est	Estonian	3	Immed preverbal	59.0	26.0	Finnic	Uralic	Word Order
+eve	Evenki	3	Immed preverbal	56.0	125.0	Tungusic	Altaic	Word Order
+fij	Fijian	3	Immed preverbal	-17.8333333333	178.0	Oceanic	Austronesian	Word Order
+fin	Finnish	3	Immed preverbal	62.0	25.0	Finnic	Uralic	Word Order
+fon	Fongbe	3	Immed preverbal	6.41666666667	2.16666666667	Kwa	Niger-Congo	Word Order
+fre	French	4	Immed postverbal	48.0	2.0	Romance	Indo-European	Word Order
+fut	Futuna-Aniwa	3	Immed preverbal	-19.5333333333	170.216666667	Oceanic	Austronesian	Word Order
+fye	Fyem	6	End, not immed postverbal	9.58333333333	9.33333333333	Platoid	Niger-Congo	Word Order
+gds	Gadsup	3	Immed preverbal	-6.25	146.0	Eastern Highlands	Trans-New Guinea	Word Order
+gae	Gaelic (Scots)	3	Immed preverbal	57.0	-4.0	Celtic	Indo-European	Word Order
+gap	Gapapaiwa	3	Immed preverbal	-9.75	149.833333333	Oceanic	Austronesian	Word Order
+grf	Garífuna	3	Immed preverbal	15.6666666667	-88.0	Caribbean Arawakan	Arawakan	Word Order
+gav	Gavião	1	Beginning, not immed preverbal	-10.6666666667	-62.0	Monde	Tupian	Word Order
+gbk	Gbaya Kara	6	End, not immed postverbal	6.0	15.0	Gbaya-Manza-Ngbaka	Niger-Congo	Word Order
+gbb	Gbeya Bossangoa	6	End, not immed postverbal	6.66666666667	17.5	Gbaya-Manza-Ngbaka	Niger-Congo	Word Order
+gel	Gela	3	Immed preverbal	-9.08333333333	160.25	Oceanic	Austronesian	Word Order
+gla	Gelao	6	End, not immed postverbal	22.9166666667	105.5	Kadai	Tai-Kadai	Word Order
+geo	Georgian	3	Immed preverbal	42.0	44.0	Kartvelian	Kartvelian	Word Order
+ger	German	6	End, not immed postverbal	52.0	10.0	Germanic	Indo-European	Word Order
+goa	Goajiro	3	Immed preverbal	12.0	-72.0	Caribbean Arawakan	Arawakan	Word Order
+goe	Goemai	6	End, not immed postverbal	8.66666666667	9.75	West Chadic	Afro-Asiatic	Word Order
+gok	Gokana	3	Immed preverbal	4.58333333333	7.33333333333	Cross River	Niger-Congo	Word Order
+goo	Gooniyandi	3	Immed preverbal	-18.3333333333	126.333333333	Bunuban	Bunuban	Word Order
+grb	Grebo	2	Preverbal, not beginning or immed	5.0	-8.0	Kru	Niger-Congo	Word Order
+grk	Greek (Modern)	3	Immed preverbal	39.0	22.0	Greek	Indo-European	Word Order
+grj	Guarijío	1	Beginning, not immed preverbal	27.75	-108.666666667	Tarahumaran	Uto-Aztecan	Word Order
+gud	Gude	1	Beginning, not immed preverbal	10.4166666667	13.4166666667	Biu-Mandara	Afro-Asiatic	Word Order
+guj	Gujarati	3	Immed preverbal	23.0	72.0	Indic	Indo-European	Word Order
+gul	Gula (in Central African Republic)	6	End, not immed postverbal	9.5	22.5	Bongo-Bagirmi	Central Sudanic	Word Order
+gmw	Gumawana	3	Immed preverbal	-9.25	150.833333333	Oceanic	Austronesian	Word Order
+gnb	Gunbalang	3	Immed preverbal	-12.0	134.0	Gunwinygic	Gunwinyguan	Word Order
+ggu	Gureng Gureng	1	Beginning, not immed preverbal	-25.25	151.0	Southeastern Pama-Nyungan	Pama-Nyungan	Word Order
+guu	Guugu Yimidhirr	3	Immed preverbal	-15.0	144.833333333	Northern Pama-Nyungan	Pama-Nyungan	Word Order
+gwo	Gworok	6	End, not immed postverbal	9.91666666667	8.16666666667	Platoid	Niger-Congo	Word Order
+hai	Haida	1	Beginning, not immed preverbal	53.0	-132.0	Haida	Haida	Word Order
+hak	Hakka	3	Immed preverbal	25.0	116.0	Chinese	Sino-Tibetan	Word Order
+hlu	Halkomelem (Upriver)	3	Immed preverbal	49.25	-121.916666667	Central Salish	Salishan	Word Order
+hat	Hatam	6	End, not immed postverbal	-1.0	134.0	Hatam	West Papuan	Word Order
+hau	Hausa	3	Immed preverbal	12.0	7.0	West Chadic	Afro-Asiatic	Word Order
+haw	Hawaiian	3	Immed preverbal	19.5833333333	-155.5	Oceanic	Austronesian	Word Order
+hay	Hayu	3	Immed preverbal	27.25	86.0	Mahakiranti	Sino-Tibetan	Word Order
+heb	Hebrew (Modern)	3	Immed preverbal	31.5	34.8333333333	Semitic	Afro-Asiatic	Word Order
+hei	Heiltsuk	3	Immed preverbal	52.0	-127.5	Northern Wakashan	Wakashan	Word Order
+hil	Hiligaynon	3	Immed preverbal	10.25	123.0	Greater Central Philippine	Austronesian	Word Order
+hin	Hindi	3	Immed preverbal	25.0	77.0	Indic	Indo-European	Word Order
+lic	Hlai (Baoding)	3	Immed preverbal	19.0	109.5	Hlai	Tai-Kadai	Word Order
+hma	Hmar	4	Immed postverbal	24.1666666667	93.0	Kuki-Chin	Sino-Tibetan	Word Order
+hmo	Hmong Njua	3	Immed preverbal	28.0	105.0	Hmong-Mien	Hmong-Mien	Word Order
+hoa	Hoava	3	Immed preverbal	-8.08333333333	157.5	Oceanic	Austronesian	Word Order
+hop	Hopi	3	Immed preverbal	36.0	-110.0	Hopi	Uto-Aztecan	Word Order
+hlp	Hualapai	4	Immed postverbal	35.5	-113.75	Yuman	Hokan	Word Order
+htc	Huastec	3	Immed preverbal	22.0833333333	-99.3333333333	Mayan	Mayan	Word Order
+hun	Hungarian	3	Immed preverbal	47.0	20.0	Ugric	Uralic	Word Order
+hup	Hupa	3	Immed preverbal	41.0833333333	-123.666666667	Athapaskan	Na-Dene	Word Order
+isa	I'saka	4	Immed postverbal	-2.83333333333	141.283333333	Krisa	Skou	Word Order
+iaa	Iaai	3	Immed preverbal	-20.4166666667	166.583333333	Oceanic	Austronesian	Word Order
+iau	Iau	4	Immed postverbal	-3.16666666667	137.5	Lakes Plain	Lakes Plain	Word Order
+idn	Iduna	3	Immed preverbal	-9.33333333333	150.25	Oceanic	Austronesian	Word Order
+mxe	Ifira-Mele	4	Immed postverbal	-17.75	168.25	Oceanic	Austronesian	Word Order
+ifu	Ifugao (Batad)	3	Immed preverbal	16.8333333333	121.083333333	Northern Luzon	Austronesian	Word Order
+ige	Igede	6	End, not immed postverbal	7.0	8.16666666667	Idomoid	Niger-Congo	Word Order
+ign	Ignaciano	3	Immed preverbal	-15.1666666667	-65.4166666667	Bolivia-Parana	Arawakan	Word Order
+ijo	Ijo (Kolokuma)	4	Immed postverbal	4.91666666667	5.66666666667	Ijoid	Ijoid	Word Order
+ik	Ik	3	Immed preverbal	3.75	34.1666666667	Kuliak	Eastern Sudanic	Word Order
+ind	Indonesian	3	Immed preverbal	0.0	106.0	Malayo-Sumbawan	Austronesian	Word Order
+igs	Ingessana	6	End, not immed postverbal	11.5	34.0	Eastern Jebel	Eastern Sudanic	Word Order
+inn	Innamincka	1	Beginning, not immed preverbal	-27.75	140.75	Central Pama-Nyungan	Pama-Nyungan	Word Order
+iqu	Iquito	1	Beginning, not immed preverbal	-3.25	-74.0	Zaparoan	Zaparoan	Word Order
+irr	Irarutu	6	End, not immed postverbal	-3.0	133.5	South Halmahera - West New Guinea	Austronesian	Word Order
+iri	Irish	3	Immed preverbal	53.0	-8.0	Celtic	Indo-European	Word Order
+ita	Italian	3	Immed preverbal	43.0	12.0	Romance	Indo-European	Word Order
+iwm	Iwam	4	Immed postverbal	-4.33333333333	142.0	Upper Sepik	Sepik	Word Order
+kwy	Iwoyo	6	End, not immed postverbal	-5.5	12.25	Bantoid	Niger-Congo	Word Order
+izi	Izi	3	Immed preverbal	6.33333333333	8.0	Igboid	Niger-Congo	Word Order
+jab	Jabêm	6	End, not immed postverbal	-6.58333333333	147.783333333	Oceanic	Austronesian	Word Order
+jak	Jakaltek	3	Immed preverbal	15.6666666667	-91.6666666667	Mayan	Mayan	Word Order
+jar	Jarawa (in Nigeria)	6	End, not immed postverbal	9.5	10.5	Bantoid	Niger-Congo	Word Order
+juk	Jukun	6	End, not immed postverbal	6.91666666667	10.4166666667	Platoid	Niger-Congo	Word Order
+jmo	Jur Mödö	6	End, not immed postverbal	6.0	30.0	Bongo-Bagirmi	Central Sudanic	Word Order
+juh	Ju|'hoan	3	Immed preverbal	-19.0	21.0	Ju-Kung	Kxa	Word Order
+kdz	Kadazan	3	Immed preverbal	5.91666666667	117.166666667	North Borneo	Austronesian	Word Order
+kng	Kaingang	4	Immed postverbal	-26.0	-52.0	Ge-Kaingang	Macro-Ge	Word Order
+krr	Kairiru	4	Immed postverbal	-3.33333333333	143.583333333	Oceanic	Austronesian	Word Order
+kls	Kalispel	3	Immed preverbal	48.0	-117.0	Interior Salish	Salishan	Word Order
+kmz	Kamasau	4	Immed postverbal	-3.91666666667	143.666666667	Marienberg	Torricelli	Word Order
+kmw	Kamu	3	Immed preverbal	-13.5833333333	130.833333333	Eastern Daly	Eastern Daly	Word Order
+kan	Kana	3	Immed preverbal	4.75	7.41666666667	Cross River	Niger-Congo	Word Order
+kar	Kara (in Central African Republic)	6	End, not immed postverbal	10.0	23.0	Bongo-Bagirmi	Central Sudanic	Word Order
+krc	Karachay-Balkar	4	Immed postverbal	43.5	42.0	Turkic	Altaic	Word Order
+kbw	Karen (Bwe)	6	End, not immed postverbal	19.5	97.0	Karen	Sino-Tibetan	Word Order
+kpw	Karen (Pwo)	6	End, not immed postverbal	13.0	99.1666666667	Karen	Sino-Tibetan	Word Order
+kmj	Karimojong	3	Immed preverbal	3.0	34.1666666667	Nilotic	Eastern Sudanic	Word Order
+kyr	Karkar-Yuri	4	Immed postverbal	-3.75	141.083333333	Karkar-Yuri	Karkar-Yuri	Word Order
+kaa	Karó (Arára)	4	Immed postverbal	-10.3333333333	-62.0	Ramarama	Tupian	Word Order
+ksn	Kasong	3	Immed preverbal	12.75	102.116666667	Pearic	Austro-Asiatic	Word Order
+kti	Kati (in West Papua, Indonesia)	4	Immed postverbal	-5.75	140.916666667	Ok	Trans-New Guinea	Word Order
+kyl	Kayah Li (Eastern)	6	End, not immed postverbal	19.0	97.5	Karen	Sino-Tibetan	Word Order
+kyp	Kayapó	4	Immed postverbal	-9.0	-52.0	Ge-Kaingang	Macro-Ge	Word Order
+kel	Kele	6	End, not immed postverbal	-2.08333333333	147.083333333	Oceanic	Austronesian	Word Order
+ken	Kenga	6	End, not immed postverbal	12.0	18.0	Bongo-Bagirmi	Central Sudanic	Word Order
+ker	Kera	6	End, not immed postverbal	9.83333333333	15.0833333333	East Chadic	Afro-Asiatic	Word Order
+ket	Ket	3	Immed preverbal	64.0	87.0	Yeniseian	Yeniseian	Word Order
+kty	Khanty	3	Immed preverbal	65.0	65.0	Ugric	Uralic	Word Order
+khs	Khasi	3	Immed preverbal	25.5	92.0	Khasian	Austro-Asiatic	Word Order
+khm	Khmer	3	Immed preverbal	12.5	105.0	Khmer	Austro-Asiatic	Word Order
+kho	Khoekhoe	4	Immed postverbal	-25.5	18.0	Khoe-Kwadi	Khoe-Kwadi	Word Order
+klw	Kiliwa	4	Immed postverbal	31.3333333333	-115.666666667	Yuman	Hokan	Word Order
+kim	Kimaghama	4	Immed postverbal	-8.0	138.5	Kolopom	Kolopom	Word Order
+knn	Kinnauri	3	Immed preverbal	31.5	78.0	Bodic	Sino-Tibetan	Word Order
+kio	Kiowa	1	Beginning, not immed preverbal	37.0	-99.0	Kiowa-Tanoan	Kiowa-Tanoan	Word Order
+kie	Kire	4	Immed postverbal	-4.25	144.75	Mikarew	Lower Sepik-Ramu	Word Order
+krb	Kiribati	3	Immed preverbal	1.33333333333	173.0	Oceanic	Austronesian	Word Order
+kir	Kirma	3	Immed preverbal	10.25	-4.83333333333	Gur	Niger-Congo	Word Order
+kis	Kisi	6	End, not immed postverbal	8.83333333333	-10.1666666667	Mel	Niger-Congo	Word Order
+klm	Klamath	1	Beginning, not immed preverbal	42.5	-121.5	Klamath-Modoc	Penutian	Word Order
+kla	Klao	2	Preverbal, not beginning or immed	4.75	-8.75	Kru	Niger-Congo	Word Order
+kkt	Kokota	3	Immed preverbal	-8.0	159.133333333	Oceanic	Austronesian	Word Order
+kol	Kolami	4	Immed postverbal	20.0	78.5	Central Dravidian	Dravidian	Word Order
+xbi	Kombio	3	Immed preverbal	-3.5	142.75	Kombio-Arapesh	Torricelli	Word Order
+kzy	Komi-Zyrian	3	Immed preverbal	65.0	55.0	Permic	Uralic	Word Order
+kom	Komo	3	Immed preverbal	8.75	33.75	Koman	Koman	Word Order
+kon	Kongo	6	End, not immed postverbal	-5.0	15.0	Bantoid	Niger-Congo	Word Order
+kni	Konni	3	Immed preverbal	10.25	-1.58333333333	Gur	Niger-Congo	Word Order
+krn	Korana	4	Immed postverbal	-29.5	20.5	Khoe-Kwadi	Khoe-Kwadi	Word Order
+kor	Korean	3	Immed preverbal	37.5	128.0	Korean	Korean	Word Order
+kfe	Koromfe	3	Immed preverbal	14.25	-0.916666666667	Gur	Niger-Congo	Word Order
+kos	Kosraean	3	Immed preverbal	5.3	163.0	Oceanic	Austronesian	Word Order
+kch	Koyra Chiini	3	Immed preverbal	17.0	-3.0	Songhay	Songhay	Word Order
+kse	Koyraboro Senni	2	Preverbal, not beginning or immed	16.0	0.0	Songhay	Songhay	Word Order
+kre	Kresh	6	End, not immed postverbal	8.5	24.5	Kresh	Central Sudanic	Word Order
+knc	Kugu Nganhcara	3	Immed preverbal	-14.4166666667	142.0	Northern Pama-Nyungan	Pama-Nyungan	Word Order
+kuo	Kuot	3	Immed preverbal	-3.05	151.5	Kuot	Kuot	Word Order
+kut	Kutenai	3	Immed preverbal	49.5	-116.0	Kutenai	Kutenai	Word Order
+thy	Kuuk Thaayorre	3	Immed preverbal	-14.5833333333	141.833333333	Northern Pama-Nyungan	Pama-Nyungan	Word Order
+kwa	Kwaio	3	Immed preverbal	-8.95	161.0	Oceanic	Austronesian	Word Order
+kwt	Kwomtari	2	Preverbal, not beginning or immed	-3.5	141.5	Kwomtari	Kwomtari-Baibai	Word Order
+kxo	Kxoe	4	Immed postverbal	-17.5	22.5	Khoe-Kwadi	Khoe-Kwadi	Word Order
+kyq	Kyuquot	3	Immed preverbal	50.1666666667	-127.166666667	Southern Wakashan	Wakashan	Word Order
+laa	Laal	6	End, not immed postverbal	10.0	17.6666666667	Laal	Laal	Word Order
+lab	Labu	6	End, not immed postverbal	-6.75	146.916666667	Oceanic	Austronesian	Word Order
+lag	Lagwan	6	End, not immed postverbal	11.5	14.8333333333	Biu-Mandara	Afro-Asiatic	Word Order
+lah	Lahu	3	Immed preverbal	20.0	98.1666666667	Burmese-Lolo	Sino-Tibetan	Word Order
+lai	Lai	4	Immed postverbal	22.6666666667	93.6666666667	Kuki-Chin	Sino-Tibetan	Word Order
+lkt	Lakhota	4	Immed postverbal	43.8333333333	-101.833333333	Core Siouan	Siouan	Word Order
+lmh	Lamaholot	6	End, not immed postverbal	-8.25	122.916666667	Central Malayo-Polynesian	Austronesian	Word Order
+lmg	Lamang	6	End, not immed postverbal	11.25	13.5833333333	Biu-Mandara	Afro-Asiatic	Word Order
+lmn	Lamani	4	Immed postverbal	17.0	77.0	Indic	Indo-European	Word Order
+lan	Lango	3	Immed preverbal	2.16666666667	33.0	Nilotic	Eastern Sudanic	Word Order
+lao	Lao	3	Immed preverbal	18.0	103.0	Kam-Tai	Tai-Kadai	Word Order
+lav	Lavukaleve	4	Immed postverbal	-9.08333333333	159.2	Lavukaleve	Solomons East Papuan	Word Order
+lel	Lele	6	End, not immed postverbal	9.08333333333	15.5833333333	East Chadic	Afro-Asiatic	Word Order
+len	Lenakel	4	Immed postverbal	-19.45	169.25	Oceanic	Austronesian	Word Order
+lew	Lewo	4	Immed postverbal	-16.75	168.333333333	Oceanic	Austronesian	Word Order
+lnd	Linda	6	End, not immed postverbal	6.5	20.75	Ubangi	Niger-Congo	Word Order
+lin	Lingala	6	End, not immed postverbal	2.0	18.5	Bantoid	Niger-Congo	Word Order
+lis	Lisu	3	Immed preverbal	26.0	98.0	Burmese-Lolo	Sino-Tibetan	Word Order
+lgt	Logoti	6	End, not immed postverbal	3.5	30.0	Moru-Ma'di	Central Sudanic	Word Order
+lgu	Longgu	3	Immed preverbal	-9.75	160.666666667	Oceanic	Austronesian	Word Order
+lon	Loniu	6	End, not immed postverbal	-2.06666666667	147.333333333	Oceanic	Austronesian	Word Order
+lug	Lugbara	6	End, not immed postverbal	3.08333333333	30.9166666667	Moru-Ma'di	Central Sudanic	Word Order
+lui	Luiseño	1	Beginning, not immed preverbal	33.3333333333	-117.166666667	California Uto-Aztecan	Uto-Aztecan	Word Order
+lbu	Lunda	6	End, not immed postverbal	-10.6666666667	24.0	Bantoid	Niger-Congo	Word Order
+kkv	Lusi	6	End, not immed postverbal	-5.58333333333	149.666666667	Oceanic	Austronesian	Word Order
+luv	Luvale	6	End, not immed postverbal	-12.0	22.0	Bantoid	Niger-Congo	Word Order
+ma	Ma	6	End, not immed postverbal	3.5	28.0	Ubangi	Niger-Congo	Word Order
+mad	Ma'di	6	End, not immed postverbal	3.25	31.5	Moru-Ma'di	Central Sudanic	Word Order
+maa	Maasai	3	Immed preverbal	-3.0	36.0	Nilotic	Eastern Sudanic	Word Order
+mcd	Macedonian	3	Immed preverbal	41.6666666667	21.75	Slavic	Indo-European	Word Order
+mch	Machiguenga	3	Immed preverbal	-12.0	-72.6666666667	Pre-Andine Arawakan	Arawakan	Word Order
+mac	Macushi	4	Immed postverbal	4.0	-60.0	Cariban	Cariban	Word Order
+mda	Mada (in Cameroon)	6	End, not immed postverbal	10.8333333333	14.1666666667	Biu-Mandara	Afro-Asiatic	Word Order
+mae	Mae	3	Immed preverbal	-16.0	167.25	Oceanic	Austronesian	Word Order
+mgi	Magi	3	Immed preverbal	-10.3333333333	149.333333333	Mailuan	Trans-New Guinea	Word Order
+mai	Maithili	3	Immed preverbal	26.0	86.0	Indic	Indo-European	Word Order
+maj	Majang	1	Beginning, not immed preverbal	6.75	35.0	Surmic	Eastern Sudanic	Word Order
+mak	Makah	3	Immed preverbal	48.3333333333	-124.666666667	Southern Wakashan	Wakashan	Word Order
+mkj	Makasae	3	Immed preverbal	-8.66666666667	126.5	Makasae-Fataluku-Oirata	Timor-Alor-Pantar	Word Order
+mal	Malagasy	3	Immed preverbal	-20.0	47.0	Barito	Austronesian	Word Order
+mlu	Maleu	6	End, not immed postverbal	-5.71666666667	148.416666667	Oceanic	Austronesian	Word Order
+mam	Mam	3	Immed preverbal	15.0	-91.8333333333	Mayan	Mayan	Word Order
+mmn	Mamanwa	3	Immed preverbal	9.41666666667	125.5	Greater Central Philippine	Austronesian	Word Order
+mnm	Manam	3	Immed preverbal	-4.0	145.0	Oceanic	Austronesian	Word Order
+mnd	Mandarin	3	Immed preverbal	34.0	110.0	Chinese	Sino-Tibetan	Word Order
+mkg	Mandinka (Gambian)	2	Preverbal, not beginning or immed	13.4166666667	-16.0	Western Mande	Mande	Word Order
+mmb	Mangap-Mbula	6	End, not immed postverbal	-5.66666666667	148.083333333	Oceanic	Austronesian	Word Order
+myi	Mangarrayi	3	Immed preverbal	-14.6666666667	133.5	Mangarrayi	Mangarrayi-Maran	Word Order
+mgg	Mangghuer	3	Immed preverbal	36.0	102.0	Mongolic	Altaic	Word Order
+maw	Maninka (Western)	2	Preverbal, not beginning or immed	13.0	-11.0	Western Mande	Mande	Word Order
+man	Mano	2	Preverbal, not beginning or immed	7.0	-9.0	Eastern Mande	Mande	Word Order
+mwb	Manobo (Western Bukidnon)	3	Immed preverbal	7.66666666667	124.75	Greater Central Philippine	Austronesian	Word Order
+mns	Mansi	3	Immed preverbal	62.0	62.0	Ugric	Uralic	Word Order
+mao	Maori	1	Beginning, not immed preverbal	-40.0	176.0	Oceanic	Austronesian	Word Order
+mku	Maranungku	1	Beginning, not immed preverbal	-13.6666666667	130.0	Wagaydy	Western Daly	Word Order
+mhi	Marathi	4	Immed postverbal	19.0	76.0	Indic	Indo-European	Word Order
+mny	Margany	1	Beginning, not immed preverbal	-27.0	144.5	Northern Pama-Nyungan	Pama-Nyungan	Word Order
+mrg	Margi	6	End, not immed postverbal	11.0	13.0	Biu-Mandara	Afro-Asiatic	Word Order
+mrq	Marquesan	1	Beginning, not immed preverbal	-8.91666666667	-140.083333333	Oceanic	Austronesian	Word Order
+mrt	Martuthunira	3	Immed preverbal	-20.8333333333	116.5	Western Pama-Nyungan	Pama-Nyungan	Word Order
+mru	Maru	3	Immed preverbal	23.5	98.5	Burmese-Lolo	Sino-Tibetan	Word Order
+mas	Masa	6	End, not immed postverbal	10.5	15.5	Masa	Afro-Asiatic	Word Order
+mka	Mauka	2	Preverbal, not beginning or immed	8.33333333333	-7.5	Western Mande	Mande	Word Order
+mau	Maung	3	Immed preverbal	-11.9166666667	133.5	Iwaidjan	Iwaidjan	Word Order
+may	Maybrat	6	End, not immed postverbal	-1.33333333333	132.5	North-Central Bird's Head	West Papuan	Word Order
+myg	Mayogo	6	End, not immed postverbal	3.0	29.0	Ubangi	Niger-Congo	Word Order
+mhu	Mbalanhu	3	Immed preverbal	-17.5	15.0	Bantoid	Niger-Congo	Word Order
+mbr	Mbara	6	End, not immed postverbal	11.0	15.4166666667	Biu-Mandara	Afro-Asiatic	Word Order
+mby	Mbay	6	End, not immed postverbal	8.25	17.5	Bongo-Bagirmi	Central Sudanic	Word Order
+mbe	Mbere	4	Immed postverbal	-0.5	14.0	Bantoid	Niger-Congo	Word Order
+mbi	Mbili	2	Preverbal, not beginning or immed	6.11666666667	10.2	Bantoid	Niger-Congo	Word Order
+mdo	Mbodomo	6	End, not immed postverbal	4.5	15.5	Gbaya-Manza-Ngbaka	Niger-Congo	Word Order
+mdw	Mbosi	4	Immed postverbal	-1.25	15.5	Bantoid	Niger-Congo	Word Order
+mbm	Mbum	6	End, not immed postverbal	7.75	13.1666666667	Adamawa	Niger-Congo	Word Order
+meh	Mehri	6	End, not immed postverbal	17.0	51.5	Semitic	Afro-Asiatic	Word Order
+mek	Mekens	4	Immed postverbal	-12.5	-61.5	Tupari	Tupian	Word Order
+mea	Meyah	6	End, not immed postverbal	-1.16666666667	133.5	East Bird's Head	East Bird's Head	Word Order
+hna	Mina	6	End, not immed postverbal	10.3333333333	13.8333333333	Biu-Mandara	Afro-Asiatic	Word Order
+mxc	Mixtec (Chalcatongo)	3	Immed preverbal	17.05	-97.5833333333	Mixtecan	Oto-Manguean	Word Order
+mxj	Mixtec (Jicaltepec)	3	Immed preverbal	16.3333333333	-98.0	Mixtecan	Oto-Manguean	Word Order
+mxo	Mixtec (Ocotepec)	3	Immed preverbal	17.1666666667	-97.75	Mixtecan	Oto-Manguean	Word Order
+mxp	Mixtec (Peñoles)	3	Immed preverbal	17.0833333333	-96.9166666667	Mixtecan	Oto-Manguean	Word Order
+miz	Mizo	4	Immed postverbal	23.1666666667	92.8333333333	Kuki-Chin	Sino-Tibetan	Word Order
+mok	Mokilese	3	Immed preverbal	6.66666666667	159.75	Oceanic	Austronesian	Word Order
+mon	Mon	3	Immed preverbal	14.8333333333	100.5	Monic	Austro-Asiatic	Word Order
+mkh	Mongol (Khamnigan)	4	Immed postverbal	49.0	117.0	Mongolic	Altaic	Word Order
+mno	Mono (in United States)	1	Beginning, not immed preverbal	38.0	-119.0	Numic	Uto-Aztecan	Word Order
+mor	Mor	6	End, not immed postverbal	-2.95	135.75	South Halmahera - West New Guinea	Austronesian	Word Order
+mro	Moro	3	Immed preverbal	11.0	30.1666666667	Heiban	Kordofanian	Word Order
+mou	Moru	6	End, not immed postverbal	4.75	29.75	Moru-Ma'di	Central Sudanic	Word Order
+mov	Movima	3	Immed preverbal	-13.8333333333	-65.6666666667	Movima	Movima	Word Order
+mpu	Mpur	6	End, not immed postverbal	-0.75	133.25	Kebar	West Papuan	Word Order
+mum	Mumuye	6	End, not immed postverbal	9.0	11.6666666667	Adamawa	Niger-Congo	Word Order
+mna	Muna	3	Immed preverbal	-5.0	122.5	Celebic	Austronesian	Word Order
+mdg	Mundang	6	End, not immed postverbal	9.66666666667	14.5	Adamawa	Niger-Congo	Word Order
+mun	Mundari	3	Immed preverbal	23.0	84.6666666667	Munda	Austro-Asiatic	Word Order
+mgk	Mungaka	6	End, not immed postverbal	5.91666666667	10.0	Bantoid	Niger-Congo	Word Order
+mup	Mupun	6	End, not immed postverbal	9.5	8.83333333333	West Chadic	Afro-Asiatic	Word Order
+mrl	Murle	3	Immed preverbal	6.5	33.5	Surmic	Eastern Sudanic	Word Order
+mpa	Murrinh-Patha	3	Immed preverbal	-14.6666666667	129.666666667	Murrinh-Patha	Southern Daly	Word Order
+mur	Mursi	3	Immed preverbal	5.58333333333	36.0833333333	Surmic	Eastern Sudanic	Word Order
+mrw	Muruwari	1	Beginning, not immed preverbal	-28.75	147.0	Southeastern Pama-Nyungan	Pama-Nyungan	Word Order
+mgu	Musgu	6	End, not immed postverbal	10.8333333333	14.9166666667	Biu-Mandara	Afro-Asiatic	Word Order
+msq	Musqueam	3	Immed preverbal	49.1666666667	-123.0	Central Salish	Salishan	Word Order
+mus	Mussau	3	Immed preverbal	-1.45	149.616666667	Oceanic	Austronesian	Word Order
+mut	Mutsun	3	Immed preverbal	36.8333333333	-121.5	Costanoan	Penutian	Word Order
+mwo	Mwotlap	3	Immed preverbal	-13.5833333333	167.583333333	Oceanic	Austronesian	Word Order
+nab	Nabak	3	Immed preverbal	-6.41666666667	147.0	Finisterre-Huon	Trans-New Guinea	Word Order
+ndr	Nadroga	3	Immed preverbal	-18.0833333333	177.416666667	Oceanic	Austronesian	Word Order
+nad	Nadëb	1	Beginning, not immed preverbal	-1.0	-66.5	Nadahup	Nadahup	Word Order
+nma	Naga (Mao)	4	Immed postverbal	25.5	94.3333333333	Kuki-Chin	Sino-Tibetan	Word Order
+nze	Naga (Zeme)	4	Immed postverbal	25.1666666667	93.5	Kuki-Chin	Sino-Tibetan	Word Order
+nhh	Nahuatl (Huasteca)	3	Immed preverbal	22.0	-99.0	Aztecan	Uto-Aztecan	Word Order
+nhm	Nahuatl (Michoacán)	3	Immed preverbal	18.5	-103.0	Aztecan	Uto-Aztecan	Word Order
+nak	Nakanai	3	Immed preverbal	-5.58333333333	150.583333333	Oceanic	Austronesian	Word Order
+nal	Nalik	3	Immed preverbal	-2.95	151.333333333	Oceanic	Austronesian	Word Order
+nnk	Nankina	4	Immed postverbal	-5.78333333333	146.45	Finisterre-Huon	Trans-New Guinea	Word Order
+nar	Nara (in Ethiopia)	3	Immed preverbal	15.0833333333	37.5833333333	Nara	Eastern Sudanic	Word Order
+nas	Nasioi	4	Immed postverbal	-6.33333333333	155.583333333	East Bougainville	East Bougainville	Word Order
+ncm	Ncàm	3	Immed preverbal	9.33333333333	0.666666666667	Gur	Niger-Congo	Word Order
+ndj	Ndjébbana	1	Beginning, not immed preverbal	-12.1666666667	134.116666667	Ndjébbana	Mangrida	Word Order
+ndu	Ndumu	6	End, not immed postverbal	-1.66666666667	13.5833333333	Bantoid	Niger-Congo	Word Order
+ndy	Ndyuka	3	Immed preverbal	4.5	-54.5	Creoles and Pidgins	other	Word Order
+neh	Nehan	3	Immed preverbal	-4.5	154.2	Oceanic	Austronesian	Word Order
+nen	Nenets	3	Immed preverbal	69.0	72.0	Samoyedic	Uralic	Word Order
+nne	Nengone	3	Immed preverbal	-21.5	168.0	Oceanic	Austronesian	Word Order
+naj	Neo-Aramaic (Arbel Jewish)	3	Immed preverbal	31.75	35.0	Semitic	Afro-Asiatic	Word Order
+nez	Nez Perce	1	Beginning, not immed preverbal	46.0	-116.0	Sahaptian	Penutian	Word Order
+ngm	Ngambay	6	End, not immed postverbal	8.66666666667	16.0	Bongo-Bagirmi	Central Sudanic	Word Order
+nga	Nganasan	3	Immed preverbal	71.0	93.0	Samoyedic	Uralic	Word Order
+ngw	Ngawun	1	Beginning, not immed preverbal	-19.0	141.5	Northern Pama-Nyungan	Pama-Nyungan	Word Order
+nbm	Ngbaka (Ma'bo)	6	End, not immed postverbal	3.56	18.36	Ubangi	Niger-Congo	Word Order
+ngi	Ngiyambaa	1	Beginning, not immed preverbal	-31.75	145.5	Southeastern Pama-Nyungan	Pama-Nyungan	Word Order
+ngz	Ngizim	6	End, not immed postverbal	12.0833333333	10.9166666667	West Chadic	Afro-Asiatic	Word Order
+ngo	Ngoni	4	Immed postverbal	-11.0	36.0	Bantoid	Niger-Congo	Word Order
+ngu	Nguna	3	Immed preverbal	-16.9166666667	168.5	Oceanic	Austronesian	Word Order
+nia	Nias	3	Immed preverbal	1.0	97.75	Northwest Sumatra-Barrier Islands	Austronesian	Word Order
+nca	Nicobarese (Car)	3	Immed preverbal	9.0	93.0	Nicobarese	Austro-Asiatic	Word Order
+nsg	Nisgha	3	Immed preverbal	55.0	-130.0	Tsimshianic	Penutian	Word Order
+nif	Niuafo'ou	3	Immed preverbal	-15.5666666667	-175.616666667	Oceanic	Austronesian	Word Order
+niu	Niuean	3	Immed preverbal	-19.05	-170.116666667	Oceanic	Austronesian	Word Order
+nke	Nkem	3	Immed preverbal	6.58333333333	8.58333333333	Bantoid	Niger-Congo	Word Order
+nse	Nsenga	4	Immed postverbal	-14.5	30.8333333333	Bantoid	Niger-Congo	Word Order
+nua	Nuaulu	6	End, not immed postverbal	-3.25	129.166666667	Central Malayo-Polynesian	Austronesian	Word Order
+nue	Nuer	1	Beginning, not immed preverbal	8.33333333333	32.0	Nilotic	Eastern Sudanic	Word Order
+nun	Nung (in Vietnam)	3	Immed preverbal	21.9166666667	106.416666667	Kam-Tai	Tai-Kadai	Word Order
+nug	Nunggubuyu	3	Immed preverbal	-13.75	135.666666667	Nunggubuyu	Gunwinyguan	Word Order
+nup	Nupe	6	End, not immed postverbal	9.16666666667	5.41666666667	Nupoid	Niger-Congo	Word Order
+nyi	Nyimang	3	Immed preverbal	12.1666666667	29.3333333333	Nyimang	Eastern Sudanic	Word Order
+nza	Nzakara	6	End, not immed postverbal	5.0	23.0	Ubangi	Niger-Congo	Word Order
+ood	O'odham	3	Immed preverbal	32.0	-112.0	Tepiman	Uto-Aztecan	Word Order
+oji	Ojibwa (Eastern)	3	Immed preverbal	46.0	-80.0	Algonquian	Algic	Word Order
+oks	Oksapmin	3	Immed preverbal	-5.16666666667	142.166666667	Oksapmin	Oksapmin	Word Order
+olo	Olo	6	End, not immed postverbal	-3.41666666667	142.0	Wapei-Palei	Torricelli	Word Order
+one	One	6	End, not immed postverbal	-3.25	141.916666667	West Wapei	Torricelli	Word Order
+ond	Oneida	3	Immed preverbal	43.0	-75.6666666667	Northern Iroquoian	Iroquoian	Word Order
+ong	Onge	4	Immed postverbal	10.75	92.4166666667	South Andamanese	South Andamanese	Word Order
+osa	Osage	4	Immed postverbal	37.0	-94.0	Core Siouan	Siouan	Word Order
+otm	Otomí (Mezquital)	3	Immed preverbal	20.1666666667	-99.1666666667	Otomian	Oto-Manguean	Word Order
+paa	Pa'a	6	End, not immed postverbal	11.0	9.25	West Chadic	Afro-Asiatic	Word Order
+pkn	Paakantyi	1	Beginning, not immed preverbal	-32.5	142.5	Central Pama-Nyungan	Pama-Nyungan	Word Order
+pno	Paiute (Northern)	1	Beginning, not immed preverbal	42.0	-118.0	Numic	Uto-Aztecan	Word Order
+pai	Paiwan	3	Immed preverbal	22.5	120.833333333	Paiwan	Austronesian	Word Order
+pal	Palauan	3	Immed preverbal	7.5	134.583333333	Palauan	Austronesian	Word Order
+plg	Palaung	3	Immed preverbal	22.6666666667	96.6666666667	Palaung-Khmuic	Austro-Asiatic	Word Order
+pnn	Pangasinan	3	Immed preverbal	15.9166666667	120.333333333	Northern Luzon	Austronesian	Word Order
+pan	Panjabi	3	Immed preverbal	31.0	74.0	Indic	Indo-European	Word Order
+pat	Patep	6	End, not immed postverbal	-6.91666666667	146.583333333	Oceanic	Austronesian	Word Order
+plh	Paulohi	3	Immed preverbal	-3.25	128.75	Central Malayo-Polynesian	Austronesian	Word Order
+paw	Pawaian	4	Immed postverbal	-7.0	145.083333333	Pawaian	Teberan-Pawaian	Word Order
+pip	Pipil	3	Immed preverbal	13.8333333333	-89.5833333333	Aztecan	Uto-Aztecan	Word Order
+pod	Podoko	6	End, not immed postverbal	11.0	14.0833333333	Biu-Mandara	Afro-Asiatic	Word Order
+poh	Pohnpeian	3	Immed preverbal	6.88333333333	158.25	Oceanic	Austronesian	Word Order
+pkt	Pokot	3	Immed preverbal	1.5	35.5	Nilotic	Eastern Sudanic	Word Order
+pol	Polish	3	Immed preverbal	52.0	20.0	Slavic	Indo-European	Word Order
+por	Portuguese	3	Immed preverbal	39.0	-8.0	Romance	Indo-European	Word Order
+pul	Puluwat	3	Immed preverbal	7.33333333333	149.333333333	Oceanic	Austronesian	Word Order
+qaw	Qawasqar	4	Immed postverbal	-49.0	-75.0	Alacalufan	Alacalufan	Word Order
+qui	Quileute	3	Immed preverbal	47.9166666667	-124.25	Chimakuan	Chimakuan	Word Order
+rap	Rapanui	3	Immed preverbal	-27.1166666667	-109.366666667	Oceanic	Austronesian	Word Order
+raw	Rawang	3	Immed preverbal	27.5	97.5	Nungish	Sino-Tibetan	Word Order
+res	Resígaro	1	Beginning, not immed preverbal	-2.41666666667	-71.5	Inland Northern Arawakan	Arawakan	Word Order
+rom	Romanian	3	Immed preverbal	46.0	25.0	Romance	Indo-European	Word Order
+ron	Ron	6	End, not immed postverbal	9.0	8.75	West Chadic	Afro-Asiatic	Word Order
+rov	Roviana	3	Immed preverbal	-8.25	157.333333333	Oceanic	Austronesian	Word Order
+ruk	Rukai (Tanan)	3	Immed preverbal	22.8333333333	120.833333333	Rukai	Austronesian	Word Order
+cos	Rumsien	3	Immed preverbal	37.0	-122.0	Costanoan	Penutian	Word Order
+rus	Russian	3	Immed preverbal	56.0	38.0	Slavic	Indo-European	Word Order
+shp	Sahaptin (Northern)	3	Immed preverbal	46.5	-120.0	Sahaptian	Penutian	Word Order
+slb	Saliba (in Papua New Guinea)	2	Preverbal, not beginning or immed	-10.5833333333	150.716666667	Oceanic	Austronesian	Word Order
+sam	Samoan	3	Immed preverbal	-13.9166666667	-171.833333333	Oceanic	Austronesian	Word Order
+san	Sango	6	End, not immed postverbal	5.0	18.0	Ubangi	Niger-Congo	Word Order
+stl	Santali	3	Immed preverbal	24.5	87.0	Munda	Austro-Asiatic	Word Order
+snm	Sanuma	4	Immed postverbal	4.5	-64.6666666667	Yanomam	Yanomam	Word Order
+sap	Sapuan	3	Immed preverbal	15.1666666667	106.833333333	Bahnaric	Austro-Asiatic	Word Order
+srd	Sardinian	3	Immed preverbal	40.0	9.0	Romance	Indo-European	Word Order
+sed	Sedang	3	Immed preverbal	14.8333333333	108.0	Bahnaric	Austro-Asiatic	Word Order
+see	Seediq	3	Immed preverbal	24.1666666667	121.416666667	Atayalic	Austronesian	Word Order
+sel	Selknam	4	Immed postverbal	-53.0	-70.0	Chon Proper	Chon	Word Order
+sme	Seme	4	Immed postverbal	11.0	-4.91666666667	Kru	Niger-Congo	Word Order
+sml	Semelai	3	Immed preverbal	3.0	103.0	Aslian	Austro-Asiatic	Word Order
+sgl	Sengele	6	End, not immed postverbal	-1.83333333333	17.3333333333	Bantoid	Niger-Congo	Word Order
+shb	Shabo	4	Immed postverbal	7.58333333333	35.4166666667	Shabo	Shabo	Word Order
+sht	Shatt	6	End, not immed postverbal	10.8333333333	30.0	Daju	Eastern Sudanic	Word Order
+shl	Shilluk	3	Immed preverbal	9.66666666667	31.75	Nilotic	Eastern Sudanic	Word Order
+sna	Shina	3	Immed preverbal	36.0	74.0	Indic	Indo-European	Word Order
+shi	Shiriana	4	Immed postverbal	3.5	-62.8333333333	Yanomam	Yanomam	Word Order
+shu	Shuswap	3	Immed preverbal	52.0	-120.0	Interior Salish	Salishan	Word Order
+sir	Siar	3	Immed preverbal	-4.66666666667	152.916666667	Oceanic	Austronesian	Word Order
+sid	Sidaama	3	Immed preverbal	6.66666666667	38.5	Highland East Cushitic	Afro-Asiatic	Word Order
+skk	Sikkimese	4	Immed postverbal	27.8333333333	88.5	Bodic	Sino-Tibetan	Word Order
+sil	Sila	3	Immed preverbal	12.3333333333	21.75	Daju	Eastern Sudanic	Word Order
+sng	Sinaugoro	3	Immed preverbal	-9.83333333333	147.833333333	Oceanic	Austronesian	Word Order
+sio	Sio	6	End, not immed postverbal	-5.95	147.333333333	Oceanic	Austronesian	Word Order
+qum	Sipakapense	3	Immed preverbal	15.25	-91.75	Mayan	Mayan	Word Order
+sro	Siroi	4	Immed postverbal	-5.5	146.0	Madang	Trans-New Guinea	Word Order
+ssa	Sisaala	3	Immed preverbal	10.8333333333	-2.66666666667	Gur	Niger-Congo	Word Order
+sis	Sisiqa	3	Immed preverbal	-7.0	156.833333333	Oceanic	Austronesian	Word Order
+sla	Slave	4	Immed postverbal	67.0	-125.0	Athapaskan	Na-Dene	Word Order
+slo	Slovene	3	Immed preverbal	46.0	15.0	Slavic	Indo-European	Word Order
+so	So	3	Immed preverbal	2.58333333333	34.75	Kuliak	Eastern Sudanic	Word Order
+sob	Sobei	3	Immed preverbal	-1.91666666667	138.75	Oceanic	Austronesian	Word Order
+som	Somali	3	Immed preverbal	3.0	45.0	Lowland East Cushitic	Afro-Asiatic	Word Order
+snn	Soninke	2	Preverbal, not beginning or immed	15.0	-10.5	Western Mande	Mande	Word Order
+stn	Sotho (Northern)	3	Immed preverbal	-24.0	29.0	Bantoid	Niger-Congo	Word Order
+sgb	Sougb	6	End, not immed postverbal	-1.5	134.0	East Bird's Head	East Bird's Head	Word Order
+spa	Spanish	3	Immed preverbal	40.0	-4.0	Romance	Indo-European	Word Order
+squ	Squamish	3	Immed preverbal	49.6666666667	-123.166666667	Central Salish	Salishan	Word Order
+sre	Sre	3	Immed preverbal	11.5	108.0	Bahnaric	Austro-Asiatic	Word Order
+sti	Stieng	3	Immed preverbal	11.8333333333	106.75	Bahnaric	Austro-Asiatic	Word Order
+sun	Sundanese	3	Immed preverbal	-7.0	107.0	Malayo-Sumbawan	Austronesian	Word Order
+sup	Supyire	4	Immed postverbal	11.5	-5.58333333333	Gur	Niger-Congo	Word Order
+tab	Taba	6	End, not immed postverbal	0.0	127.5	South Halmahera - West New Guinea	Austronesian	Word Order
+tbl	Tabla	4	Immed postverbal	-2.45	140.416666667	Sentani	Sentani	Word Order
+tag	Tagalog	3	Immed preverbal	15.0	121.0	Greater Central Philippine	Austronesian	Word Order
+tah	Tahitian	3	Immed preverbal	-17.6666666667	-149.583333333	Oceanic	Austronesian	Word Order
+taf	Taiof	3	Immed preverbal	-5.53333333333	154.633333333	Oceanic	Austronesian	Word Order
+trr	Tairora	1	Beginning, not immed preverbal	-6.5	146.0	Eastern Highlands	Trans-New Guinea	Word Order
+tak	Takia	3	Immed preverbal	-4.66666666667	146.0	Oceanic	Austronesian	Word Order
+tmm	Tamabo	3	Immed preverbal	-15.6666666667	167.166666667	Oceanic	Austronesian	Word Order
+tam	Tamang (Eastern)	3	Immed preverbal	27.5	85.6666666667	Bodic	Sino-Tibetan	Word Order
+tsk	Tamashek	3	Immed preverbal	20.0	-2.0	Berber	Afro-Asiatic	Word Order
+tsg	Tausug	3	Immed preverbal	6.0	121.0	Greater Central Philippine	Austronesian	Word Order
+tau	Tauya	3	Immed preverbal	-5.75	145.333333333	Madang	Trans-New Guinea	Word Order
+tbo	Tboli	3	Immed preverbal	6.16666666667	124.5	Bilic	Austronesian	Word Order
+tmn	Temein	1	Beginning, not immed preverbal	11.9166666667	29.4166666667	Temein	Eastern Sudanic	Word Order
+tmr	Temiar	3	Immed preverbal	5.0	101.5	Aslian	Austro-Asiatic	Word Order
+ten	Tennet	1	Beginning, not immed preverbal	4.41666666667	32.5	Surmic	Eastern Sudanic	Word Order
+tee	Tepehua (Huehuetla)	3	Immed preverbal	20.5	-98.0	Totonacan	Totonacan	Word Order
+tpn	Tepehuan (Northern)	3	Immed preverbal	26.3333333333	-107.0	Tepiman	Uto-Aztecan	Word Order
+ter	Tera	6	End, not immed postverbal	11.0	11.8333333333	Biu-Mandara	Afro-Asiatic	Word Order
+trb	Teribe	4	Immed postverbal	9.33333333333	-82.6666666667	Talamanca	Chibchan	Word Order
+tes	Teso	1	Beginning, not immed preverbal	1.83333333333	33.8333333333	Nilotic	Eastern Sudanic	Word Order
+ttn	Tetun	3	Immed preverbal	-9.0	126.0	Central Malayo-Polynesian	Austronesian	Word Order
+tha	Thai	3	Immed preverbal	16.0	101.0	Kam-Tai	Tai-Kadai	Word Order
+tho	Thompson	3	Immed preverbal	49.75	-121.75	Interior Salish	Salishan	Word Order
+thu	Thulung	3	Immed preverbal	27.4166666667	86.5	Mahakiranti	Sino-Tibetan	Word Order
+tid	Tidore	6	End, not immed postverbal	0.75	127.5	North Halmaheran	West Papuan	Word Order
+tgk	Tigak	3	Immed preverbal	-2.71666666667	150.8	Oceanic	Austronesian	Word Order
+tja	Tiipay (Jamul)	4	Immed postverbal	32.1666666667	-116.5	Yuman	Hokan	Word Order
+tim	Timugon	3	Immed preverbal	5.0	116.0	North Borneo	Austronesian	Word Order
+tin	Tinrin	3	Immed preverbal	-21.6666666667	165.75	Oceanic	Austronesian	Word Order
+trm	Tirmaga	3	Immed preverbal	5.75	35.25	Surmic	Eastern Sudanic	Word Order
+tiv	Tiv	6	End, not immed postverbal	7.5	9.0	Bantoid	Niger-Congo	Word Order
+tiw	Tiwi	3	Immed preverbal	-11.5	131.0	Tiwian	Tiwian	Word Order
+tli	Tlingit	3	Immed preverbal	59.0	-135.0	Tlingit	Na-Dene	Word Order
+tbt	Tobati	3	Immed preverbal	-2.58333333333	140.666666667	Oceanic	Austronesian	Word Order
+tke	Tokelauan	3	Immed preverbal	-9.0	-172.0	Oceanic	Austronesian	Word Order
+tng	Tongan	3	Immed preverbal	-21.1666666667	-175.166666667	Oceanic	Austronesian	Word Order
+tri	Trique (Copala)	3	Immed preverbal	17.1666666667	-97.9166666667	Mixtecan	Oto-Manguean	Word Order
+tru	Trumai	4	Immed postverbal	-11.9166666667	-53.5833333333	Trumai	Trumai	Word Order
+tsz	Tsez	4	Immed postverbal	42.25	45.75	Avar-Andic-Tsezic	Nakh-Daghestanian	Word Order
+ttu	Tsova-Tush	3	Immed preverbal	42.5	45.5	Nakh	Nakh-Daghestanian	Word Order
+tuk	Tukang Besi	3	Immed preverbal	-5.5	123.5	Celebic	Austronesian	Word Order
+tnn	Tunen	2	Preverbal, not beginning or immed	4.75	10.6666666667	Bantoid	Niger-Congo	Word Order
+tpr	Tupuri	6	End, not immed postverbal	10.1666666667	14.75	Adamawa	Niger-Congo	Word Order
+tus	Tuscarora	3	Immed preverbal	36.0	-77.5	Northern Iroquoian	Iroquoian	Word Order
+tvl	Tuvaluan	3	Immed preverbal	-8.5	179.166666667	Oceanic	Austronesian	Word Order
+tzo	Tzotzil	3	Immed preverbal	16.5	-92.6666666667	Mayan	Mayan	Word Order
+tzu	Tzutujil	3	Immed preverbal	14.6666666667	-91.3333333333	Mayan	Mayan	Word Order
+tsh	Tümpisa Shoshone	2	Preverbal, not beginning or immed	37.0	-117.0	Numic	Uto-Aztecan	Word Order
+udh	Udihe	3	Immed preverbal	47.6666666667	136.25	Tungusic	Altaic	Word Order
+udm	Udmurt	4	Immed postverbal	57.5	52.5	Permic	Uralic	Word Order
+ukr	Ukrainian	3	Immed preverbal	49.0	33.0	Slavic	Indo-European	Word Order
+uld	Uldeme	6	End, not immed postverbal	10.95	14.1166666667	Biu-Mandara	Afro-Asiatic	Word Order
+uli	Ulithian	3	Immed preverbal	9.91666666667	139.583333333	Oceanic	Austronesian	Word Order
+una	Una	3	Immed preverbal	-4.66666666667	140.0	Mek	Trans-New Guinea	Word Order
+ung	Ungarinjin	3	Immed preverbal	-16.3333333333	126.0	Worrorran	Worrorran	Word Order
+url	Urak Lawoi'	3	Immed preverbal	8.0	98.3333333333	Malayo-Sumbawan	Austronesian	Word Order
+urt	Urat	3	Immed preverbal	-3.66666666667	142.833333333	Wapei-Palei	Torricelli	Word Order
+urd	Urdu	3	Immed preverbal	25.0	67.0	Indic	Indo-European	Word Order
+urk	Urubú-Kaapor	4	Immed postverbal	-2.33333333333	-46.5	Tupi-Guaraní	Tupian	Word Order
+usa	Usan	3	Immed preverbal	-4.83333333333	145.166666667	Madang	Trans-New Guinea	Word Order
+vai	Vai	2	Preverbal, not beginning or immed	6.91666666667	-11.25	Western Mande	Mande	Word Order
+vie	Vietnamese	3	Immed preverbal	10.5	106.5	Viet-Muong	Austro-Asiatic	Word Order
+wag	Wagiman	3	Immed preverbal	-14.0	131.25	Wagiman	Wagiman	Word Order
+wak	Wakhi	3	Immed preverbal	36.5	72.0	Iranian	Indo-European	Word Order
+wal	Walman	3	Immed preverbal	-3.21666666667	142.5	Wapei-Palei	Torricelli	Word Order
+wam	Wambaya	1	Beginning, not immed preverbal	-18.6666666667	135.75	Wambayan	Mirndi	Word Order
+wna	Wan	4	Immed postverbal	7.83333333333	-5.86666666667	Eastern Mande	Mande	Word Order
+wrd	Wardaman	3	Immed preverbal	-15.5	131.0	Yangmanic	Yangmanic	Word Order
+wrk	Warekena	3	Immed preverbal	1.5	-67.5	Inland Northern Arawakan	Arawakan	Word Order
+wrm	Warembori	6	End, not immed postverbal	-1.66666666667	137.583333333	South Halmahera - West New Guinea	Austronesian	Word Order
+war	Wari'	3	Immed preverbal	-11.3333333333	-65.0	Chapacura-Wanham	Chapacura-Wanham	Word Order
+wlw	Warluwara	1	Beginning, not immed preverbal	-22.0	138.5	Western Pama-Nyungan	Pama-Nyungan	Word Order
+wrb	Warrnambool	3	Immed preverbal	-38.25	142.5	Southeastern Pama-Nyungan	Pama-Nyungan	Word Order
+wsk	Waskia	3	Immed preverbal	-4.5	146.0	Madang	Trans-New Guinea	Word Order
+wel	Welsh	3	Immed preverbal	52.0	-3.0	Celtic	Indo-European	Word Order
+wec	Welsh (Colloquial)	5	Postverbal, not immed or end	52.75	-3.5833	Celtic	Indo-European	Word Order
+wem	Wembawemba	3	Immed preverbal	-35.3333333333	144.0	Southeastern Pama-Nyungan	Pama-Nyungan	Word Order
+wma	West Makian	6	End, not immed postverbal	0.5	127.583333333	North Halmaheran	West Papuan	Word Order
+wic	Wichita	1	Beginning, not immed preverbal	33.3333333333	-97.3333333333	Caddoan	Caddoan	Word Order
+wch	Wichí	3	Immed preverbal	-22.5	-62.5833333333	Matacoan	Matacoan	Word Order
+wol	Woleaian	3	Immed preverbal	7.33333333333	143.833333333	Oceanic	Austronesian	Word Order
+wlf	Wolof	3	Immed preverbal	15.25	-16.0	Northern Atlantic	Niger-Congo	Word Order
+wom	Womo	4	Immed postverbal	-2.91666666667	141.833333333	Serra Hills	Skou	Word Order
+wya	Wyandot	3	Immed preverbal	44.3333333333	-77.5	Northern Iroquoian	Iroquoian	Word Order
+xar	Xârâcùù	3	Immed preverbal	-21.6666666667	166.0	Oceanic	Austronesian	Word Order
+yag	Yagua	3	Immed preverbal	-3.5	-72.0	Peba-Yaguan	Peba-Yaguan	Word Order
+yap	Yapese	3	Immed preverbal	9.58333333333	138.166666667	Yapese	Austronesian	Word Order
+yaq	Yaqui	2	Preverbal, not beginning or immed	27.5	-110.25	Cahita	Uto-Aztecan	Word Order
+yid	Yidiny	3	Immed preverbal	-17.0	145.75	Northern Pama-Nyungan	Pama-Nyungan	Word Order
+yin	Yindjibarndi	3	Immed preverbal	-21.75	117.916666667	Western Pama-Nyungan	Pama-Nyungan	Word Order
+yng	Yingkarta	3	Immed preverbal	-25.1666666667	114.833333333	Western Pama-Nyungan	Pama-Nyungan	Word Order
+yok	Yokuts (Yaudanchi)	3	Immed preverbal	36.0833333333	-119.083333333	Yokuts	Penutian	Word Order
+yor	Yoruba	3	Immed preverbal	8.0	4.33333333333	Defoid	Niger-Congo	Word Order
+yuk	Yukulta	1	Beginning, not immed preverbal	-17.3333333333	138.833333333	Tangkic	Tangkic	Word Order
+yul	Yulu	4	Immed postverbal	8.5	25.25	Bongo-Bagirmi	Central Sudanic	Word Order
+yur	Yurok	3	Immed preverbal	41.3333333333	-124.0	Yurok	Algic	Word Order
+yuw	Yuwaalaraay	1	Beginning, not immed preverbal	-29.5	148.0	Southeastern Pama-Nyungan	Pama-Nyungan	Word Order
+zpr	Zaparo	1	Beginning, not immed preverbal	-2.0	-76.3333333333	Zaparoan	Zaparoan	Word Order
+zai	Zapotec (Isthmus)	3	Immed preverbal	16.416667	-95.0	Zapotecan	Oto-Manguean	Word Order
+zzo	Zapotec (Zoogocho)	3	Immed preverbal	17.25	-96.25	Zapotecan	Oto-Manguean	Word Order
+zqc	Zoque (Copainalá)	3	Immed preverbal	17.0	-93.25	Mixe-Zoque	Mixe-Zoque	Word Order
+zqo	Zoque (Ostuacan)	3	Immed preverbal	17.4166666667	-93.3	Mixe-Zoque	Mixe-Zoque	Word Order
+zqs	Zoque (Soteapan)	3	Immed preverbal	18.3333333333	-95.1666666667	Mixe-Zoque	Mixe-Zoque	Word Order
+zun	Zuni	1	Beginning, not immed preverbal	35.0833333333	-108.833333333	Zuni	Zuni	Word Order
