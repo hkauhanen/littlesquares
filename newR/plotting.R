@@ -178,7 +178,7 @@ plot_all_for_paper <- function(folder,
 
   if ("A3" %in% which) {
   pdf("app_sigmabias.pdf", height=4.0, width=8.0)
-  appendix.sigmabias(results.sigmabias_genera, results.sigmabias_families)
+  appendix.sigmabias.OLD(df.genus=results.sigmabias_genera, df.family=results.sigmabias_families)
   dev.off()
   embed_fonts("app_sigmabias.pdf")
   system(paste("cp app_sigmabias.pdf", paste(folder, "AppFig3.pdf", sep="/")))
@@ -1200,7 +1200,7 @@ ggplot.dediu <- function(df,
 
 
 
-appendix.sigmabias <- function(df.genus,
+appendix.sigmabias.OLD <- function(df.genus,
                                df.family) {
   df <- rbind(df.genus, df.family)
   df$Units <- df$units
@@ -1227,5 +1227,14 @@ appendix.NN <- function(distdf) {
   g <- ggplot(distdf, aes(x=distance)) + geom_density() + facet_wrap(.~rank, ncol=5)
   g <- g + theme_bw() + theme(axis.text=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank(), legend.position="none", strip.text.x = element_text(size = 12))
   g <- g + xlab("Distance (km) to kth nearest neighbour") + ylab("Density")
+  print(g)
+}
+
+
+appendix.sigmabias <- function(df) {
+  #df <- aggregate(df[, 2], list(feature_ID=df$feature_ID, n=df$n), median, na.rm=TRUE)
+  g <- ggplot(df, aes(x=n, group=n, y=temperature)) + geom_boxplot(outlier.shape=NA) + scale_y_log10()
+  g <- g + theme_bw() + theme(axis.text=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank(), legend.position="none", strip.text.x = element_text(size = 12))
+  g <- g + xlab(expression(italic(K)~"(# families with feature on)")) + ylab(expression("Temperature"~tau))
   print(g)
 }
