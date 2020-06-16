@@ -2,7 +2,7 @@
 
 Simulation code and data analysis routines for the following paper:
 
-    Kauhanen, H., Gopal, D., Galla, T. & Bermúdez-Otero, R. (2018) "Geospatial distributions reflect rates of evolution of features of language" https://arxiv.org/abs/1801.09637
+> Kauhanen, H., Gopal, D., Galla, T. & Bermúdez-Otero, R. (2018) "Geospatial distributions reflect rates of evolution of features of language" https://arxiv.org/abs/1801.09637
 
 
 ## Contents
