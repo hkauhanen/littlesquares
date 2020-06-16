@@ -12,7 +12,7 @@
 int main(int argc, char *argv[]) {
   // Program name and version number
   std::string program = "littlesquares";
-  std::string version = "0.1";
+  std::string version = "0.2";
 
   // Use a clock to measure execution time
   clock_t execstart, execfinish;

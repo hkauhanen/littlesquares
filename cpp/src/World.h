@@ -22,7 +22,10 @@ class World {
     std::ofstream outfile;
     std::vector <double> ingress_rates;
     std::vector <double> egress_rates;
+    std::vector <double> lambda_in;
+    std::vector <double> lambda_eg;
     std::vector <double> theoretical_taus;
+    std::vector <double> theoretical_taus_lambda;
     std::vector <Language> languages;
     SomeMath math;
 

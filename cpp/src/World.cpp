@@ -21,12 +21,8 @@ void World::step(void) {
     target_language = randomLanguage();
   } while (target_language.isIsolate());
 
-  //std::cout << target_language.getIndex() << std::endl;
-
   // For branching and voting, we also need a donor language (a neighbour)
   Language donor_language = languages[target_language.getNeighbourIndices()[randomNeighbourGenerator->get(1, target_language.getNeighbourIndices().size()) - 1] - 1];
-
-  //std::cout << "donor: " << donor_language.getIndex() << std::endl;
 
   // Target a random feature (except in the case of branching; then we
   // copy all features)
@@ -38,6 +34,21 @@ void World::step(void) {
     target_language.setFeatureValues(donor_language.getFeatureValues());
   } else if (randomProbGenerator->get() < voter_rate) {
     // Voter
+    if (donor_language.spinIsDown(target_feature)) {
+      // Voter-ingress
+      if (randomProbGenerator->get() < lambda_in[target_feature - 1]) {
+        target_language.spinUp(target_feature);
+      } else {
+        target_language.spinDown(target_feature);
+      }
+    } else if (donor_language.spinIsUp(target_feature)) {
+      // Voter-egress
+      if (randomProbGenerator->get() < lambda_eg[target_feature - 1]) {
+        target_language.spinDown(target_feature);
+      } else {
+        target_language.spinUp(target_feature);
+      }
+    }
     target_language.setFeatureValue(target_feature, donor_language.getFeatureValue(target_feature));
   } else {
     if (target_language.spinIsDown(target_feature)) {
@@ -77,6 +88,10 @@ void World::writeOut(int iteration) {
     outfile << ",";
     outfile << egress_rates[f];
     outfile << ",";
+    outfile << lambda_in[f];
+    outfile << ",";
+    outfile << lambda_eg[f];
+    outfile << ",";
     double rho = getFeatureDensity(f+1);
     double sigma = getIsoglossDensity(f+1);
     outfile << rho;
@@ -86,6 +101,8 @@ void World::writeOut(int iteration) {
     outfile << invertHtau(sigma/(2*rho*(1-rho)));
     outfile << ",";
     outfile << theoretical_taus[f];
+    outfile << ",";
+    outfile << theoretical_taus_lambda[f];
     outfile << "\n";
   }
 }

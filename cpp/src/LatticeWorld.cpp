@@ -17,7 +17,7 @@ LatticeWorld::LatticeWorld(int n, DataFrame ing_eg, std::string taufile, int ite
 
   // Open outfile for writing and write CSV header
   outfile.open(file);
-  outfile << "iteration,feature,no_of_iterations,no_of_languages,no_of_features,branching_rate,voter_rate,ingress_rate,egress_rate,rho,sigma,tau,tau_actual\n";
+  outfile << "iteration,feature,no_of_iterations,no_of_languages,no_of_features,branching_rate,voter_rate,ingress_rate,egress_rate,horiz_ingress_rate,horiz_egress_rate,rho,sigma,tau,tau_predicted,tau_predicted_lambda\n";
 
   // Set rate parameters
   branching_rate = r;
@@ -34,12 +34,19 @@ LatticeWorld::LatticeWorld(int n, DataFrame ing_eg, std::string taufile, int ite
   // Set ingress and egress rates from the infile, now a DataFrame in ing_eg
   ingress_rates = ing_eg.getColumn(1);
   egress_rates = ing_eg.getColumn(2);
+  lambda_in = ing_eg.getColumn(3);
+  lambda_eg = ing_eg.getColumn(4);
 
   // Calculate theoretical temperatures at stationary distribution (from analytical
-  // solution) assuming a zero branching rate
+  // solution) assuming a zero branching rate and zero horizontal error or the
+  // lambda approximation
   theoretical_taus.reserve(no_of_features);
+  theoretical_taus_lambda.reserve(no_of_features);
+  double mean_lambda = 0;
   for (int i=0; i<no_of_features; i++) {
+    mean_lambda = (lambda_in[i] + lambda_eg[i])/2;
     theoretical_taus.push_back(((1 - voter_rate)*(ingress_rates[i] + egress_rates[i]))/voter_rate);
+    theoretical_taus_lambda.push_back(((1 - voter_rate)*(ingress_rates[i] + egress_rates[i]) + 2*voter_rate*mean_lambda)/(voter_rate*(1 - 2*mean_lambda)));
   }
 
   // Populate the world
