@@ -59,7 +59,7 @@ Output is in the form of a comma-separated values file with the following column
 * `sigma`: empirical isogloss density
 * `tau`: empirical temperature
 * `tau_predicted`: theoretical temperature predicted from model parameters, assuming zero branching and zero horizontal errors
-* `tau_predicted_lambda`: theoretical temperature predicted from model parameters, assuming zero branching and that, for each feature: the horizontal ingress and egress rates are identical and equal to the mean of the parameters supplied to the simulation
+* `tau_predicted_lambda`: theoretical temperature predicted from model parameters, assuming zero branching and non-zero horizontal branching ("extended model")
 
 
 ## Compiling

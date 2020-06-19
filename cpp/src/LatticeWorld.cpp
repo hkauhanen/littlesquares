@@ -42,11 +42,11 @@ LatticeWorld::LatticeWorld(int n, DataFrame ing_eg, std::string taufile, int ite
   // lambda approximation
   theoretical_taus.reserve(no_of_features);
   theoretical_taus_lambda.reserve(no_of_features);
-  double mean_lambda = 0;
+  double sum_lambda = 0;
   for (int i=0; i<no_of_features; i++) {
-    mean_lambda = (lambda_in[i] + lambda_eg[i])/2;
+    sum_lambda = lambda_in[i] + lambda_eg[i];
     theoretical_taus.push_back(((1 - voter_rate)*(ingress_rates[i] + egress_rates[i]))/voter_rate);
-    theoretical_taus_lambda.push_back(((1 - voter_rate)*(ingress_rates[i] + egress_rates[i]) + 2*voter_rate*mean_lambda)/(voter_rate*(1 - 2*mean_lambda)));
+    theoretical_taus_lambda.push_back(((1 - voter_rate)*(ingress_rates[i] + egress_rates[i]) + voter_rate*sum_lambda)/(voter_rate*(1 - sum_lambda)));
   }
 
   // Populate the world
