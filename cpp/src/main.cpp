@@ -147,7 +147,7 @@ int main(int argc, char *argv[]) {
   // Simulation
   for (int iteration=1; iteration<iterations+1; iteration++) {
     world.step();
-    if (iteration >= iterations - measurement_phase) {
+    if (iteration > iterations - measurement_phase) {
       world.writeOut(iteration);
     }
   }

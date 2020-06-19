@@ -49,7 +49,6 @@ void World::step(void) {
         target_language.spinUp(target_feature);
       }
     }
-    target_language.setFeatureValue(target_feature, donor_language.getFeatureValue(target_feature));
   } else {
     if (target_language.spinIsDown(target_feature)) {
       if (randomProbGenerator->get() < ingress_rates[target_feature - 1]) {

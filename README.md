@@ -9,6 +9,8 @@ Simulation code and data analysis routines for the following paper:
 
 * `cpp`: Code (C++) for simulating the model either on a lattice or an arbitrary graph.
 * `pkg`: R packages the data analysis code depends on
+* `plots`: Plots
 * `R`: Code (R) for data analysis
 * `Rsession`: R session for data analysis
+* `simulations`: Simulations, along with input parameter files and output
 * `OLD`: Old stuff. Will be deleted (or archived) eventually, once all the important bits have been incorporated into the new directory structure.
