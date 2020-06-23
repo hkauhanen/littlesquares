@@ -1,0 +1,16 @@
+contingency_table	contingency_table
+country_codes	country_codes
+feature_metadata	feature_metadata
+filter_WALS	filter_WALS
+get_feature	get_feature
+great_circle_distance	great_circle_distance
+intersect_features	intersect_features
+language_metadata	language_metadata
+nearest_geo_neighbours	nearest_geo_neighbours
+nearest_geo_neighbours_discoidal	nearest_geo_neighbours_discoidal
+sample_random	sample_random
+sample_WALS_100	sample_WALS_100
+sample_WALS_200	sample_WALS_200
+WALS	WALS
+WALS_features	WALS_features
+WALS_languages	WALS_languages

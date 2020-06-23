@@ -1,0 +1,13 @@
+bootstrap               Bootstrap a Data Frame
+cat_csv                 Concatenate CSVs
+cat_csv.gz              Concatenate CSVs inside a .tar.gz
+closest_in_vector       Get the Element(s) of a Vector Closest to a
+                        Reference Value
+df2tex                  Data Frame to TeX Tabular
+factor2character        Factor to Character
+knockout_lm             Knock Out Outliers in a Linear Regression
+logistic                Logistic Function
+logseq                  Logarithmic Sequences
+prettyround             Pretty Print Rounded Figures
+refresh                 Package Refresh
+seed_seed               Seed Seed
