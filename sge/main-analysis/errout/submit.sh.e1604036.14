@@ -1,0 +1,9 @@
+Warning messages:
+1: In invert_H(Htau) : Htau greater than 1 (theoretically impossible)
+2: In invert_H(Htau) : Htau at a hash boundary
+3: In invert_H(Htau) : Htau greater than 1 (theoretically impossible)
+4: In invert_H(Htau) : Htau at a hash boundary
+5: In invert_H(Htau) : Htau greater than 1 (theoretically impossible)
+6: In invert_H(Htau) : Htau at a hash boundary
+7: In invert_H(Htau) : Htau greater than 1 (theoretically impossible)
+8: In invert_H(Htau) : Htau at a hash boundary

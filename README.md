@@ -11,6 +11,7 @@ Data analysis routines are written in R (see folder `R`); to facilitate bootstra
 
 * `conf`: Configuration files
 * `cpp`: Code (C++) for simulating the model either on a lattice or an arbitrary graph.
+* `data`: Results of data analyses
 * `pkg`: R packages the data analysis code depends on
 * `plots`: Plots
 * `R`: Code (R) for data analysis
