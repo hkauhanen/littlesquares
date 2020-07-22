@@ -82,6 +82,16 @@ do_one_feature(feature="9A", bootstrap=FALSE)
 
 ### 3. To calculate all temperatures ("main analysis")
 
+To generate bootstrap confidence intervals, the analysis in the paper repeats the temperature estimation procedure 1,000 times for each feature. This takes about 15 minutes on an ordinary computer per feature. So it makes sense to parallelize the operation. The `sge` directory contains the necessary infrastructure to carry this out on an SGE (Son of Grid Engine) based system: see the instructions there.
+
+
+### 4. Numerical simulations of model
+
+FIXME
+
+
+### 5. Plotting routines
+
 
 ## How to cite
 
