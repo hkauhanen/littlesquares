@@ -23,6 +23,8 @@ Data analysis routines are written in R (see folder `R`); to facilitate bootstra
 
 ## How to reproduce the analyses
 
+### 1. Dependencies
+
 The scripts depend on the availability of two R packages, [hipster](https://github.com/hkauhanen/hipster) and [ritwals](https://hkauhanen.github.io/ritwals). They are included in the `pkg` folder and need to be installed and loaded first. Supposing `Rsession` to be the working directory, execute:
 
 ``` r
@@ -31,6 +33,54 @@ install.packages("../pkg/ritwals_0.0.0.9101.tar.gz", repos=NULL)
 library(hipster)
 library(ritwals)
 ```
+
+The scripts also require a hash table for the inversion of the H(tau) function introduced in the paper. This can be generated and loaded into memory as follows:
+
+``` r
+source("../R/preprocess-tauhash.R")
+load("../conf/tau_hash.RData")
+```
+
+Furthermore, the scripts require information about the nearest neighbours of each language in WALS. This information is supplied in the file `conf/wals_neighbours.RData` (also available in CSV format as the file `conf/wals-distances-100closest.csv`), whose generation is detailed [elsewhere](https://github.com/hkauhanen/wals-distances). Load this:
+
+``` r
+load("../conf/wals_neighbours.RData")
+```
+
+Moreover, we need some metadata about the features themselves:
+
+``` r
+load("../conf/featurelist.RData")
+```
+
+Finally, we need to source the scripts themselves:
+
+``` r
+source("../R/do_one_feature.R")
+source("../R/temperature.R")
+```
+
+
+### 2. To calculate the temperature of one feature
+
+To estimate the temperature of one WALS feature, use the function `do_one_feature`. It takes the following arguments (with defaults as indicated):
+
+* `feature`: Feature's WALS ID
+* `resample_size = 0`: If positive, take a resample of the feature's language sample of this size. If 0 or negative, all languages in the sample are taken into consideration
+* `bootstrap = TRUE`: Whether to take a bootstrap (sample with replacement) of the feature's language sample
+* `neighbourhood_size = 10`: How many nearest geographical neighbour languages to consider in the calculation of isogloss density
+* `reps = 1`: How many Monte Carlo repetitions to take
+* `data = ritwals::WALS[ritwals::WALS$genus != "Sign Languages", ]`: Dataset to use; by default, all non-sign languages in WALS are considered
+* `verbose = TRUE`: Whether to print progress information
+
+For example, the following function call will estimate the temperature of WALS feature 9A, taking just one repetition and without bootstrapping:
+
+``` r
+do_one_feature(feature="9A", bootstrap=FALSE)
+```
+
+
+### 3. To calculate all temperatures ("main analysis")
 
 
 ## How to cite
