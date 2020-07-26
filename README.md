@@ -35,7 +35,7 @@ library(hipster)
 library(ritwals)
 ```
 
-A third package, pracma, is needed for the computation of the arithmetic-geometric mean, which is used to approximate the complete elliptic integral of the first kind, which appears in the expression for H(tau). It can be installed directly from CRAN:
+A third package, [pracma](https://cran.r-project.org/package=pracma), is needed for the computation of the arithmetic–geometric mean, which is used to approximate the complete elliptic integral of the first kind, which appears in the expression for H(tau). It can be installed directly from CRAN:
 
 ``` r
 install.packages("pracma")
@@ -81,7 +81,7 @@ To estimate the temperature of one WALS feature, use the function `do_one_featur
 * `data = ritwals::WALS[ritwals::WALS$genus != "Sign Languages", ]`: Dataset to use; by default, all non-sign languages in WALS are considered
 * `verbose = TRUE`: Whether to print progress information
 
-For example, the following function call will estimate the temperature of WALS feature 9A, taking just one repetition and without bootstrapping:
+For example, the following function call will estimate the temperature of [WALS feature 9A](https://wals.info/feature/9A), taking just one repetition and without bootstrapping:
 
 ``` r
 do_one_feature(feature="9A", bootstrap=FALSE)
@@ -96,12 +96,15 @@ To generate bootstrap confidence intervals, the analysis in the paper repeats th
 ### 4. Variation in neighbourhood size
 
 
-### 5. Numerical simulations of model
+### 5. OW–NW comparison
+
+
+### 6. Numerical simulations of model
 
 FIXME
 
 
-### 6. Figures and tables
+### 7. Figures and tables
 
 
 ## How to cite
