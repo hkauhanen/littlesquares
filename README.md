@@ -1,4 +1,4 @@
-# littlesquares
+# Temperatures of linguistic features
 
 This repository contains simulation code and data analysis routines for the estimation of linguistic temperatures from the WALS atlas, as explained in the following paper:
 
