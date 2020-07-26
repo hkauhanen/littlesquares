@@ -90,21 +90,38 @@ do_one_feature(feature="9A", bootstrap=FALSE)
 
 ### 3. To calculate all temperatures ("main analysis")
 
-To generate bootstrap confidence intervals, the analysis in the paper repeats the temperature estimation procedure 1,000 times for each feature. This takes about 15 minutes on an ordinary computer per feature. So it makes sense to parallelize the operation. The `sge` directory contains the necessary infrastructure to carry this out on an SGE (Son of Grid Engine) based system, so that each feature is given its own processor: see the instructions there.
+To generate bootstrap confidence intervals, the analysis in the paper repeats the temperature estimation procedure 1,000 times for each feature. This takes about 15 minutes on an ordinary computer per feature. So it makes sense to parallelize the operation. The `sge/main-analysis` directory contains the necessary infrastructure to carry this out on an SGE (Son of Grid Engine) based system, so that each feature is given its own processor: see the instructions there.
 
 
 ### 4. Variation in neighbourhood size
 
+The main analysis considers the 10 nearest neighbours of each language for the calculation of isogloss densities. In the SI to the paper, the number of nearest neighbours was systematically varied to examine if the choice of this number had an effect on the resulting temperature estimates. To implement this, it is easiest to use an `rbind`–`lapply` wrapper on `do_one_feature`, e.g.:
+
+``` r
+my_neighbourhood_sizes <- c(10, 20, 50)
+my_wrapper <- function(ns) {
+  do_one_feature("9A", neighbourhood_size=ns)
+}
+do.call(rbind, lapply(X=my_neighbourhood_sizes, FUN=my_wrapper))
+```
+
+The scripts in the directory `sge/neighbourhoods` can be used to deploy this analysis on an SGE cluster, one feature per node, 100 Monte Carlo repetitions per feature.
+
 
 ### 5. OW–NW comparison
 
+The Old World – New World comparison reported in the SI can be effected by subsetting the WALS dataset suitably in the call to `do_one_feature`. The scripts in `sge/OWNW` deploy this on SGE.
 
-### 6. Numerical simulations of model
+
+### 6. Autocorrelation analysis
+
+
+### 7. Numerical simulations of model
 
 FIXME
 
 
-### 7. Figures and tables
+### 8. Figures and tables
 
 
 ## How to cite
