@@ -110,7 +110,7 @@ The scripts in the directory `sge/neighbourhoods` can be used to deploy this ana
 
 ### 5. OW–NW comparison
 
-The Old World – New World comparison reported in the SI can be effected by subsetting the WALS dataset suitably in the call to `do_one_feature`. The scripts in `sge/OWNW` deploy this on SGE.
+The Old World – New World comparison reported in the SI can be effected by subsetting the WALS dataset suitably in the call to `do_one_feature`. The scripts in <sge/OWNW> deploy this on SGE.
 
 
 ### 6. Autocorrelation analysis
