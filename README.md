@@ -2,7 +2,7 @@
 
 This repository contains simulation code and data analysis routines for the estimation of linguistic temperatures from the WALS atlas, as explained in the following paper:
 
-> Kauhanen, Henri, Deepthi Gopal, Tobias Galla & Ricardo Bermúdez-Otero (2018) "Geospatial distributions reflect rates of evolution of features of language" <https://arxiv.org/abs/1801.09637>
+> Kauhanen, Henri, Deepthi Gopal, Tobias Galla & Ricardo Bermúdez-Otero (2018) "Geospatial distributions reflect rates of evolution of features of language". <https://arxiv.org/abs/1801.09637>
 
 Data analysis routines are written in R (see folder `R`); to facilitate bootstraps, the folder `sge` contains scripts that deploy the data analysis to run on a parallel computing cluster, one WALS feature per node. The model put forward in the above publication can be simulated using the programs in the `cpp` folder.
 
@@ -10,8 +10,9 @@ Data analysis routines are written in R (see folder `R`); to facilitate bootstra
 ## Contents at a glance
 
 * `conf`: Configuration files
-* `cpp`: Code (C++) for simulating the model either on a lattice or an arbitrary graph.
+* `cpp`: Code (C++) for simulating the model either on a lattice or an arbitrary graph
 * `data`: Results of data analyses
+* `fortran`: Old code for simulations; only used for one visualization now
 * `pkg`: R packages the data analysis code depends on
 * `plots`: Plots
 * `R`: Code (R) for data analysis
@@ -34,7 +35,14 @@ library(hipster)
 library(ritwals)
 ```
 
-The scripts also require a hash table for the inversion of the H(tau) function introduced in the paper. This can be generated and loaded into memory as follows:
+A third package, pracma, is needed for the computation of the arithmetic-geometric mean, which is used to approximate the complete elliptic integral of the first kind, which appears in the expression for H(tau). It can be installed directly from CRAN:
+
+``` r
+install.packages("pracma")
+library(pracma)
+```
+
+The scripts require a hash table for the inversion of the H(tau) function introduced in the paper. This can be generated and loaded into memory as follows:
 
 ``` r
 source("../R/preprocess-tauhash.R")
@@ -82,17 +90,22 @@ do_one_feature(feature="9A", bootstrap=FALSE)
 
 ### 3. To calculate all temperatures ("main analysis")
 
-To generate bootstrap confidence intervals, the analysis in the paper repeats the temperature estimation procedure 1,000 times for each feature. This takes about 15 minutes on an ordinary computer per feature. So it makes sense to parallelize the operation. The `sge` directory contains the necessary infrastructure to carry this out on an SGE (Son of Grid Engine) based system: see the instructions there.
+To generate bootstrap confidence intervals, the analysis in the paper repeats the temperature estimation procedure 1,000 times for each feature. This takes about 15 minutes on an ordinary computer per feature. So it makes sense to parallelize the operation. The `sge` directory contains the necessary infrastructure to carry this out on an SGE (Son of Grid Engine) based system, so that each feature is given its own processor: see the instructions there.
 
 
-### 4. Numerical simulations of model
+### 4. Variation in neighbourhood size
+
+
+### 5. Numerical simulations of model
 
 FIXME
 
 
-### 5. Plotting routines
+### 6. Figures and tables
 
 
 ## How to cite
 
-All code in this repository is provided as free software under the [GNU GPL-3.0 license](LICENSE). If you use/adapt it, please provide a link to the repository and cite the above-mentioned publication.
+All code in this repository is provided as free software under the [GNU GPL-3.0 license](LICENSE). If you use/adapt it, please provide a link to the repository and cite the paper:
+
+> Kauhanen, Henri, Deepthi Gopal, Tobias Galla & Ricardo Bermúdez-Otero (2018) "Geospatial distributions reflect rates of evolution of features of language". <https://arxiv.org/abs/1801.09637>
