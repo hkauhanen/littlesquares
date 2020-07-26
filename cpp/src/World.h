@@ -18,12 +18,12 @@ class World {
     int no_of_iterations;
     int no_of_features;
     double branching_rate;
-    double voter_rate;
     std::ofstream outfile;
     std::vector <double> ingress_rates;
     std::vector <double> egress_rates;
     std::vector <double> lambda_in;
     std::vector <double> lambda_eg;
+    std::vector <double> voter_rates;
     std::vector <double> theoretical_taus;
     std::vector <double> theoretical_taus_lambda;
     std::vector <Language> languages;
@@ -58,6 +58,7 @@ class World {
     Language randomLanguage(void);
     Language getLanguage(int);
     void step(void);
+    void predictTaus(void);
     void writeOut(int);
     double getFeatureDensity(int);
     double getIsoglossDensity(int);

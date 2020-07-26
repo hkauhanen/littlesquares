@@ -13,6 +13,12 @@ Language World::getLanguage(int i) {
   return languages[i - 1];
 }
 
+void World::predictTaus(void) {
+  for (int i=0; i<no_of_features; i++) {
+    theoretical_taus.push_back(((1 - voter_rates[i])*(ingress_rates[i] + egress_rates[i]) + voter_rates[i]*(lambda_in[i] + lambda_eg[i]))/(voter_rates[i]*(1 - (lambda_in[i] + lambda_eg[i]))));
+  }
+}
+
 void World::step(void) {
   // Target a random language during this time step, one that has neighbours
   //Language target_language = randomLanguage();
@@ -32,7 +38,7 @@ void World::step(void) {
   if (randomProbGenerator->get() < branching_rate) {
     // Branching
     target_language.setFeatureValues(donor_language.getFeatureValues());
-  } else if (randomProbGenerator->get() < voter_rate) {
+  } else if (randomProbGenerator->get() < voter_rates[target_feature - 1]) {
     // Voter
     if (donor_language.spinIsDown(target_feature)) {
       // Voter-ingress
@@ -81,7 +87,7 @@ void World::writeOut(int iteration) {
     outfile << ",";
     outfile << branching_rate;
     outfile << ",";
-    outfile << voter_rate;
+    outfile << voter_rates[f];
     outfile << ",";
     outfile << ingress_rates[f];
     outfile << ",";
@@ -100,8 +106,8 @@ void World::writeOut(int iteration) {
     outfile << invertHtau(sigma/(2*rho*(1-rho)));
     outfile << ",";
     outfile << theoretical_taus[f];
-    outfile << ",";
-    outfile << theoretical_taus_lambda[f];
+    //outfile << ",";
+    //outfile << theoretical_taus_lambda[f];
     outfile << "\n";
   }
 }

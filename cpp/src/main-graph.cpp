@@ -13,7 +13,7 @@
 int main(int argc, char *argv[]) {
   // Program name and version number
   std::string program = "littlesquares-graph";
-  std::string version = "0.2";
+  std::string version = "0.3";
 
   // Use a clock to measure execution time
   clock_t execstart, execfinish;
@@ -24,7 +24,6 @@ int main(int argc, char *argv[]) {
   int iterations = -1;
   int measurement_phase = -1;
   double branching_rate = -1;
-  double voter_rate = -1;
   std::string infile = "";
   std::string outfile = "";
   std::string taufile = "";
@@ -37,13 +36,12 @@ int main(int argc, char *argv[]) {
   std::cout << "-------------" << std::endl;
 
   // Read in command-line arguments
-  const char* const short_opts = "i:m:g:b:v:p:o:t:";
+  const char* const short_opts = "i:m:g:b:p:o:t:";
   const option long_opts[] = {
     {"iterations", required_argument, nullptr, 'i'},
     {"measurementphase", required_argument, nullptr, 'm'},
     {"graphfile", required_argument, nullptr, 'g'},
     {"branchingrate", required_argument, nullptr, 'b'},
-    {"voterrate", required_argument, nullptr, 'v'},
     {"parameterfile", required_argument, nullptr, 'p'},
     {"outfile", required_argument, nullptr, 'o'},
     {"taufile", required_argument, nullptr, 't'}
@@ -66,9 +64,6 @@ int main(int argc, char *argv[]) {
         break;
       case 'b':
         branching_rate = std::atof(optarg);
-        break;
-      case 'v':
-        voter_rate = std::atof(optarg);
         break;
       case 'p':
         infile = optarg;
@@ -103,10 +98,6 @@ int main(int argc, char *argv[]) {
   if (branching_rate < 0 || branching_rate > 1) {
     std::cerr << errstart + "branchingrate" + errend << std::endl;
   }
-  if (voter_rate < 0 || voter_rate > 1) {
-    std::cerr << errstart + "voterrate" + errend << std::endl;
-    failed = true;
-  }
   if (infile.length() == 0) {
     std::cerr << errstart + "parameterfile" + errend << std::endl;
     failed = true;
@@ -131,7 +122,6 @@ int main(int argc, char *argv[]) {
   std::cout << "\titerations:\t\t" << iterations << std::endl;
   std::cout << "\tmeasurementphase:\t" << measurement_phase << std::endl;
   std::cout << "\tbranchingrate:\t\t" << branching_rate << std::endl;
-  std::cout << "\tvoterrate:\t\t" << voter_rate << std::endl;
   std::cout << "\tparameterfile:\t\t" << infile << std::endl;
   std::cout << "\tgraphfile:\t\t" << graphfile << std::endl;
   std::cout << "\ttaufile:\t\t" << taufile << std::endl;
@@ -144,7 +134,7 @@ int main(int argc, char *argv[]) {
 
   // Construct world
   GraphWorld world(neighbours, ing_eg, taufile, iterations, 
-      branching_rate, voter_rate, outfile);
+      branching_rate, outfile);
 
   // Simulation
   for (int iteration=1; iteration<iterations+1; iteration++) {

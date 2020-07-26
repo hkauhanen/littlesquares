@@ -17,7 +17,7 @@ class LatticeWorld : public World {
   int side;
 
   public:
-  LatticeWorld(int, DataFrame, std::string, int, double, double, std::string);
+  LatticeWorld(int, DataFrame, std::string, int, double, std::string);
 };
 
 #endif

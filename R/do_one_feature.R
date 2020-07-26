@@ -5,10 +5,8 @@ do_one_feature <- function(feature,
                            bootstrap = TRUE,
                            neighbourhood_size = 10,
                            reps = 1,
-                           featurefile = "../conf/unsilly-features.csv",
                            data = ritwals::WALS[ritwals::WALS$genus != "Sign Languages", ],
                            verbose = TRUE) {
-  featurelist <- read.csv(featurefile)
   featureinfo <- featurelist[featurelist$feature==feature, ]
   ups <- as.numeric(unlist(strsplit(as.character(featureinfo$up), ",")))
   downs <- as.numeric(unlist(strsplit(as.character(featureinfo$down), ",")))

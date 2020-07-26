@@ -12,9 +12,10 @@ job <- as.numeric(args[2])
 seed <- hipster::seed_seed(seed=2020+1, n=job)
 
 # prepare
-wals_neighbours <- read.csv("../../conf/wals-distances-100closest.csv")
-tau_hash <- read.csv("../../conf/tau-hash.csv")
-unsillies <- read.csv("../../conf/unsilly-features.csv")
+load("../../conf/wals_neighbours.RData")
+load("../../conf/tau_hash.RData")
+load("../../conf/featurelist.RData")
+unsillies <- featurelist
 unsillies <- unsillies[unsillies$sample.size >= 300, ]
 feat <- hipster::factor2character(unsillies[job, ]$feature)
 reps <- 1000
@@ -26,9 +27,8 @@ res <- do_one_feature(feat,
                       bootstrap=TRUE,
                       neighbourhood_size=10,
                       reps=reps,
-                      featurefile="../../conf/unsilly-features.csv",
                       data=WALS_nosign,
-		      verbose=FALSE)
+                      verbose=FALSE)
 res$rep <- 1:reps
 
 # writeout

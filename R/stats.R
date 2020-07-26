@@ -18,7 +18,7 @@ correlate_OWNW <- function(df,
                            method = "spearman") {
   dfOW <- df[df$area=="OW", ]
   dfNW <- df[df$area=="NW", ]
-  
+
   dfOW <- aggregate(dfOW[, 2:4], list(dfOW$feature_ID), median, na.rm=TRUE)
   dfNW <- aggregate(dfNW[, 2:4], list(dfNW$feature_ID), median, na.rm=TRUE)
 
@@ -50,9 +50,9 @@ correlate_with_dediu <- function(df,
   df <- merge_with_dediu(df, neighbourhood_size=neighbourhood_size)
 
   if (no_of_knockouts > 0) {
-  knockouts <- hipster::knockout_lm(df, PC1~temperature, id.var="feature_ID")
-  knockouts <- knockouts[1:no_of_knockouts, ]
-  df <- df[!(df$feature_ID %in% knockouts$knockee), ]
+    knockouts <- hipster::knockout_lm(df, PC1~temperature, id.var="feature_ID")
+    knockouts <- knockouts[1:no_of_knockouts, ]
+    df <- df[!(df$feature_ID %in% knockouts$knockee), ]
     print(knockouts)
   }
 

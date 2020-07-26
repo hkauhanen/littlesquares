@@ -15,7 +15,7 @@
 
 class GraphWorld : public World {
   public:
-  GraphWorld(StringFrame, DataFrame, std::string, int, double, double, std::string);
+  GraphWorld(StringFrame, DataFrame, std::string, int, double, std::string);
 };
 
 #endif

@@ -77,3 +77,14 @@ ggplot.dediu <- function(df = read.csv("../data/main-analysis.csv"),
 }
 
 
+# Illustration of stationary distribution of model
+ggplot.stationary <- function(file = "../simulations/forfigure/output/res.csv") {
+  df <- read.csv(file)
+  g <- ggplot(df, aes(x=rho, y=sigma, color=factor(tau_predicted))) + geom_point() + xlim(0,1) + ylim(0,0.5)
+  g <- g + theme_bw()
+  taus <- unique(df$tau_predicted)
+  taudf <- expand.grid(tau_predicted=taus, rho=seq(from=0, to=1, length.out=100))
+  taudf$sigma <- 2*Htau(taudf$tau_predicted)*taudf$rho*(1 - taudf$rho)
+  g <- g + geom_line(data=taudf, aes(x=rho, y=sigma, color=factor(tau_predicted)))
+  g
+}
