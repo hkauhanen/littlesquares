@@ -106,6 +106,6 @@ FIXME
 
 ## How to cite
 
-All code in this repository is provided as free software under the [GNU GPL-3.0 license](LICENSE). If you use/adapt it, please provide a link to the repository and cite the paper:
+All code in this repository is provided as free software under the [GNU GPL-3.0 license](LICENSE). If you find it useful, please provide a link to the repository (<https://github.com/hkauhanen/littlesquares/>) and cite the paper:
 
 > Kauhanen, Henri, Deepthi Gopal, Tobias Galla & Ricardo Bermúdez-Otero (2018) "Geospatial distributions reflect rates of evolution of features of language". <https://arxiv.org/abs/1801.09637>
