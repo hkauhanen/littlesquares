@@ -132,7 +132,43 @@ sge_to_data("../sge/neighbourhoods/results", "../data/neighbourhoods.csv")
 sge_to_data("../sge/OWNW/results", "../data/OWNW.csv")
 ```
 
-Statistics and plotting routines look for these aggregated CSV files (in the `data`) folder by default.
+Statistics and plotting routines look for these aggregated CSV files (in the `data` folder) by default.
+
+#### Statistics
+
+First, source the necessary scripts:
+
+``` r
+source("../R/stats.R")
+```
+
+To run the correlation test of temperatures against the PC1 values from [Dediu's phylogenetic stability analysis](https://doi.org/10.1098/rspb.2010.1595):
+
+``` r
+correlate_with_dediu(no_of_knockouts=4)
+```
+
+To correlate temperatures measured on the two hemispheres separately:
+
+``` r
+correlate_OWNW()
+```
+
+To correlate temperatures resulting from assuming *k* = 10 nearest neighbours in the geospatial analysis against assuming other values of *k*:
+
+``` r
+correlate_over_neighbourhood_size(reference=10)
+```
+
+#### Figures
+
+Source scripts:
+
+``` r
+source("../R/plots.R")
+```
+
+The packages ggplot2, ggrepel, gridExtra, RColorBrewer, shades and viridis are required by the plotting routines; if any of these are missing, install first.
 
 
 ## How to cite
