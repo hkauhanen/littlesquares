@@ -121,7 +121,18 @@ The Old World – New World comparison reported in the SI can be effected by sub
 FIXME
 
 
-### 8. Figures and tables
+### 8. Statistics, figures and tables
+
+Assuming that the temperature analyses have been run on SGE as above outlined, the results (which are scattered across multiple CSV files) can be aggregated together as follows:
+
+``` r
+source("../R/aggregate_data.R")
+sge_to_data("../sge/main-analysis/results", "../data/main-analysis.csv")
+sge_to_data("../sge/neighbourhoods/results", "../data/neighbourhoods.csv")
+sge_to_data("../sge/OWNW/results", "../data/OWNW.csv")
+```
+
+Statistics and plotting routines look for these aggregated CSV files (in the `data`) folder by default.
 
 
 ## How to cite
