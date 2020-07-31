@@ -19,6 +19,7 @@ Data analysis routines are written in R (see folder `R`); to facilitate bootstra
 * `Rsession`: R session for data analysis
 * `sge`: Scripts to conduct analyses on a SGE (Son of Grid Engine) based parallel computing cluster, plus results of these analyses
 * `simulations`: Simulations, along with input parameter files and output
+* `tex`: LaTeX source for some figures and tables
 * `OLD`: Old stuff. Will be deleted (or archived) eventually, once all the important bits have been incorporated into the new directory structure.
 
 
@@ -166,9 +167,35 @@ Source scripts:
 
 ``` r
 source("../R/plots.R")
+source("../R/interpolations.R")
 ```
 
-The packages ggplot2, ggrepel, gridExtra, RColorBrewer, shades and viridis are required by the plotting routines; if any of these are missing, install first.
+The packages ggplot2, ggrepel, gridExtra, mapproj, maps, maptools, phylin, RColorBrewer, shades and stringr are required by the plotting routines; if any of these are missing, install first.
+
+First, we generate the required data for the feature interpolation maps:
+
+``` r
+interpol_37A <- interpolate_feature("37A")
+interpol_83A <- interpolate_feature("83A")
+save(interpol_37A, file="../data/interpol_37A.RData")
+save(interpol_83A, file="../data/interpol_83A.RData")
+```
+
+To plot everything for the main paper, use the following function – note that this will call `xelatex` to compose some of the figures, and that the total runtime is on the order of 2 minutes:
+
+``` r
+plot_everything()
+```
+
+Output is to `../plots/Fig*.pdf`.
+
+To plot the figures for the SI:
+
+FIXME
+
+#### Tables
+
+FIXME
 
 
 ## How to cite
