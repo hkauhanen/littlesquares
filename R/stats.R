@@ -1,10 +1,9 @@
-merge_with_dediu <- function(df,
-                             neighbourhood_size,
+# Merge our dataset with Dediu's
+merge_with_dediu <- function(df = read.csv("../data/main-analysis.csv"),
                              dediufile = "../data/dediu-2010/binary.csv") {
   dediu <- read.csv(dediufile)
   names(dediu)[1] <- "feature_ID"
 
-  df <- df[df$neighbourhood_size==neighbourhood_size, ]
   df <- aggregate(df[, 2:4], list(df$feature_ID), median, na.rm=TRUE)
   names(df)[1] <- "feature_ID"
 
@@ -14,15 +13,15 @@ merge_with_dediu <- function(df,
 }
 
 
-correlate_OWNW <- function(df,
-                           method = "spearman") {
-  dfOW <- df[df$area=="OW", ]
-  dfNW <- df[df$area=="NW", ]
+# Correlate medians of temperatures for the OW and NW subsets
+correlate_OWNW <- function(df = read.csv("../data/OWNW.csv")) {
+  df <- aggregate(df[, 2:4], list(df$feature_ID, df$hemisphere), median, na.rm=TRUE)
+  names(df)[1:2] <- c("feature_ID", "hemisphere")
 
-  dfOW <- aggregate(dfOW[, 2:4], list(dfOW$feature_ID), median, na.rm=TRUE)
-  dfNW <- aggregate(dfNW[, 2:4], list(dfNW$feature_ID), median, na.rm=TRUE)
+  dfOW <- df[df$hemisphere=="OW", ]
+  dfNW <- df[df$hemisphere=="NW", ]
 
-  cor.test(log(dfOW$temperature), log(dfNW$temperature), method=method)
+  cor.test(dfOW$temperature, dfNW$temperature, method="spearman")
 }
 
 
@@ -43,11 +42,10 @@ correlate_spatially_subsequent <- function(df,
 }
 
 
-correlate_with_dediu <- function(df,
-                                 neighbourhood_size,
-                                 method = "spearman",
-                                 no_of_knockouts = 0) {
-  df <- merge_with_dediu(df, neighbourhood_size=neighbourhood_size)
+# Correlate temperature against Dediu's PC1
+correlate_with_dediu <- function(method = "spearman",
+                                 no_of_knockouts = 4) {
+  df <- merge_with_dediu()
 
   if (no_of_knockouts > 0) {
     knockouts <- hipster::knockout_lm(df, PC1~temperature, id.var="feature_ID")
@@ -62,13 +60,13 @@ correlate_with_dediu <- function(df,
 }
 
 
-correlate_over_neighbourhood_size <- function(df,
-                                              testee = 1,
+correlate_over_neighbourhood_size <- function(df = read.csv("../data/neighbourhoods.csv"),
+                                              reference = 1,
                                               method = "spearman") {
   sizes <- unique(df$neighbourhood_size)
   out <- data.frame(neighbourhood_size=as.numeric(sizes), correlation=NA, p.value=NA)
   for (s in sizes) {
-    df1 <- df[df$neighbourhood_size==testee, ]
+    df1 <- df[df$neighbourhood_size==reference, ]
     df1 <- aggregate(df1[, 2:4], list(df1$feature_ID), median, na.rm=TRUE)
     df2 <- df[df$neighbourhood_size==s, ]
     df2 <- aggregate(df2[, 2:4], list(df2$feature_ID), median, na.rm=TRUE)
@@ -86,7 +84,7 @@ figure_out_best_neighbourhood_size <- function(df,
   bestcorsum <- -2
   best_size <- NA
   for (s in sizes) {
-    here <- correlate_over_neighbourhood_size(df=df, testee=s, method=method)
+    here <- correlate_over_neighbourhood_size(df=df, reference=s, method=method)
     corsum <- sum(here$correlation)
     if (corsum > bestcorsum) {
       bestcorsum <- corsum
