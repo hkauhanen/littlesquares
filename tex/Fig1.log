@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.7.2)  31 JUL 2020 22:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.7.2)  1 AUG 2020 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Fig1.tex
+**Fig1
 (./Fig1.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
@@ -902,9 +902,11 @@ LaTeX Font Info:    ... okay on input line 31.
 
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 59.
+(Font)              <12> on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 59.
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 59.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1355,16 +1357,20 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 262.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 262.
  [1
 
 ] (./Fig1.aux) ) 
 Here is how much of TeX's memory you used:
- 23269 strings out of 479819
- 558818 string characters out of 5895847
- 1022021 words of memory out of 5000000
- 39843 multiletter control sequences out of 15000+600000
- 532482 words of font info for 42 fonts, out of 8000000 for 9000
+ 23321 strings out of 479819
+ 559727 string characters out of 5895847
+ 1026468 words of memory out of 5000000
+ 39881 multiletter control sequences out of 15000+600000
+ 535266 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,5n,91p,2055b,712s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,91p,2049b,716s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Fig1.pdf (1 page).
