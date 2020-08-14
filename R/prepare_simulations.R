@@ -3,8 +3,9 @@
 
 # Sample each of pI, pE, pI', pE' and q at random
 prepare_simulations_random <- function(file,
-                                       n_features) {
-  df <- data.frame(matrix(runif(n=n_features*5, min=0, max=0.5), ncol=5))
+                                       n_features = 100) {
+  df <- data.frame(matrix(runif(n=n_features*4, min=0, max=0.25), ncol=4))
+  df <- cbind(df, runif(n=n_features, min=0.5, max=0.95))
   write.table(df, file=file, sep=",", row.names=FALSE, col.names=FALSE)
 }
 

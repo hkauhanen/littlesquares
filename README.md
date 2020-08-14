@@ -119,7 +119,36 @@ The Old World – New World comparison reported in the SI can be effected by sub
 
 ### 7. Numerical simulations of model
 
-FIXME
+To establish that our formulae for stationary-state feature frequency, isogloss density and temperature are representative of the full model (for which no analytical solution is available), we run numerical simulations of the lattice model.
+
+To produce the parameter file required by the model implementation:
+
+``` r
+source("../R/prepare_simulations.R")
+prepare_simulations_random("../simulations/fullmodel/ie.csv", n_features=100)
+```
+
+The simulations can now be run by `cd`ing to the `simulations/fullmodel` directory and executing the batch file there:
+
+``` bash
+sh batch.sh
+```
+
+Runtime is about one minute, and output is to `results.csv` in the same directory.
+
+To explore the assumption of a regular lattice, we also simulate on a spatial graph inferred from the WALS atlas. Again, first create the parameter file:
+
+``` r
+prepare_simulations_random("../simulations/graph/ie.csv", n_features=100)
+```
+
+To run the simulations, use the following batch in the `simulations/graph` folder:
+
+``` bash
+sh batch.sh
+```
+
+Output is to `results.csv` in the same directory.
 
 
 ### 8. Statistics, figures and tables
@@ -131,6 +160,7 @@ source("../R/aggregate_data.R")
 sge_to_data("../sge/main-analysis/results", "../data/main-analysis.csv")
 sge_to_data("../sge/neighbourhoods/results", "../data/neighbourhoods.csv")
 sge_to_data("../sge/OWNW/results", "../data/OWNW.csv")
+sge_to_data("../sge/genetic/results", "../data/genetic.csv")
 ```
 
 Statistics and plotting routines look for these aggregated CSV files (in the `data` folder) by default.
@@ -161,6 +191,20 @@ To correlate temperatures resulting from assuming *k* = 10 nearest neighbours in
 correlate_over_neighbourhood_size(reference=10)
 ```
 
+To find the correlation between predicted and measured quantities from numerical simulation of the full model, use the following function, where the `variable` argument specifies the variable for which to correlate predicted vs. measured (`"rho"`, `"sigma"` or `"tau"`):
+``` r
+correlate_fullmodel(variable="rho")
+```
+
+To find the corresponding correlations for the model implemented on an adjacency graph, do:
+
+``` r
+correlate_fullmodel(df=read.csv("../simulations/graph/results.csv"), variable="rho")
+```
+
+etc.
+
+
 #### Figures
 
 Source scripts:
@@ -181,21 +225,13 @@ save(interpol_37A, file="../data/interpol_37A.RData")
 save(interpol_83A, file="../data/interpol_83A.RData")
 ```
 
-To plot everything for the main paper, use the following function – note that this will call `xelatex` to compose some of the figures, and that the total runtime is on the order of 2 minutes:
+To plot everything for the main paper and the SI, use the following function – note that this will call `xelatex` to compose some of the figures. Total runtime is on the order of 2½ minutes:
 
 ``` r
 plot_everything()
 ```
 
-Output is to `../plots/Fig*.pdf`.
-
-To plot the figures for the SI:
-
-FIXME
-
-#### Tables
-
-FIXME
+Output is to `../plots/Fig*.pdf`. Table 1 of the main paper will also be printed, as will the list of WALS features and feature levels for the SI.
 
 
 ## How to cite

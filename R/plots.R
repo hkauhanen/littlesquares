@@ -6,6 +6,7 @@ require(shades)
 require(maps)
 require(mapproj)
 source("../R/stats.R")
+source("../R/tables.R")
 
 
 # plot all figures for paper; NB xelatex is needed!
@@ -30,7 +31,7 @@ plot_everything <- function(plot_interpolations = TRUE) {
 
   # temperatures
   pdf("../plots/Fig4.pdf", height=6, width=8)
-  ggplot.temperatures()
+  ggplot.temperatures.box()
   dev.off()
 
   # correlations with Dediu
@@ -47,6 +48,27 @@ plot_everything <- function(plot_interpolations = TRUE) {
   system("xelatex Fig5.tex")
   system("cp Fig1.pdf Fig2.pdf Fig3.pdf Fig5.pdf ../plots")
   setwd(old_wd)
+
+  # Table 1
+  print_results(outfile="../plots/Table1.tex")
+
+  # SI, WALS levels
+  print_WALS_levels()
+
+  # SI, fig 1
+  pdf("../plots/SI_Fig1.pdf", height=2.7, width=8)
+  ggplot.fullmodel()
+  dev.off()
+
+  # SI, fig 2
+  pdf("../plots/SI_Fig2.pdf", height=4, width=8)
+  ggplot.spatialscale()
+  dev.off()
+
+  # SI, fig 3
+  pdf("../plots/SI_Fig3.pdf", height=2.7, width=8)
+  ggplot.fullmodel(read.csv("../simulations/graph/results.csv"))
+  dev.off()
 }
 
 
@@ -92,7 +114,7 @@ ggplot.main_result <- function(df = read.csv("../data/main-analysis.csv")) {
 }
 
 
-# Temperatures of features; boxplots
+# Temperatures of features
 ggplot.temperatures <- function(df = read.csv("../data/main-analysis.csv"),
                                 descriptions = TRUE,
                                 sillyfile = "../conf/unsilly-features.csv") {
@@ -102,7 +124,55 @@ ggplot.temperatures <- function(df = read.csv("../data/main-analysis.csv"),
   for (i in 1:nrow(df)) {
     #stringi <- paste(df[i,]$feature_ID, sillies[sillies$feature==as.character(df[i,]$feature_ID), ]$description, sep=": ")
     stringi <- sillies[sillies$feature==as.character(df[i,]$feature_ID), ]$description
-    stringi <- stringr::str_to_sentence(stringi)
+    #stringi <- stringr::str_to_sentence(stringi)
+    stringi <- paste(stringi, " (", df[i,]$feature_ID, ")", sep="")
+    stringi <- stringr::str_replace_all(stringi, pattern="\\\\emph\\{", replacement="")
+    stringi <- stringr::str_replace_all(stringi, pattern="\\}", replacement="")
+    df[i,]$feature_ID2 <- stringi
+  }
+  df$feature_ID <- df$feature_ID2
+  }
+
+  #df <- df[df$temperature < 1000, ]
+
+  dfmed <- aggregate(df[, 2:4], list(df$feature_ID), median, na.rm=TRUE)
+  names(dfmed)[1] <- "feature_ID"
+  names(dfmed)[2] <- "med_temp"
+  dfmed$CI_low <- 0
+  dfmed$CI_high <- 0
+  #df <- merge(df, dfmed, by="feature_ID")
+
+  for (i in 1:nrow(dfmed)) {
+    dfhere <- df[df$feature_ID==dfmed[i,]$feature_ID, ]
+    values <- quantile(dfhere$temperature, probs=c(0.025, 0.975), na.rm=TRUE)
+    dfmed[i,]$CI_low <- values[1]
+    dfmed[i,]$CI_high <- values[2]
+  }
+
+  mycolors <- colorRampPalette(brewer.pal(8, "Spectral"))(35)
+  mycolors <- brightness(saturation(mycolors, 1), 0.9)
+  breaks <- 10^(-10:10)
+  minor_breaks <- rep(1:9, 21)*(10^rep(-10:10, each=9))
+  #g <- ggplot(df, aes(x=reorder(df$feature_ID, temperature, FUN=median, na.rm=TRUE), y=temperature, color=feature_ID)) + geom_boxplot(outlier.shape=NA) + scale_y_log10(breaks=breaks, minor_breaks=minor_breaks, limits=c(1e-06, 20)) + coord_flip() + theme_bw() + theme(legend.position="none", axis.text.x=element_text(color="black", size=10), axis.text.y=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank()) + scale_color_manual(values=mycolors) + ylab(expression("Temperature"~tau)) + xlab("")
+  #g <- ggplot(df, aes(x=reorder(df$feature_ID, temperature, FUN=median, na.rm=TRUE), y=temperature, group=feature_ID, fill=log(med_temp))) + geom_boxplot(outlier.shape=NA, alpha=0.5) + scale_y_log10(breaks=breaks, minor_breaks=minor_breaks, labels=fancy_scientific, limits=c(1e-06, 20)) + coord_flip() + theme_bw() + theme(legend.position="none", axis.text.x=element_text(color="black", size=10), axis.text.y=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank()) + ylab(expression("Temperature"~tau)) + xlab("")
+  g <- ggplot(dfmed, aes(x=reorder(dfmed$feature_ID, med_temp), y=med_temp, fill=log(med_temp))) + geom_point(shape=21) + geom_pointrange(aes(ymin=CI_low, ymax=CI_high)) + coord_flip() + theme_bw() + scale_y_log10(breaks=breaks, minor_breaks=minor_breaks, labels=fancy_scientific, limits=c(1e-06, 20)) + coord_flip() + theme_bw() + theme(legend.position="none", axis.text.x=element_text(color="black", size=10), axis.text.y=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank()) + ylab(expression("Temperature"~tau)) + xlab("")
+  g <- g + scale_fill_distiller(palette="RdYlBu")
+  #g <- g + scale_x_discrete(position="top")
+  print(g)
+}
+
+
+# Temperatures of features; boxplots
+ggplot.temperatures.box <- function(df = read.csv("../data/main-analysis.csv"),
+                                descriptions = TRUE,
+                                sillyfile = "../conf/unsilly-features.csv") {
+  if (descriptions) {
+  sillies <- read.csv(sillyfile)
+  df$feature_ID2 <- NA
+  for (i in 1:nrow(df)) {
+    #stringi <- paste(df[i,]$feature_ID, sillies[sillies$feature==as.character(df[i,]$feature_ID), ]$description, sep=": ")
+    stringi <- sillies[sillies$feature==as.character(df[i,]$feature_ID), ]$description
+    #stringi <- stringr::str_to_sentence(stringi)
     stringi <- paste(stringi, " (", df[i,]$feature_ID, ")", sep="")
     stringi <- stringr::str_replace_all(stringi, pattern="\\\\emph\\{", replacement="")
     stringi <- stringr::str_replace_all(stringi, pattern="\\}", replacement="")
@@ -121,7 +191,7 @@ ggplot.temperatures <- function(df = read.csv("../data/main-analysis.csv"),
   breaks <- 10^(-10:10)
   minor_breaks <- rep(1:9, 21)*(10^rep(-10:10, each=9))
   #g <- ggplot(df, aes(x=reorder(df$feature_ID, temperature, FUN=median, na.rm=TRUE), y=temperature, color=feature_ID)) + geom_boxplot(outlier.shape=NA) + scale_y_log10(breaks=breaks, minor_breaks=minor_breaks, limits=c(1e-06, 20)) + coord_flip() + theme_bw() + theme(legend.position="none", axis.text.x=element_text(color="black", size=10), axis.text.y=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank()) + scale_color_manual(values=mycolors) + ylab(expression("Temperature"~tau)) + xlab("")
-  g <- ggplot(df, aes(x=reorder(df$feature_ID, temperature, FUN=median, na.rm=TRUE), y=temperature, group=feature_ID, fill=log(med_temp))) + geom_boxplot(outlier.shape=NA) + scale_y_log10(breaks=breaks, minor_breaks=minor_breaks, labels=fancy_scientific, limits=c(1e-06, 20)) + coord_flip() + theme_bw() + theme(legend.position="none", axis.text.x=element_text(color="black", size=10), axis.text.y=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank()) + ylab(expression("Temperature"~tau)) + xlab("")
+  g <- ggplot(df, aes(x=reorder(df$feature_ID, temperature, FUN=median, na.rm=TRUE), y=temperature, group=feature_ID, fill=log(med_temp))) + geom_boxplot(outlier.shape=NA, alpha=0.5) + scale_y_log10(breaks=breaks, minor_breaks=minor_breaks, labels=fancy_scientific, limits=c(1e-06, 20)) + coord_flip() + theme_bw() + theme(legend.position="none", axis.text.x=element_text(color="black", size=10), axis.text.y=element_text(color="black", size=9), axis.title=element_text(size=14), panel.grid.minor=element_blank()) + ylab(expression("Temperature"~tau)) + xlab("")
   g <- g + scale_fill_distiller(palette="RdYlBu")
   g <- g + scale_x_discrete(position="top")
   print(g)
@@ -397,4 +467,30 @@ plot_snapshots <- function() {
   lat <- matrix(as.numeric(read.table("../fortran/results/snapshot_0001.tab", sep="")), ncol=50)
   image(lat, xaxt="n", yaxt="n", col=c("#edf8b1", "#2c7fb8"))
   dev.off()
+}
+
+
+# full model correlations between predictions and measurements
+ggplot.fullmodel <- function(df = read.csv("../simulations/fullmodel/results.csv")) {
+  df$rho_predicted <- ((1 - df$voter_rate)*df$ingress_rate + df$voter_rate*df$horiz_ingress_rate)/((1 - df$voter_rate)*(df$ingress_rate + df$egress_rate) + df$voter_rate*(df$horiz_ingress_rate + df$horiz_egress_rate))
+  df$sigma_predicted <- 2*Htau(df$tau_predicted)*df$rho_predicted*(1 - df$rho_predicted)
+
+  g1 <- ggplot(df, aes(x=rho, y=rho_predicted)) + geom_point(alpha=0.5) + geom_smooth(method=lm) + xlim(0,1) + ylim(0,1) + theme_bw() + xlab(expression(rho~"measured")) + ylab(expression(rho~"predicted")) + theme(panel.grid.minor=element_blank()) + coord_flip()
+  g2 <- ggplot(df, aes(x=sigma, y=sigma_predicted)) + geom_point(alpha=0.5) + geom_smooth(method=lm) + xlim(0,0.5) + ylim(0, 0.5) + theme_bw() + xlab(expression(sigma~"measured")) + ylab(expression(sigma~"predicted")) + theme(panel.grid.minor=element_blank()) + coord_flip()
+  g3 <- ggplot(df[df$tau < 1000, ], aes(x=tau, y=tau_predicted)) + geom_point(alpha=0.5) + geom_smooth(method=lm) + scale_x_log10() + scale_y_log10() + theme_bw() + xlab(expression(tau~"measured")) + ylab(expression(tau~"predicted")) + theme(panel.grid.minor=element_blank()) + coord_flip()
+
+  g <- grid.arrange(g1, g2, g3, ncol=3)
+  print(g)
+}
+
+
+# spatial scale correlations
+ggplot.spatialscale <- function() {
+  df <- correlate_over_neighbourhood_size()
+  df2 <- read.csv("../conf/wals-distances-100closest.csv")
+  df2 <- df2[df2$rank %in% c(1, 10, 50), ]
+  g <- ggplot(df, aes(x=neighbourhood_size, y=correlation)) + geom_point() + theme_bw() + theme(panel.grid.minor=element_blank()) + xlab(expression("neighbourhood size"~italic(k))) + ylab(expression("Spearman correlation"~italic(r)[italic(S)]~"against"~italic(k)==10)) + ylim(0.85,1)
+  g2 <- ggplot(df2, aes(x=distance, fill=factor(rank))) + geom_density(alpha=0.5) + theme_bw() + theme(panel.grid.minor=element_blank(), legend.position="top") + scale_fill_brewer(palette="Dark2", name="neighbour rank") + ylab("") + xlab("distance (km) to neighbour")
+  g <- grid.arrange(g, g2, ncol=2)
+  print(g)
 }

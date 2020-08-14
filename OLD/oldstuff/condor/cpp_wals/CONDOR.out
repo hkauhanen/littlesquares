@@ -1,0 +1,15 @@
+-------------
+littlesquares-graph
+version: 0.1
+-------------
+Parameter values supplied:
+	iterations:		12250000
+	measurementphase:	1
+	branchingrate:		0
+	voterrate:		0.5
+	parameterfile:		input/ingress_egress_rates.csv
+	graphfile:		input/WALS_neighbours_4closest.csv
+	taufile:		input/tau_hash.csv
+	outfile:		../res.cpp_wals.148943.90.csv
+Running... done!
+12250000 iterations completed in 48.0908 seconds, output written to ../res.cpp_wals.148943.90.csv.

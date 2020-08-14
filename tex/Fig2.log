@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.7.2)  1 AUG 2020 11:27
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.7.2)  5 AUG 2020 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Fig2
+**Fig2.tex
 (./Fig2.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
@@ -910,7 +910,7 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 67.
+(Font)              <5> on input line 72.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -939,12 +939,12 @@ Missing character: There is no ; in font nullfont!
 
 ] (./Fig2.aux) ) 
 Here is how much of TeX's memory you used:
- 23122 strings out of 479819
- 556254 string characters out of 5895847
- 913948 words of memory out of 5000000
- 39699 multiletter control sequences out of 15000+600000
- 532458 words of font info for 39 fonts, out of 8000000 for 9000
+ 23131 strings out of 479819
+ 556450 string characters out of 5895847
+ 915000 words of memory out of 5000000
+ 39707 multiletter control sequences out of 15000+600000
+ 532466 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,5n,91p,837b,604s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,91p,841b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Fig2.pdf (1 page).

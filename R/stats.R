@@ -1,3 +1,6 @@
+source("../R/preprocess-tauhash.R")
+
+
 # Merge our dataset with Dediu's
 merge_with_dediu <- function(df = read.csv("../data/main-analysis.csv"),
                              dediufile = "../data/dediu-2010/binary.csv") {
@@ -10,6 +13,23 @@ merge_with_dediu <- function(df = read.csv("../data/main-analysis.csv"),
   df <- merge(df, dediu, by="feature_ID")
 
   df
+}
+
+
+correlate_fullmodel <- function(df = read.csv("../simulations/fullmodel/results.csv"),
+                                variable,
+                                method = "spearman") {
+  df$rho_predicted <- ((1 - df$voter_rate)*df$ingress_rate + df$voter_rate*df$horiz_ingress_rate)/((1 - df$voter_rate)*(df$ingress_rate + df$egress_rate) + df$voter_rate*(df$horiz_ingress_rate + df$horiz_egress_rate))
+  df$sigma_predicted <- 2*Htau(df$tau_predicted)*df$rho_predicted*(1 - df$rho_predicted)
+
+  if (variable == "rho") {
+    cor.test(df$rho, df$rho_predicted, method=method)
+  } else if (variable == "sigma") {
+    cor.test(df$sigma, df$sigma_predicted, method=method)
+  } else if (variable == "tau") {
+    df <- df[df$tau < 1000, ]
+    cor.test(df$tau, df$tau_predicted, method=method)
+  }
 }
 
 
@@ -61,7 +81,7 @@ correlate_with_dediu <- function(method = "spearman",
 
 
 correlate_over_neighbourhood_size <- function(df = read.csv("../data/neighbourhoods.csv"),
-                                              reference = 1,
+                                              reference = 10,
                                               method = "spearman") {
   sizes <- unique(df$neighbourhood_size)
   out <- data.frame(neighbourhood_size=as.numeric(sizes), correlation=NA, p.value=NA)
@@ -70,7 +90,7 @@ correlate_over_neighbourhood_size <- function(df = read.csv("../data/neighbourho
     df1 <- aggregate(df1[, 2:4], list(df1$feature_ID), median, na.rm=TRUE)
     df2 <- df[df$neighbourhood_size==s, ]
     df2 <- aggregate(df2[, 2:4], list(df2$feature_ID), median, na.rm=TRUE)
-    here <- cor.test(log(df1$temperature), log(df2$temperature), method=method)
+    here <- cor.test(df1$temperature, df2$temperature, method=method)
     out[out$neighbourhood_size==s, ]$correlation <- here$estimate
     out[out$neighbourhood_size==s, ]$p.value <- here$p.value
   }
@@ -118,4 +138,19 @@ correlate_cpp <- function(df,
   df <- df[df$iteration==iteration, ]
   df <- df[df$tau < 1000, ] # boundary of tau hash
   cor.test(log(df$tau), log(df$tau_actual), method=method)
+}
+
+
+# correlate between main analysis and analysis where nearest neighbours are
+# restricted to same genetic grouping
+correlate_genetic <- function() {
+  df <- read.csv("../data/main-analysis.csv")
+  dfgen <- read.csv("../data/genetic.csv")
+
+  df <- aggregate(df[, 2:4], list(df$feature_ID), median, na.rm=TRUE)
+  dfgen <- aggregate(dfgen[, 2:4], list(dfgen$feature_ID), median, na.rm=TRUE)
+  names(df)[1] <- "feature_ID"
+  names(dfgen)[1] <- "feature_ID"
+
+  cor.test(df$temperature, dfgen$temperature, method="spearman")
 }
