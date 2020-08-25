@@ -20,7 +20,6 @@ Data analysis routines are written in R (see folder `R`); to facilitate bootstra
 * `sge`: Scripts to conduct analyses on a SGE (Son of Grid Engine) based parallel computing cluster, plus results of these analyses
 * `simulations`: Simulations, along with input parameter files and output
 * `tex`: LaTeX source for some figures and tables
-* `OLD`: Old stuff. Will be deleted (or archived) eventually, once all the important bits have been incorporated into the new directory structure.
 
 
 ## How to reproduce the analyses
