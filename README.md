@@ -113,10 +113,7 @@ The scripts in the directory `sge/neighbourhoods` can be used to deploy this ana
 The Old World – New World comparison reported in the SI can be effected by subsetting the WALS dataset suitably in the call to `do_one_feature`. The scripts in `sge/OWNW` deploy this on SGE.
 
 
-### 6. Autocorrelation analysis
-
-
-### 7. Numerical simulations of model
+### 6. Numerical simulations of model
 
 To establish that our formulae for stationary-state feature frequency, isogloss density and temperature are representative of the full model (for which no analytical solution is available), we run numerical simulations of the lattice model.
 
@@ -150,7 +147,7 @@ sh batch.sh
 Output is to `results.csv` in the same directory.
 
 
-### 8. Statistics, figures and tables
+### 7. Statistics, figures and tables
 
 Assuming that the temperature analyses have been run on SGE as above outlined, the results (which are scattered across multiple CSV files) can be aggregated together as follows:
 
