@@ -1,5 +1,7 @@
 # Temperatures of linguistic features
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4110535.svg)](https://doi.org/10.5281/zenodo.4110535)
+
 This repository contains simulation code and data analysis routines for the estimation of linguistic temperatures from the WALS atlas, as explained in the following paper:
 
 > Kauhanen, Henri, Deepthi Gopal, Tobias Galla & Ricardo Bermúdez-Otero (2018) "Geospatial distributions reflect rates of evolution of features of language". <https://arxiv.org/abs/1801.09637>
@@ -232,6 +234,6 @@ Output is to `../plots/Fig*.pdf`. Table 1 of the main paper will also be printed
 
 ## How to cite
 
-All code in this repository is provided as free software under the [GNU GPL-3.0 license](LICENSE). If you find it useful, please provide a link to the repository (<https://github.com/hkauhanen/littlesquares/>) and cite the paper:
+All code in this repository is provided as free software under the [GNU GPL-3.0 license](LICENSE). If you find it useful, please provide a link to the repository (<https://doi.org/10.5281/zenodo.4110535>) and cite the paper:
 
 > Kauhanen, Henri, Deepthi Gopal, Tobias Galla & Ricardo Bermúdez-Otero (2018) "Geospatial distributions reflect rates of evolution of features of language". <https://arxiv.org/abs/1801.09637>
